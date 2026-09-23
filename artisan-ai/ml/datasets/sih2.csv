@@ -1,0 +1,1245 @@
+state,product,district,category,sector,material,product_size,labour_hours,material_cost,product_cost,market_price,date,demand_level,quantity,season,source
+Andaman and Nicobar Islands,Coconut & Coconut based products,Nicobars,Wood Craft,Agriculture,Wood,Medium,11.9,201,1018,1387,01-01-2025,Medium,16,Winter,Artisan Survey
+Andaman and Nicobar Islands,Fisheries/Marine products,North and Middle Andaman,Textile Craft,Marine,Leather,Large,17.4,481,1734,3610,01-01-2025,Low,12,Winter,Marketplace
+Andaman and Nicobar Islands,Marine Products,South Andamans,Bamboo Craft,Marine,Metal,Medium,9.5,326,957,1796,01-01-2025,High,7,Winter,Government
+Andhra Pradesh,Coffee (Araku),Alluri Sitarama Raju,Pottery,Agriculture,Clay,Large,22,155,1660,3292,01-02-2025,Medium,19,Winter,Artisan Survey
+Andhra Pradesh,Bamboo Craft,Alluri Sitarama Raju,Metal Craft,Handicraft,Clay,Medium,11.5,108,789,1396,01-02-2025,Medium,13,Winter,Marketplace
+Andhra Pradesh,Rock Bee Honey,Alluri Sitarama Raju,Leather Craft,Food Processing,Natural Fibre,Medium,6.4,137,602,1129,01-03-2025,Medium,16,Winter,Government
+Andhra Pradesh,Etikoppaka Lacquerware/Wooden Toys,Anakapalli,Stone Craft,Handicraft,Wood,Small,4.1,148,401,629,01-03-2025,Medium,5,Winter,Craft Study
+Andhra Pradesh,Palm Leaf,Anakapalli,Natural Fibre Craft,Agriculture,Metal,Medium,10.8,287,758,1651,01-04-2025,High,14,Winter,Government
+Andhra Pradesh,Payakaraopet Silk Sarees,Anakapalli,Lacquer Craft,Handloom,Cotton,Large,14.2,331,1175,1986,01-04-2025,Medium,12,Winter,Government
+Andhra Pradesh,Cotton/Jean Pants,Anantapuram (Anantapur),Handloom Craft,Textile,Wood,Large,16.2,316,978,1455,01-05-2025,Low,3,Winter,Government
+Andhra Pradesh,Dharmavaram Silk Sarees,Ananthpuram (Anantapur),Wood Craft,Handloom,Clay,Large,23.8,173,1820,2544,01-05-2025,Medium,6,Winter,Artisan Survey
+Andhra Pradesh,Cotton / Jean Pants,Annamayya (Rayachoty),Textile Craft,Textile,Natural Fibre,Small,5.9,106,549,1038,01-06-2025,High,19,Winter,Artisan Survey
+Andhra Pradesh,Red Sander & Wood Carvings,Annamayya (Rayachoty),Bamboo Craft,Handicraft,Leather,Medium,11.3,300,1125,2459,01-06-2025,High,12,Winter,Craft Study
+Andhra Pradesh,Raja Rani Dolls,Annamayya (Rayachoty),Pottery,Handicraft,Leather,Small,5.2,178,483,1020,01-07-2025,Medium,16,Winter,Government
+Andhra Pradesh,Applique Work,Annamayya (Rayachoty),Metal Craft,Handloom,Leather,Small,3.1,213,432,841,01-07-2025,Medium,4,Winter,Artisan Survey
+Andhra Pradesh,Mandanapalle Silk Sarees,Annamayya (Rayachoty),Leather Craft,Handloom,Leather,Medium,7.2,265,766,1679,01-08-2025,Low,5,Winter,Marketplace
+Andhra Pradesh,Granite Cutting and Polishing,Bapatla,Stone Craft,Manufacturing,Clay,Medium,8.8,95,503,988,01-08-2025,Medium,19,Winter,Government
+Andhra Pradesh,Cotton Bags,Bapatla,Natural Fibre Craft,Manufacturing,Wood,Medium,8.9,163,735,1204,01-09-2025,Low,9,Winter,Government
+Andhra Pradesh,Chirala Silk Sarees,Bapatla,Lacquer Craft,Handloom,Leather,Large,17.1,433,1519,2827,01-09-2025,High,18,Winter,Artisan Survey
+Andhra Pradesh,Venkatagiri Sarees,Chittoor,Handloom Craft,Handloom,Clay,Medium,9.5,97,819,1161,01-10-2025,High,17,Winter,Government
+Andhra Pradesh,Mango Pulp,Chittoor,Wood Craft,Food processing,Clay,Large,15.7,161,1184,1822,01-10-2025,Low,7,Winter,Marketplace
+Andhra Pradesh,The Glass Beads,Chittoor,Textile Craft,Handicraft,Bamboo,Small,5,77,297,506,01-11-2025,Medium,19,Winter,Marketplace
+Andhra Pradesh,Kollangantu Tie &Dye Check Lungies,Chittoor,Bamboo Craft,Textile,Cotton,Small,3.3,141,379,577,01-11-2025,Low,16,Winter,Government
+Andhra Pradesh,Teracotta,Chittoor,Pottery,Handicraft,Natural Fibre,Medium,7.3,156,616,1331,01-12-2025,Medium,3,Winter,Craft Study
+Andhra Pradesh,Natural banana fibres,Dr BR Ambedkar Konaseema,Metal Craft,Manufacturing,Leather,Large,11.8,401,951,2089,01-12-2025,Low,2,Winter,Artisan Survey
+Andhra Pradesh,Bandaru Lanka Sarees,Dr BR Ambedkar Konaseema,Leather Craft,Handloom,Metal,Small,2.8,229,393,654,1/13/2025,Medium,3,Winter,Marketplace
+Andhra Pradesh,Angara Sarees,Dr BR Ambedkar Konaseema,Stone Craft,Handloom,Bamboo,Medium,11,142,713,1392,1/13/2025,High,15,Winter,Artisan Survey
+Andhra Pradesh,Coconut & Coir,Dr BR Ambedkar Konaseema,Natural Fibre Craft,Agriculture,Leather,Medium,8.1,280,640,1086,1/14/2025,Low,3,Winter,Marketplace
+Andhra Pradesh,Shrimp,Dr. B. R. Ambedkar Konaseema,Lacquer Craft,Marine,Clay,Small,2.9,82,308,452,1/14/2025,High,6,Winter,Artisan Survey
+Andhra Pradesh,Oil & Natural Gas,Dr. B. R. Ambedkar Konaseema,Handloom Craft,Others,Clay,Medium,10.3,88,578,946,1/15/2025,Low,9,Winter,Government
+Andhra Pradesh,Pasalapudi Sarees,Dr BR Ambedkar Konaseema,Wood Craft,Handloom,Clay,Large,17.8,138,1167,1807,1/15/2025,Medium,3,Winter,Marketplace
+Andhra Pradesh,"Fruit Based Food Products (Pickles, Mango Jelly, Fruit Pulp, Cashew nuts, Lemon extracts)",East Godavari,Textile Craft,Food processing,Cotton,Medium,5.1,243,507,826,1/16/2025,Medium,7,Winter,Government
+Andhra Pradesh,Ratnam Pens,East Godavari,Bamboo Craft,Manufacturing,Wood,Small,3.3,141,427,654,1/16/2025,High,14,Winter,Marketplace
+Andhra Pradesh,White Wood Birds,East Godavari,Pottery,Handicraft,Clay,Large,12.5,183,774,1119,1/17/2025,Low,20,Winter,Marketplace
+Andhra Pradesh,Pulagurta Clothing Shirting & Sarees,East Godavari,Metal Craft,Textile,Natural Fibre,Small,4.6,91,422,648,1/17/2025,Low,10,Winter,Government
+Andhra Pradesh,Muramunda Cotton Shirting & Sarees,East Godavari,Leather Craft,Textile,Wood,Large,13.9,323,878,1861,1/18/2025,High,15,Winter,Craft Study
+Andhra Pradesh,Veeravaram Silk Sarees,East Godavari,Stone Craft,Handloom,Natural Fibre,Small,2.3,103,270,384,1/18/2025,High,11,Winter,Government
+Andhra Pradesh,Dulla Sarees,East Godavari,Natural Fibre Craft,Handloom,Leather,Medium,5.4,268,589,958,1/19/2025,Medium,10,Winter,Government
+Andhra Pradesh,Gold Jewellery,Eluru,Lacquer Craft,Handicraft,Cotton,Medium,9.1,200,659,1186,1/19/2025,Low,11,Winter,Marketplace
+Andhra Pradesh,Hand Knotted Carpet weaving,Eluru,Handloom Craft,Handicraft,Metal,Small,2.1,252,381,629,1/20/2025,Medium,20,Winter,Marketplace
+Andhra Pradesh,Walking Sticks,Eluru,Wood Craft,Handicraft,Cotton,Large,21.9,307,1788,3200,1/20/2025,High,2,Winter,Government
+Andhra Pradesh,Nuziveedu Veena,Eluru,Textile Craft,Handicraft,Leather,Small,2.6,223,476,660,1/21/2025,Medium,11,Winter,Marketplace
+Andhra Pradesh,Eluru Cotton Sarees,Eluru,Bamboo Craft,Handloom,Metal,Small,4.4,226,508,966,1/21/2025,Medium,2,Winter,Artisan Survey
+Andhra Pradesh,Chillies,Guntur,Pottery,Agriculture,Bamboo,Small,3.8,93,271,496,1/22/2025,Medium,18,Winter,Government
+Andhra Pradesh,Bronze Casting,Guntur,Metal Craft,Manufacturing,Wood,Medium,8.1,198,730,1408,1/22/2025,Medium,13,Winter,Craft Study
+Andhra Pradesh,Mangalagiri Sarees and Fabric,Guntur,Leather Craft,Handloom,Natural Fibre,Large,11,276,939,1720,1/23/2025,High,1,Winter,Government
+Andhra Pradesh,Uppada Jamdani Sarees,Kakinada,Stone Craft,Handloom,Clay,Large,21.2,146,1072,1846,1/23/2025,High,13,Winter,Marketplace
+Andhra Pradesh,"Peddapuram Silk Dhotis, Upper and shirtings",Kakinada,Natural Fibre Craft,Textile,Natural Fibre,Small,5.6,89,488,804,1/24/2025,Low,9,Winter,Government
+Andhra Pradesh,Kalamkari Block Printing,Kakinada,Lacquer Craft,Handloom,Metal,Medium,5.1,318,615,949,1/24/2025,High,1,Winter,Artisan Survey
+Andhra Pradesh,Cashew Kernel,Kakinada,Handloom Craft,Agriculture,Leather,Small,2.7,191,376,667,1/24/2025,Medium,20,Winter,Artisan Survey
+Andhra Pradesh,Machilipatnam Kalamkari,Krishna,Wood Craft,Handloom,Leather,Medium,11.3,250,861,1181,1/25/2025,Medium,8,Winter,Government
+Andhra Pradesh,Kalamkari Block Printing,Krishna,Textile Craft,Handloom,Cotton,Large,17.7,322,1255,2044,1/25/2025,Medium,1,Winter,Government
+Andhra Pradesh,Pedana kalamkari Fabrics,Krishna,Bamboo Craft,Textile,Bamboo,Medium,6.1,116,445,857,1/26/2025,High,13,Winter,Government
+Andhra Pradesh,Bandar / Polavaram Sarees,Krishna,Pottery,Handloom,Clay,Medium,6.4,87,504,727,1/26/2025,Medium,8,Winter,Government
+Andhra Pradesh,Gold Jewellery,Krishna,Metal Craft,Handicraft,Clay,Medium,9.6,87,541,759,1/27/2025,Medium,14,Winter,Craft Study
+Andhra Pradesh,Stone carved products,Kurnool,Leather Craft,Handicraft,Wood,Large,20.1,337,1639,3121,1/27/2025,High,4,Winter,Marketplace
+Andhra Pradesh,Kodumuru Gadwal Sarees,Kurnool,Stone Craft,Handloom,Clay,Medium,9.2,96,759,1281,1/28/2025,Low,17,Winter,Marketplace
+Andhra Pradesh,Yemmiganuru Bedsheets,Kurnool,Natural Fibre Craft,Textile,Cotton,Small,5.8,184,621,1262,1/28/2025,High,9,Winter,Craft Study
+Andhra Pradesh,Allagadda Stone Carving,Nandyal,Lacquer Craft,Handicraft,Leather,Medium,8.5,333,686,1473,1/29/2025,Medium,9,Winter,Artisan Survey
+Andhra Pradesh,Banaganapalli Mangoes,Nandyal,Handloom Craft,Agriculture,Metal,Small,3.2,189,401,868,1/29/2025,Medium,17,Winter,Artisan Survey
+Andhra Pradesh,Nandivargam plain towels & plain lungis,Nandyal,Wood Craft,Textile,Natural Fibre,Small,3.9,116,355,608,1/30/2025,Medium,11,Winter,Government
+Andhra Pradesh,Kondapalli Toys,NTR (Vijaywada),Textile Craft,Handicraft,Leather,Small,3.4,208,464,731,1/30/2025,Medium,1,Winter,Government
+Andhra Pradesh,Bandar type Resham (Art Silk) Sarees,NTR (Vijaywada),Bamboo Craft,Handloom,Bamboo,Medium,6.6,131,601,1122,1/31/2025,Medium,12,Winter,Government
+Andhra Pradesh,Durgi Stone Carving,Palnadu (Narasaraopeta),Pottery,Handicraft,Natural Fibre,Medium,5.3,133,443,835,1/31/2025,Medium,13,Winter,Government
+Andhra Pradesh,Sattenapalli Bedsheets,Palnadu (Narasaraopeta),Metal Craft,Textile,Bamboo,Small,3.4,77,335,629,02-01-2025,High,7,Winter,Marketplace
+Andhra Pradesh,Leather Puppets,Palnadu (Narasaraopeta),Leather Craft,Handicraft,Bamboo,Medium,10,105,603,979,02-01-2025,High,4,Winter,Government
+Andhra Pradesh,Spice Products,Palnadu (Narasaraopeta),Stone Craft,Agriculture,Natural Fibre,Large,10.3,255,805,1130,02-02-2025,High,2,Winter,Marketplace
+Andhra Pradesh,Bobilli Veena,Parvathipuram Manyam,Natural Fibre Craft,Handicraft,Bamboo,Medium,8.1,143,509,778,02-02-2025,Medium,17,Winter,Marketplace
+Andhra Pradesh,Bobilli Sarees,Parvathipuram Manyam,Lacquer Craft,Handloom,Wood,Medium,9.5,195,823,1219,02-03-2025,Medium,1,Winter,Government
+Andhra Pradesh,Severa Adivasi Paintings,Parvathipuram Manyam,Handloom Craft,Handicraft,Clay,Small,4.4,77,297,432,02-03-2025,Medium,12,Winter,Government
+Andhra Pradesh,Rice,Parvathipuram Manyam,Wood Craft,Agriculture,Leather,Large,20.9,535,1491,3187,02-04-2025,Low,17,Winter,Marketplace
+Andhra Pradesh,Granite (Black Galaxy),Prakasam,Textile Craft,Manufacturing,Cotton,Small,5.2,167,583,794,02-04-2025,High,8,Winter,Marketplace
+Andhra Pradesh,Ethamukkala Check Lungis,Prakasam,Bamboo Craft,Textile,Clay,Small,4.8,60,402,748,02-05-2025,Medium,5,Winter,Artisan Survey
+Andhra Pradesh,Udayagiri Wooden Cutlery,SPSR Nellore,Pottery,Handicraft,Wood,Large,11.4,332,767,1653,02-05-2025,Medium,15,Winter,Artisan Survey
+Andhra Pradesh,Patturu Cotton Silk Sarees,SPSR Nellore,Metal Craft,Handloom,Metal,Medium,8.3,293,664,1100,02-06-2025,Medium,13,Winter,Government
+Andhra Pradesh,Silk Sarees,Sri Sathya Sai (Puttaparthi),Leather Craft,Handloom,Clay,Medium,9.2,85,625,1124,02-06-2025,Medium,1,Winter,Government
+Andhra Pradesh,Leather Puppets,Sri Sathya Sai (Puttaparthi),Stone Craft,Handicraft,Bamboo,Medium,6.7,123,450,874,02-07-2025,Medium,12,Winter,Government
+Andhra Pradesh,Dharmavaram Silk Sarees,Sri Sathya Sai (Puttaparthi),Natural Fibre Craft,Handloom,Cotton,Medium,5.3,259,540,875,02-07-2025,Medium,1,Winter,Government
+Andhra Pradesh,Ponduru Cotton Sarees,Srikakulam,Lacquer Craft,Textile,Clay,Small,2.9,66,260,457,02-08-2025,Medium,8,Winter,Marketplace
+Andhra Pradesh,Budithi Brassware,Srikakulam,Handloom Craft,Handicraft,Metal,Small,3.8,215,415,848,02-08-2025,Medium,7,Winter,Craft Study
+Andhra Pradesh,Ponduru Dhoti & Shirtings,Srikakulam,Wood Craft,Textile,Natural Fibre,Small,3.7,96,378,750,02-09-2025,Medium,17,Winter,Government
+Andhra Pradesh,Jute Works,Srikakulam,Textile Craft,Handicraft,Clay,Small,2.7,61,232,473,02-09-2025,High,20,Winter,Government
+Andhra Pradesh,Cashew Kernels,Srikakulam,Bamboo Craft,Agriculture,Cotton,Large,21.5,309,1293,2831,02-10-2025,Low,14,Winter,Artisan Survey
+Andhra Pradesh,Srikalahasthi Kalamkari fabrics/Handicrafts,Tirupati,Pottery,Handloom,Leather,Small,5.7,216,516,859,02-10-2025,Medium,15,Winter,Marketplace
+Andhra Pradesh,Venkatagiri Cotton Sarees,Tirupati,Metal Craft,Handloom,Metal,Medium,6.4,346,710,1409,02-11-2025,Medium,1,Winter,Government
+Andhra Pradesh,Pen kalamkari,Tirupati,Leather Craft,Handloom,Metal,Medium,11.5,270,754,1404,02-11-2025,Medium,2,Winter,Government
+Andhra Pradesh,Wood Carvings,Tirupati,Stone Craft,Handicraft,Wood,Medium,5.1,171,494,947,02-12-2025,High,16,Winter,Craft Study
+Andhra Pradesh,Lord Venkateswara Swamy Photo,Tirupati,Natural Fibre Craft,Handicraft,Bamboo,Medium,11.5,110,924,1828,02-12-2025,Medium,9,Winter,Government
+Andhra Pradesh,Chennuru Silk Sarees,Tirupati,Lacquer Craft,Handloom,Leather,Medium,11.7,241,1055,2097,2/13/2025,High,11,Winter,Marketplace
+Andhra Pradesh,Seafood Cluster,Visakhapatnam,Handloom Craft,Marine,Leather,Large,10.2,468,1019,2143,2/13/2025,High,14,Winter,Artisan Survey
+Andhra Pradesh,Basket Weaving,Visakhapatnam,Wood Craft,Handicraft,Clay,Medium,10.3,109,769,1266,2/14/2025,Medium,7,Winter,Government
+Andhra Pradesh,Mango Jelly,Vizianagaram,Textile Craft,Food processing,Leather,Large,23.6,482,1810,3449,2/14/2025,Medium,14,Winter,Artisan Survey
+Andhra Pradesh,Bobilli Veena,Vizianagaram,Bamboo Craft,Handicraft,Leather,Large,22.7,442,1961,3115,2/15/2025,Medium,15,Winter,Government
+Andhra Pradesh,Design Bedsheets,Vizianagaram,Pottery,Textile,Bamboo,Medium,11.8,125,716,1328,2/15/2025,Medium,5,Winter,Government
+Andhra Pradesh,Processed Prawn & Shrimp,West Godavari District,Metal Craft,Marine,Natural Fibre,Small,4.2,93,333,662,2/16/2025,Medium,14,Winter,Government
+Andhra Pradesh,Veemavaram Light Weight Sarees,West Godavari District,Leather Craft,Handloom,Bamboo,Medium,5.5,108,448,906,2/16/2025,Medium,4,Winter,Craft Study
+Andhra Pradesh,Crochet Lace,West Godavari District,Stone Craft,Handicraft,Cotton,Small,5.4,181,428,731,2/16/2025,Medium,7,Winter,Government
+Andhra Pradesh,Narspur Crochet Lace,West Godavari District,Natural Fibre Craft,Handicraft,Metal,Medium,9.3,335,797,1421,2/17/2025,Medium,16,Winter,Government
+Andhra Pradesh,Vonipenta Brass,YSR Kadapa,Lacquer Craft,Handicraft,Metal,Large,18.6,563,1852,3026,2/17/2025,Medium,20,Winter,Craft Study
+Andhra Pradesh,Madhavaram Sarees,YSR Kadapa,Handloom Craft,Handloom,Wood,Medium,7.9,211,793,1184,2/18/2025,Medium,2,Winter,Government
+Andhra Pradesh,Prodattur Raw (Kora) Silk Shirting,YSR Kadapa,Wood Craft,Textile,Leather,Medium,9,302,673,1058,2/18/2025,High,13,Winter,Craft Study
+Andhra Pradesh,Barytes & Barium Compounds,YSR Kadapa,Textile Craft,Others,Cotton,Small,2.6,181,339,720,2/19/2025,Medium,12,Winter,Artisan Survey
+Arunachal Pradesh,Large Cardamom,Anjaw,Bamboo Craft,Agriculture,Leather,Large,20.4,446,1468,2367,2/19/2025,Medium,13,Winter,Marketplace
+Arunachal Pradesh,Areca nut,Changlang,Pottery,Agriculture,Wood,Small,2.3,107,308,671,2/20/2025,High,16,Winter,Artisan Survey
+Arunachal Pradesh,Kiwi,Dibang Valley,Metal Craft,Agriculture,Leather,Small,4.9,171,529,823,2/20/2025,Medium,2,Winter,Artisan Survey
+Arunachal Pradesh,Orange,East Kameng,Leather Craft,Agriculture,Leather,Small,5.4,174,430,845,2/21/2025,Medium,15,Winter,Government
+Arunachal Pradesh,Jaggery,East Siang,Stone Craft,Food processing,Leather,Small,3.9,173,453,833,2/21/2025,Medium,6,Winter,Craft Study
+Arunachal Pradesh,Orange,Kamle,Natural Fibre Craft,Agriculture,Metal,Medium,8.6,292,949,1843,2/22/2025,Low,4,Winter,Craft Study
+Arunachal Pradesh,Large Cardamom,Kra Daadi,Lacquer Craft,Agriculture,Clay,Medium,7.2,110,615,1167,2/22/2025,High,9,Winter,Craft Study
+Arunachal Pradesh,Large Cardamom,Kurung Kumey,Handloom Craft,Agriculture,Metal,Small,5.9,237,660,1287,2/23/2025,Medium,1,Winter,Marketplace
+Arunachal Pradesh,King Chilli,Leparada,Wood Craft,Agriculture,Cotton,Small,4.9,163,468,992,2/23/2025,Medium,13,Winter,Marketplace
+Arunachal Pradesh,Mustard Seed,Lohit,Textile Craft,Agriculture,Leather,Small,3.5,177,370,677,2/24/2025,Medium,12,Winter,Marketplace
+Arunachal Pradesh,Bead Necklace,Longding,Bamboo Craft,Handicraft,Clay,Medium,6.2,111,452,636,2/24/2025,Medium,11,Winter,Government
+Arunachal Pradesh,Ginger,Lower Dibang Valley,Pottery,Agriculture,Clay,Small,2.9,68,317,501,2/25/2025,Medium,1,Winter,Marketplace
+Arunachal Pradesh,Turmeric,Lower Siang,Metal Craft,Agriculture,Clay,Medium,8.2,85,409,798,2/25/2025,High,16,Winter,Marketplace
+Arunachal Pradesh,Kiwi,Lower Subansiri,Leather Craft,Agriculture,Clay,Small,5.8,66,522,924,2/26/2025,Medium,1,Winter,Artisan Survey
+Arunachal Pradesh,Turmeric,Namsai,Stone Craft,Agriculture,Wood,Small,4.9,122,393,714,2/26/2025,Low,6,Winter,Government
+Arunachal Pradesh,Ginger,Pakke Kessang,Natural Fibre Craft,Agriculture,Wood,Medium,6.5,170,517,960,2/27/2025,Medium,8,Winter,Marketplace
+Arunachal Pradesh,Turmeric,Papum Pare,Lacquer Craft,Agriculture,Cotton,Medium,11,250,842,1411,2/27/2025,High,15,Winter,Marketplace
+Arunachal Pradesh,Kiwi,Shi Yomi,Handloom Craft,Agriculture,Wood,Small,3.5,141,445,893,2/28/2025,Medium,9,Winter,Marketplace
+Arunachal Pradesh,Large Cardamom,Siang,Wood Craft,Agriculture,Clay,Small,5.4,77,352,692,2/28/2025,Medium,17,Winter,Craft Study
+Arunachal Pradesh,Chillies,Tawang,Textile Craft,Agriculture,Metal,Large,13.4,431,1063,2080,03-01-2025,Medium,19,Summer,Artisan Survey
+Arunachal Pradesh,Ginger,Tirap,Bamboo Craft,Agriculture,Metal,Small,4.5,238,509,997,03-01-2025,High,16,Summer,Government
+Arunachal Pradesh,Orange,Upper Siang,Pottery,Agriculture,Clay,Medium,11.5,109,801,1688,03-02-2025,Medium,1,Summer,Government
+Arunachal Pradesh,Orange,Upper Subansiri,Metal Craft,Agriculture,Leather,Medium,6.8,257,800,1485,03-02-2025,High,16,Summer,Artisan Survey
+Arunachal Pradesh,Apple,West Kameng,Leather Craft,Agriculture,Clay,Small,4.8,75,364,791,03-03-2025,Low,5,Summer,Marketplace
+Arunachal Pradesh,Pineapple,West Siang,Stone Craft,Agriculture,Wood,Medium,11.9,183,1041,1511,03-03-2025,High,18,Summer,Artisan Survey
+Assam,Rice,Bajali,Natural Fibre Craft,Agriculture,Leather,Medium,6.1,281,653,1232,03-04-2025,High,20,Summer,Government
+Assam,Honey,Baksa,Lacquer Craft,Agriculture,Metal,Large,11.2,427,1148,2249,03-04-2025,Medium,2,Summer,Government
+Assam,Bell Metal Products,Barpeta,Handloom Craft,Handicraft,Metal,Small,4.7,217,416,730,03-05-2025,Medium,2,Summer,Marketplace
+Assam,Rice,Barpeta,Wood Craft,Agriculture,Clay,Small,3.4,62,276,440,03-05-2025,Medium,14,Summer,Artisan Survey
+Assam,Tea,Biswanath,Textile Craft,Agriculture,Clay,Small,2.3,64,283,514,03-06-2025,Medium,3,Summer,Craft Study
+Assam,Maize,Bongaigaon,Bamboo Craft,Agriculture,Wood,Medium,8.3,161,707,1174,03-06-2025,Medium,20,Summer,Craft Study
+Assam,Scented and Glutonious Rice,Cachar,Pottery,Agriculture,Clay,Medium,10.3,118,592,1257,03-07-2025,Low,11,Summer,Marketplace
+Assam,Aromatic Rice,Charaideo,Metal Craft,Agriculture,Leather,Small,3.1,186,412,681,03-07-2025,High,12,Summer,Artisan Survey
+Assam,Lemon,Chirang,Leather Craft,Agriculture,Bamboo,Small,3.3,82,391,586,03-08-2025,Medium,18,Summer,Government
+Assam,Vegetables,Darrang,Stone Craft,Agriculture,Metal,Large,21.8,462,1601,2946,03-08-2025,Medium,5,Summer,Marketplace
+Assam,Red Rice,Dhemaji,Natural Fibre Craft,Agriculture,Wood,Small,4.1,147,407,686,03-09-2025,Medium,12,Summer,Craft Study
+Assam,Chilly,Dhubri,Lacquer Craft,Agriculture,Bamboo,Medium,10.9,126,900,1288,03-09-2025,Medium,20,Summer,Marketplace
+Assam,Organic Tea,Dibrugarh,Handloom Craft,Agriculture,Clay,Medium,8.1,117,553,1012,03-10-2025,Medium,1,Summer,Craft Study
+Assam,Ginger,Dima Hasao,Wood Craft,Agriculture,Natural Fibre,Small,5.8,100,569,1028,03-10-2025,Medium,4,Summer,Government
+Assam,Banana,Goalpara,Textile Craft,Agriculture,Cotton,Small,4.6,137,415,621,03-11-2025,Medium,3,Summer,Government
+Assam,Agarwood & Its Derivatives,Golaghat,Bamboo Craft,Manufacturing,Cotton,Small,2.5,161,362,673,03-11-2025,High,7,Summer,Marketplace
+Assam,Orthodox tea,Golaghat,Pottery,Agriculture,Bamboo,Large,22.4,186,1150,2107,03-12-2025,Medium,3,Summer,Craft Study
+Assam,Arecanut,Hailakandi,Metal Craft,Agriculture,Natural Fibre,Small,4,119,343,689,03-12-2025,High,4,Summer,Government
+Assam,Jaggery,Hojai,Leather Craft,Food processing,Leather,Small,2.6,227,409,678,03-12-2025,Medium,18,Summer,Artisan Survey
+Assam,Bhoot Jholokia,Jorhat,Stone Craft,Agriculture,Wood,Small,2.6,128,358,559,3/13/2025,Medium,10,Summer,Government
+Assam,"Home Furnishing made of Eri , Muga & Assam Silk, etc.",Kamrup (M),Natural Fibre Craft,Textile,Cotton,Small,4.8,183,568,1226,3/13/2025,Medium,8,Summer,Artisan Survey
+Assam,Banana,Kamrup(R),Lacquer Craft,Agriculture,Leather,Medium,5.3,292,754,1378,3/14/2025,Low,9,Summer,Marketplace
+Assam,Ginger,Karbi Anglong,Handloom Craft,Agriculture,Wood,Small,3.1,119,272,373,3/14/2025,High,20,Summer,Government
+Assam,Plates and Bowls made of Arecanut Leaf Sheath,Karimganj,Wood Craft,Manufacturing,Leather,Medium,6,286,649,1329,3/15/2025,Medium,10,Summer,Artisan Survey
+Assam,Cane & Bamboo Furniture & Decorative Items,Karimganj,Textile Craft,Handicraft,Cotton,Medium,8.1,190,644,977,3/15/2025,Medium,10,Summer,Artisan Survey
+Assam,Mushroom,Kokrajhar,Bamboo Craft,Agriculture,Natural Fibre,Large,15.8,272,1163,2347,3/16/2025,High,19,Summer,Marketplace
+Assam,Handloom Products of Silk & Cotton,Lakhimpur,Pottery,Handloom,Bamboo,Small,4.1,74,382,745,3/16/2025,Medium,1,Summer,Government
+Assam,Processed Pork,Lakhimpur,Metal Craft,Food processing,Clay,Large,13.9,153,1106,2404,3/17/2025,High,10,Summer,Government
+Assam,Mustard Seeds,Majuli,Leather Craft,Agriculture,Metal,Medium,5.2,314,714,1550,3/17/2025,Medium,15,Summer,Craft Study
+Assam,Maize,Morigaon,Stone Craft,Agriculture,Wood,Small,4.5,109,341,540,3/18/2025,High,11,Summer,Artisan Survey
+Assam,Pearl,Nagaon,Natural Fibre Craft,Handicraft,Clay,Medium,7.6,88,558,1117,3/18/2025,Medium,18,Summer,Artisan Survey
+Assam,Fruits and vegetables,Nagaon,Lacquer Craft,Agriculture,Clay,Large,19.1,175,1348,2183,3/19/2025,Low,18,Summer,Artisan Survey
+Assam,Rice & Rice Products,Nalbari,Handloom Craft,Agriculture,Leather,Small,2.4,172,369,695,3/19/2025,Medium,7,Summer,Artisan Survey
+Assam,Rice & Rice Products,Sivasagar,Wood Craft,Agriculture,Natural Fibre,Large,10.2,244,673,1250,3/20/2025,Low,17,Summer,Government
+Assam,"Parboiled Rice , Steam Rice & all Rice products",Sonitpur,Textile Craft,Agriculture,Metal,Medium,6.7,291,653,912,3/20/2025,High,5,Summer,Marketplace
+Assam,Processed cashew nuts,South Salamara- Mankachar,Bamboo Craft,Food processing,Bamboo,Medium,8.2,112,613,830,3/21/2025,Medium,5,Summer,Artisan Survey
+Assam,Honey,Tamulpur,Pottery,Agriculture,Bamboo,Large,15.5,176,918,1284,3/21/2025,Medium,20,Summer,Government
+Assam,Assam Lemon,Tinsukia,Metal Craft,Agriculture,Bamboo,Medium,10.7,134,889,1297,3/22/2025,Medium,1,Summer,Government
+Assam,Orthodox Tea (black) and Green Tea,Udalguri,Leather Craft,Agriculture,Leather,Large,15.3,530,1261,1979,3/22/2025,High,8,Summer,Marketplace
+Assam,Eri (cocoon and fabric),Udalguri,Stone Craft,Textile,Bamboo,Small,4.1,76,355,753,3/23/2025,Medium,13,Summer,Craft Study
+Assam,Ginger,West Karbi Anglong,Natural Fibre Craft,Agriculture,Cotton,Medium,9.2,261,830,1486,3/23/2025,High,9,Summer,Artisan Survey
+Bihar,Jute,Araria,Lacquer Craft,Agriculture,Bamboo,Medium,5.2,127,549,1113,3/24/2025,Low,17,Summer,Government
+Bihar,Makhana,Araria,Handloom Craft,Agriculture,Wood,Small,4.1,135,323,666,3/24/2025,High,6,Summer,Craft Study
+Bihar,Mushroom,Arwal,Wood Craft,Agriculture,Wood,Medium,7.4,198,555,1096,3/25/2025,Medium,12,Summer,Government
+Bihar,Pumpkin,Arwal,Textile Craft,Agriculture,Wood,Small,3.7,138,338,569,3/25/2025,Medium,3,Summer,Government
+Bihar,Lemon Grass,Aurangabad,Bamboo Craft,Agriculture,Leather,Small,2.4,223,403,840,3/26/2025,Medium,5,Summer,Craft Study
+Bihar,Strawberry,Aurangabad,Pottery,Agriculture,Leather,Small,5.1,200,471,933,3/26/2025,Low,4,Summer,Artisan Survey
+Bihar,Banka Silk,Banka,Metal Craft,Handloom,Metal,Small,5.8,218,600,1189,3/27/2025,High,15,Summer,Craft Study
+Bihar,Katarni Rice,Banka,Leather Craft,Agriculture,Clay,Small,2.1,67,185,392,3/27/2025,High,5,Summer,Artisan Survey
+Bihar,Chilli,Begusarai,Stone Craft,Agriculture,Leather,Small,4.4,174,434,807,3/28/2025,Medium,14,Summer,Artisan Survey
+Bihar,Maize,Begusarai,Natural Fibre Craft,Agriculture,Cotton,Medium,10.3,238,827,1488,3/28/2025,High,7,Summer,Government
+Bihar,Bhagalpur Silk,Bhagalpur,Lacquer Craft,Handloom,Natural Fibre,Medium,7,129,658,1386,3/29/2025,Low,12,Summer,Government
+Bihar,Jardalu Mango,Bhagalpur,Handloom Craft,Agriculture,Clay,Medium,10.5,95,833,1446,3/29/2025,Low,18,Summer,Craft Study
+Bihar,Manjusha Painting,Bhagalpur,Wood Craft,Handicraft,Natural Fibre,Small,4.5,93,419,855,3/30/2025,Low,18,Summer,Craft Study
+Bihar,Applique Work ,Bhojpur,Textile Craft,Handicraft,Cotton,Large,23,323,1626,2270,3/30/2025,Medium,1,Summer,Marketplace
+Bihar,Bhojpur Painting,Bhojpur,Bamboo Craft,Handicraft,Clay,Medium,11.9,107,894,1208,3/31/2025,Low,16,Summer,Marketplace
+Bihar,Rice,Bhojpur,Pottery,Agriculture,Metal,Small,2.2,225,403,725,3/31/2025,Medium,20,Summer,Government
+Bihar,Hand Embroidery,Buxar,Metal Craft,Handicraft,Clay,Small,3.8,70,314,444,04-01-2025,Low,14,Summer,Government
+Bihar,Mentha,Buxar,Leather Craft,Agriculture,Clay,Medium,8.8,88,650,1417,04-01-2025,High,4,Summer,Craft Study
+Bihar,Sonachud Rice,Buxar,Stone Craft,Handloom,Cotton,Small,2.6,154,405,549,04-02-2025,High,14,Summer,Government
+Bihar,Madhubhani Paintings,Darbhanga,Natural Fibre Craft,Handicraft,Bamboo,Medium,7.4,117,498,976,04-02-2025,Medium,13,Summer,Marketplace
+Bihar,Makhana,Darbhanga,Lacquer Craft,Agriculture,Cotton,Large,23.8,388,1828,2846,04-03-2025,Medium,14,Summer,Craft Study
+Bihar,Terracotta,Darbhanga,Handloom Craft,Handicraft,Bamboo,Small,2.1,88,235,511,04-03-2025,High,9,Summer,Marketplace
+Bihar,Bags & Garments,East Champaran,Wood Craft,Textile,Metal,Small,3.8,215,438,733,04-04-2025,Medium,11,Summer,Marketplace
+Bihar,Litchi,East Champaran,Textile Craft,Agriculture,Metal,Large,21.8,490,1398,1920,04-04-2025,High,14,Summer,Government
+Bihar,Seep Buttons,East Champaran,Bamboo Craft,Textile,Metal,Medium,7.3,356,846,1161,04-04-2025,Medium,10,Summer,Government
+Bihar,Handloom/Garments,Gaya,Pottery,Textile,Bamboo,Small,3.9,94,427,777,04-05-2025,Medium,16,Summer,Government
+Bihar,Stone Art,Gaya,Metal Craft,Handicraft,Natural Fibre,Large,23.7,246,1220,2670,04-05-2025,Low,15,Summer,Government
+Bihar,Tilkut,Gaya,Leather Craft,Food Processing,Wood,Large,16.6,293,1186,2589,04-06-2025,High,7,Summer,Government
+Bihar,Sugarcane,Gopalganj,Stone Craft,Agriculture,Bamboo,Medium,5.9,103,419,686,04-06-2025,High,13,Summer,Government
+Bihar,Turmeric,Gopalganj,Natural Fibre Craft,Agriculture,Wood,Medium,5.4,212,464,817,04-07-2025,Medium,16,Summer,Government
+Bihar,Crochet Goods,Jamui,Lacquer Craft,Handicraft,Bamboo,Small,5.8,81,574,824,04-07-2025,High,10,Summer,Government
+Bihar,Jackfruit,Jamui,Handloom Craft,Agriculture,Natural Fibre,Small,3.1,99,301,540,04-08-2025,High,15,Summer,Craft Study
+Bihar,Mushroom,Jehanabad,Wood Craft,Agriculture,Bamboo,Medium,8.5,144,626,1164,04-08-2025,Low,3,Summer,Government
+Bihar,Rice,Jehanabad,Textile Craft,Agriculture,Natural Fibre,Small,2.4,116,313,489,04-09-2025,High,8,Summer,Marketplace
+Bihar,Carpet,Kaimur (Bhabua),Bamboo Craft,Handicraft,Clay,Medium,8,87,727,1360,04-09-2025,Medium,15,Summer,Craft Study
+Bihar,Rice,Kaimur (Bhabua),Pottery,Agriculture,Metal,Large,23,418,1511,3195,04-10-2025,Medium,18,Summer,Government
+Bihar,Jute,Katihar,Metal Craft,Handicraft,Clay,Small,4,60,359,485,04-10-2025,Low,13,Summer,Marketplace
+Bihar,Maize,Katihar,Leather Craft,Agriculture,Cotton,Medium,11.8,233,849,1311,04-11-2025,High,14,Summer,Artisan Survey
+Bihar,Makhana,Katihar,Stone Craft,Agriculture,Leather,Small,3,172,360,550,04-11-2025,High,7,Summer,Marketplace
+Bihar,Bamboo Art,Khagaria,Natural Fibre Craft,Agriculture,Natural Fibre,Large,17.1,282,1320,1921,04-12-2025,Medium,15,Summer,Government
+Bihar,Banana,Khagaria,Lacquer Craft,Agriculture,Cotton,Small,5.4,181,399,595,04-12-2025,Medium,8,Summer,Artisan Survey
+Bihar,Maize,Khagaria,Handloom Craft,Agriculture,Leather,Medium,8.1,292,849,1598,4/13/2025,Medium,2,Summer,Artisan Survey
+Bihar,Dragon Fruit,Kishanganj,Wood Craft,Agriculture,Cotton,Medium,7,234,610,877,4/13/2025,High,5,Summer,Marketplace
+Bihar,Pineapple,Kishanganj,Textile Craft,Agriculture,Leather,Medium,11,267,1001,1980,4/14/2025,High,13,Summer,Government
+Bihar,Tea,Kishanganj,Bamboo Craft,Agriculture,Leather,Medium,7.7,244,814,1713,4/14/2025,Medium,20,Summer,Government
+Bihar,Pulses (Masoor),Lakhisarai,Pottery,Agriculture,Clay,Medium,8.7,111,709,1516,4/15/2025,Medium,10,Summer,Artisan Survey
+Bihar,Tomato,Lakhisarai,Metal Craft,Agriculture,Leather,Medium,11.8,248,723,1382,4/15/2025,Medium,18,Summer,Government
+Bihar,Bamboo Art,Madhepura,Leather Craft,Handicraft,Cotton,Medium,6.3,194,623,946,4/16/2025,Medium,16,Summer,Government
+Bihar,Mango,Madhepura,Stone Craft,Agriculture,Wood,Large,14.2,276,1334,1898,4/16/2025,Medium,12,Summer,Marketplace
+Bihar,Madhubani Paintings,Madhubani,Natural Fibre Craft,Handicraft,Wood,Medium,5.2,154,461,713,4/17/2025,Low,17,Summer,Craft Study
+Bihar,Makhana,Madhubani,Lacquer Craft,Agriculture,Clay,Medium,7.7,100,509,1103,4/17/2025,Low,9,Summer,Government
+Bihar,Sikki Painting,Madhubani,Handloom Craft,Handicraft,Natural Fibre,Small,2.8,115,353,765,4/18/2025,Medium,9,Summer,Government
+Bihar,Lemon Grass,Munger,Wood Craft,Agriculture,Wood,Medium,9.8,203,679,1137,4/18/2025,High,15,Summer,Marketplace
+Bihar,Mentha,Munger,Textile Craft,Agriculture,Clay,Medium,6.3,106,549,893,4/19/2025,Medium,13,Summer,Artisan Survey
+Bihar,Bags & Garments,Muzaffarpur,Bamboo Craft,Textile,Metal,Medium,9.7,344,1026,1830,4/19/2025,Medium,11,Summer,Marketplace
+Bihar,Shahi Litchi,Muzaffarpur,Pottery,Agriculture,Cotton,Small,3.1,153,291,465,4/20/2025,High,9,Summer,Craft Study
+Bihar,Sujini Embroidery,Muzaffarpur,Metal Craft,Handicraft,Leather,Large,15,514,1410,3078,4/20/2025,High,20,Summer,Government
+Bihar,Bawan Booti,Nalanda,Leather Craft,Handloom,Bamboo,Medium,7.4,123,592,911,4/21/2025,Medium,2,Summer,Government
+Bihar,Silao Khaja,Nalanda,Stone Craft,Food Processing,Leather,Medium,10,260,742,1235,4/21/2025,Low,2,Summer,Marketplace
+Bihar,Handloom,Nawada,Natural Fibre Craft,Handloom,Metal,Small,3.9,248,578,991,4/22/2025,Medium,10,Summer,Government
+Bihar,Magahi Paan/ Betel Vine,Nawada,Lacquer Craft,Food Processing,Clay,Large,15.1,151,843,1228,4/22/2025,Medium,1,Summer,Marketplace
+Bihar,Brass Metal Work,Patna,Handloom Craft,Handicraft,Cotton,Small,5.4,132,452,757,4/23/2025,Medium,7,Summer,Artisan Survey
+Bihar,Garments & Active Wear,Patna,Wood Craft,Textile,Clay,Small,4.3,65,427,887,4/23/2025,Medium,12,Summer,Government
+Bihar,Tikuli Paintings,Patna,Textile Craft,Handicraft,Leather,Large,13,438,1024,1505,4/24/2025,Low,9,Summer,Artisan Survey
+Bihar,Bamboo Art,Purnea,Bamboo Craft,Handicraft,Wood,Large,22.6,280,1757,3244,4/24/2025,Medium,5,Summer,Government
+Bihar,Jute,Purnea,Pottery,Handicraft,Leather,Small,3.4,203,379,643,4/25/2025,High,6,Summer,Marketplace
+Bihar,Makhana (Foxnut),Purnea,Metal Craft,Agriculture,Clay,Medium,5.3,116,445,665,4/25/2025,Medium,13,Summer,Marketplace
+Bihar,Menthol,Rohtas,Leather Craft,Agriculture,Leather,Medium,8.5,267,663,902,4/26/2025,Medium,20,Summer,Marketplace
+Bihar,Sonachud Rice,Rohtas,Stone Craft,Agriculture,Metal,Large,11.7,495,1270,2010,4/26/2025,Medium,16,Summer,Government
+Bihar,Tomato,Rohtas,Natural Fibre Craft,Agriculture,Clay,Medium,6.7,97,595,835,4/27/2025,High,11,Summer,Craft Study
+Bihar,Makhana (Foxnut),Saharsa,Lacquer Craft,Agriculture,Bamboo,Medium,10.2,137,831,1388,4/27/2025,Low,3,Summer,Craft Study
+Bihar,Bamboo Art,Samastipur,Handloom Craft,Handicraft,Metal,Medium,5.9,272,730,1488,4/27/2025,Medium,5,Summer,Artisan Survey
+Bihar,Turmeric,Samastipur,Wood Craft,Agriculture,Wood,Medium,10.6,160,813,1595,4/28/2025,Medium,9,Summer,Craft Study
+Bihar,Tomato,Saran,Textile Craft,Agriculture,Metal,Medium,11.6,308,1101,2373,4/28/2025,Medium,5,Summer,Government
+Bihar,Onion,Sheikhpura,Bamboo Craft,Agriculture,Wood,Medium,9.2,195,720,1233,4/29/2025,High,14,Summer,Marketplace
+Bihar,Maize,Sheohar,Pottery,Agriculture,Metal,Small,4.8,237,620,1210,4/29/2025,High,8,Summer,Government
+Bihar,Applique Work,Sitamarhi,Metal Craft,Handicraft,Metal,Large,20,507,1741,3335,4/30/2025,Medium,17,Summer,Craft Study
+Bihar,Litchi,Sitamarhi,Leather Craft,Agriculture,Wood,Large,23.9,323,1972,3026,4/30/2025,Low,6,Summer,Government
+Bihar,Sikki Art,Sitamarhi,Stone Craft,Handicraft,Leather,Medium,7.4,276,640,1029,05-01-2025,Medium,10,Summer,Government
+Bihar,Mentha,Siwan,Natural Fibre Craft,Agriculture,Bamboo,Small,2.7,72,260,468,05-01-2025,Medium,15,Summer,Artisan Survey
+Bihar,Lac Bangles,Supaul,Lacquer Craft,Handicraft,Leather,Small,4.1,175,495,1003,05-02-2025,Medium,5,Summer,Government
+Bihar,Makhana (Foxnut),Supaul,Handloom Craft,Agriculture,Wood,Medium,8.7,155,585,1019,05-02-2025,High,16,Summer,Artisan Survey
+Bihar,Banana,Vaishali,Wood Craft,Agriculture,Cotton,Small,2.7,149,291,449,05-03-2025,High,12,Summer,Government
+Bihar,Honey,Vaishali,Textile Craft,Agriculture,Clay,Large,18.6,164,1542,3384,05-03-2025,Medium,13,Summer,Artisan Survey
+Bihar,Sujni Embroidery,Vaishali,Bamboo Craft,Handicraft,Cotton,Medium,5.1,214,531,769,05-04-2025,Medium,10,Summer,Craft Study
+Bihar,Marcha Chura,West Champaran,Pottery,Food Processing,Bamboo,Medium,11.5,126,660,1427,05-04-2025,Low,19,Summer,Marketplace
+Bihar,Ready made Garments,West Champaran,Metal Craft,Textile,Metal,Large,13.7,489,1163,2370,05-05-2025,Medium,16,Summer,Government
+Chandigarh,Tourism,Chandigarh,Leather Craft,Others,Cotton,Medium,5.3,239,548,1131,05-05-2025,Low,4,Summer,Government
+Chhattisgarh,Handloom,Balod,Stone Craft,Handloom,Metal,Small,2.4,228,411,833,05-06-2025,High,12,Summer,Government
+Chhattisgarh,Rice based products - poha etc,Baloda bazar,Natural Fibre Craft,Food Processing,Wood,Medium,6.7,173,666,1017,05-06-2025,High,19,Summer,Government
+Chhattisgarh,"Rice- Jiraphul, Bisni etc",Balrampur,Lacquer Craft,Agriculture,Cotton,Medium,6.9,214,759,1433,05-07-2025,Medium,6,Summer,Marketplace
+Chhattisgarh,Bell Metal (Dhokra),Bastar,Handloom Craft,Handicraft,Metal,Medium,5.2,316,674,1343,05-07-2025,Medium,11,Summer,Government
+Chhattisgarh,Tamarind,Bastar,Wood Craft,Agriculture,Leather,Medium,7,296,804,1595,05-08-2025,Medium,16,Summer,Government
+Chhattisgarh,Papaya Based Product,Bemetara,Textile Craft,Food Processing,Cotton,Large,12.7,338,1021,1614,05-08-2025,High,6,Summer,Government
+Chhattisgarh,"Minor Forest Produce - Tamarind, Mahua",Bijapur,Bamboo Craft,Agriculture,Bamboo,Medium,7.7,116,654,984,05-09-2025,Medium,11,Summer,Craft Study
+Chhattisgarh,Black Rice,Bilaspur,Pottery,Agriculture,Natural Fibre,Small,3.5,115,292,476,05-09-2025,Low,12,Summer,Government
+Chhattisgarh,Minor Forest Produce - Tamarind,Dantewada,Metal Craft,Agriculture,Natural Fibre,Medium,7.4,161,530,932,05-10-2025,Medium,4,Summer,Government
+Chhattisgarh,Rice,Dhamtari,Leather Craft,Agriculture,Metal,Medium,7.3,269,873,1604,05-10-2025,Low,4,Summer,Marketplace
+Chhattisgarh,Tomato Based Product,Durg,Stone Craft,Food Processing,Clay,Small,2.4,70,316,651,05-11-2025,Medium,12,Summer,Government
+Chhattisgarh,Minor Forest Produce - Chirounji,Gariyaband,Natural Fibre Craft,Agriculture,Bamboo,Small,2.1,98,216,433,05-11-2025,Medium,4,Summer,Craft Study
+Chhattisgarh,Groundnuts,Gaurella Pendra Marwahi,Lacquer Craft,Agriculture,Metal,Medium,6.4,259,674,1297,05-12-2025,Medium,19,Summer,Government
+Chhattisgarh,Kosa,Janjagir-champa,Handloom Craft,Handloom,Metal,Small,5,241,521,820,05-12-2025,High,11,Summer,Artisan Survey
+Chhattisgarh,Litchi,Jashpur,Wood Craft,Agriculture,Bamboo,Large,23.9,174,1366,2400,5/13/2025,Low,15,Summer,Marketplace
+Chhattisgarh,"Sugarcane based product (Ex. Jaggery, Molasses)",Kabirdham,Textile Craft,Food Processing,Wood,Small,5.7,129,452,739,5/13/2025,Medium,8,Summer,Artisan Survey
+Chhattisgarh,Custard Apple Based Product,Kanker,Bamboo Craft,Food Processing,Cotton,Small,4,154,374,580,5/14/2025,High,6,Summer,Artisan Survey
+Chhattisgarh,Soyabean,Khairagarh-Chhuikhadan-Gandai,Pottery,Agriculture,Natural Fibre,Medium,8.7,128,664,902,5/14/2025,Low,10,Summer,Artisan Survey
+Chhattisgarh,Bastar Craft,Kondagaon,Metal Craft,Handicraft,Bamboo,Large,14.4,225,994,1629,5/15/2025,Medium,15,Summer,Marketplace
+Chhattisgarh,Bell Metal (Dhokra),Kondagaon,Leather Craft,Handicraft,Clay,Small,5.1,71,409,641,5/15/2025,Medium,8,Summer,Marketplace
+Chhattisgarh,Minor Forest Produce - Mahua,Korba,Stone Craft,Agriculture,Clay,Small,5.1,83,322,591,5/16/2025,Medium,6,Summer,Artisan Survey
+Chhattisgarh,Tomato,Koriya,Natural Fibre Craft,Agriculture,Leather,Small,5.4,186,624,875,5/16/2025,High,3,Summer,Marketplace
+Chhattisgarh,Milk Based Product,Mahasamund,Lacquer Craft,Dairy,Wood,Medium,11.3,208,935,1477,5/17/2025,Medium,11,Summer,Marketplace
+Chhattisgarh,Tomato,Manendragarh- Chirmiri- Bharatpur,Handloom Craft,Agriculture,Wood,Medium,8,211,817,1134,5/17/2025,Medium,14,Summer,Government
+Chhattisgarh,Soyabean,Manpur-Mohla- Ambagad Chowki,Wood Craft,Agriculture,Cotton,Small,5.1,161,406,769,5/18/2025,Low,11,Summer,Government
+Chhattisgarh,Groundnuts,Mungeli,Textile Craft,Agriculture,Clay,Small,5.2,64,445,816,5/18/2025,Low,6,Summer,Marketplace
+Chhattisgarh,Black Gram,Narayanpur,Bamboo Craft,Agriculture,Metal,Medium,7.2,327,870,1424,5/19/2025,Low,5,Summer,Government
+Chhattisgarh,Tomato,Raigarh,Pottery,Agriculture,Clay,Large,23,167,1269,1872,5/19/2025,High,8,Summer,Marketplace
+Chhattisgarh,Papaya Based Product,Raipur,Metal Craft,Food Processing,Clay,Medium,5.7,118,392,848,5/20/2025,High,7,Summer,Government
+Chhattisgarh,Soyabean,Rajnandgaon,Leather Craft,Agriculture,Natural Fibre,Medium,12,151,753,1391,5/20/2025,High,5,Summer,Marketplace
+Chhattisgarh,Kosa,Sakti,Stone Craft,Handloom,Cotton,Small,5.1,145,415,800,5/21/2025,Low,19,Summer,Artisan Survey
+Chhattisgarh,Tomato,Sarangarh-Bilaigarh,Natural Fibre Craft,Agriculture,Metal,Small,2.4,189,340,613,5/21/2025,Medium,7,Summer,Marketplace
+Chhattisgarh,Wooden Craft,Sukma,Lacquer Craft,Handicraft,Clay,Small,4.6,77,323,657,5/21/2025,High,6,Summer,Artisan Survey
+Chhattisgarh,Millet Based Products,Sukma,Handloom Craft,Food Processing,Clay,Medium,5.2,119,384,811,5/22/2025,Medium,13,Summer,Government
+Chhattisgarh,Potato,Surajpur,Wood Craft,Agriculture,Leather,Large,20.8,385,1643,2753,5/22/2025,Low,17,Summer,Government
+Chhattisgarh,Turmeric,Surajpur,Textile Craft,Agriculture,Cotton,Large,21.2,390,1240,2401,5/23/2025,High,10,Summer,Artisan Survey
+Chhattisgarh,Jackfruit,Surguja,Bamboo Craft,Agriculture,Natural Fibre,Large,18.4,282,1179,1822,5/23/2025,Low,14,Summer,Artisan Survey
+Chhattisgarh,Potato,Surguja,Pottery,Agriculture,Bamboo,Large,22,168,1546,2944,5/24/2025,Low,2,Summer,Artisan Survey
+"Dadra & Nagar Haveli (UT)
+Daman & Diu (UT)",Textile (Yarn),Dadra & Nagar Haveli,Metal Craft,Textile,Clay,Large,11.4,142,654,1105,5/24/2025,High,11,Summer,Artisan Survey
+"Dadra & Nagar Haveli (UT)
+Daman & Diu (UT)",Plastic Products,Daman,Leather Craft,Manufacturing,Clay,Small,3.1,76,253,343,5/25/2025,Medium,2,Summer,Artisan Survey
+"Dadra & Nagar Haveli (UT)
+Daman & Diu (UT)",Marine,Diu,Stone Craft,Marine,Leather,Small,3.7,211,404,874,5/25/2025,Medium,3,Summer,Artisan Survey
+Delhi,Dry Fruits & Spices,Central,Natural Fibre Craft,Agriculture,Clay,Small,2.2,61,221,461,5/26/2025,Medium,12,Summer,Artisan Survey
+Delhi,Ceramic Tiles & Sanitary Goods,East,Lacquer Craft,Manufacturing,Cotton,Medium,8.1,251,766,1223,5/26/2025,High,5,Summer,Artisan Survey
+Delhi,Automobile Refurbishing Component,New Delhi,Handloom Craft,Manufacturing,Wood,Small,3.1,130,302,664,5/27/2025,Low,1,Summer,Government
+Delhi,Light Engineering Goods,North,Wood Craft,Manufacturing,Bamboo,Large,15.5,224,938,1519,5/27/2025,High,4,Summer,Government
+Delhi,Apparels (Jackets & Jeans),North-East,Textile Craft,Textile,Leather,Medium,8,324,923,1606,5/28/2025,Medium,16,Summer,Marketplace
+Delhi,Stainless Steel Utensils/ Kitchen Ware,North-West,Bamboo Craft,Manufacturing,Wood,Medium,11.2,204,989,2051,5/28/2025,Low,12,Summer,Marketplace
+Delhi,Readymade clothes/garments,Shahdara,Pottery,Textile,Natural Fibre,Small,3.1,108,327,526,5/29/2025,Medium,8,Summer,Artisan Survey
+Delhi,Tourism (Medical & Religious),South,Metal Craft,Others,Clay,Small,5.6,66,350,607,5/29/2025,Medium,20,Summer,Government
+Delhi,Hospitality Services,South,Leather Craft,Others,Wood,Small,3.7,129,416,797,5/30/2025,Medium,8,Summer,Government
+Delhi,Embroidery/Sequence Ladies Garments,South-East,Stone Craft,Textile,Bamboo,Large,14.6,170,1180,1724,5/30/2025,Medium,18,Summer,Artisan Survey
+Delhi,Milk Based Product,South-West,Natural Fibre Craft,Dairy,Clay,Medium,8.5,108,706,1207,5/31/2025,Medium,7,Summer,Government
+Delhi,Furniture items,West,Lacquer Craft,Manufacturing,Bamboo,Medium,7.9,108,507,818,5/31/2025,Medium,1,Summer,Artisan Survey
+Goa,Cashew Nuts,North Goa,Handloom Craft,Agriculture,Wood,Small,3,130,270,520,06-01-2025,High,3,Monsoon,Government
+Goa,Feni,North Goa,Wood Craft,Food Processing,Metal,Medium,8.5,261,765,1121,06-01-2025,High,6,Monsoon,Marketplace
+Goa,Feni,South Goa,Textile Craft,Food Processing,Metal,Medium,6.1,286,715,1107,06-02-2025,Medium,4,Monsoon,Marketplace
+Goa,Cashew Nuts,South Goa,Bamboo Craft,Agriculture,Wood,Medium,7.5,168,749,1464,06-02-2025,Medium,4,Monsoon,Government
+Gujarat,Garment & Apparel,Ahmedabad,Pottery,Textile,Cotton,Medium,9,235,646,958,06-03-2025,Medium,8,Monsoon,Government
+Gujarat,Terracotta,Ahmedabad,Metal Craft,Handicraft,Cotton,Small,3.7,173,402,687,06-03-2025,Medium,20,Monsoon,Government
+Gujarat,Gamthi Block print,Ahmedabad,Leather Craft,Handicraft,Metal,Large,21.5,418,1374,2687,06-04-2025,Low,5,Monsoon,Government
+Gujarat,Mata ni Pachedi/ Saudagiri Block Print,Ahmedabad,Stone Craft,Handloom,Leather,Small,3,225,424,848,06-04-2025,Medium,5,Monsoon,Government
+Gujarat,Peanut Based Products,Amreli,Natural Fibre Craft,Agriculture,Leather,Large,23.6,516,2130,3047,06-05-2025,Low,20,Monsoon,Artisan Survey
+Gujarat,Beadwork,Amreli,Lacquer Craft,Handicraft,Natural Fibre,Small,5.1,102,446,925,06-05-2025,Medium,5,Monsoon,Government
+Gujarat,Agates Stone,Anand,Handloom Craft,Handicraft,Leather,Small,5.9,212,493,969,06-06-2025,High,17,Monsoon,Marketplace
+Gujarat,Milk based Products,Anand,Wood Craft,Dairy,Bamboo,Large,21.7,190,1480,2425,06-06-2025,Medium,13,Monsoon,Government
+Gujarat,Agro Processing,Aravalli,Textile Craft,Food Processing,Wood,Small,2.6,114,313,626,06-07-2025,Medium,19,Monsoon,Craft Study
+Gujarat,Granite and Marble Blocks,Banaskantha,Bamboo Craft,Manufacturing,Metal,Medium,8.7,311,932,1835,06-07-2025,Medium,12,Monsoon,Artisan Survey
+Gujarat,Food Processing/Milk Preparation,Banaskantha,Pottery,Food Processing,Natural Fibre,Medium,6.2,132,466,867,06-08-2025,Medium,12,Monsoon,Craft Study
+Gujarat,Soof Embroidery/Applique,Banaskantha,Metal Craft,Handloom,Natural Fibre,Small,5.3,122,500,912,06-08-2025,Medium,5,Monsoon,Craft Study
+Gujarat,"Chemicals (Chemicals,Agro Chemicals, Pesticide, Pharmaceutical, API)",Bharuch,Leather Craft,Others,Cotton,Medium,9.1,258,761,1503,06-09-2025,Medium,12,Monsoon,Government
+Gujarat,Sujani,Bharuch,Stone Craft,Handloom,Cotton,Large,13.7,400,983,2162,06-09-2025,High,14,Monsoon,Artisan Survey
+Gujarat,Dehydrated Vegetables (Onion),Bhavnagar,Natural Fibre Craft,Food Processing,Wood,Large,23,302,1416,2608,06-10-2025,Low,20,Monsoon,Government
+Gujarat,Beadwork,Bhavnagar,Lacquer Craft,Handicraft,Wood,Small,2.5,132,264,538,06-10-2025,Medium,2,Monsoon,Craft Study
+Gujarat,Peanut butter,Bhavnagar,Handloom Craft,Food Processing,Clay,Medium,8.9,119,559,1108,06-11-2025,Medium,4,Monsoon,Marketplace
+Gujarat,Groundnuts/ Peanuts,Botad,Wood Craft,Agriculture,Clay,Small,4.9,66,418,868,06-11-2025,High,1,Monsoon,Marketplace
+Gujarat,Jining,Botad,Textile Craft,Manufacturing,Bamboo,Small,2.2,74,246,532,06-12-2025,High,16,Monsoon,Craft Study
+Gujarat,Sankheda furniture,Chhota Udaipur,Bamboo Craft,Handicraft,Bamboo,Small,4.4,88,341,516,06-12-2025,High,2,Monsoon,Artisan Survey
+Gujarat,Pithora Painting,Chhota Udaipur,Pottery,Handicraft,Leather,Large,21.4,432,1370,2042,6/13/2025,Medium,19,Monsoon,Craft Study
+Gujarat,Furniture Products,Chhota Udaipur,Metal Craft,Handicraft,Clay,Large,10.9,154,609,1126,6/13/2025,Low,8,Monsoon,Government
+Gujarat,Corn Products,Dahod,Leather Craft,Food Processing,Leather,Medium,8.6,239,861,1491,6/13/2025,Medium,6,Monsoon,Government
+Gujarat,Soyabean/Soya Based Products,Dahod,Stone Craft,Agriculture,Natural Fibre,Medium,6.8,159,642,1178,6/14/2025,High,20,Monsoon,Government
+Gujarat,Kharif Maiz (Agro),Dahod,Natural Fibre Craft,Agriculture,Bamboo,Medium,9.6,113,544,1103,6/14/2025,High,15,Monsoon,Marketplace
+Gujarat,Ravi Maiz (Agro),Dahod,Lacquer Craft,Agriculture,Cotton,Medium,5.8,201,602,1289,6/15/2025,High,11,Monsoon,Marketplace
+Gujarat,Nagali Products,Dang,Handloom Craft,Food Processing,Natural Fibre,Medium,11.6,130,900,1534,6/15/2025,Low,18,Monsoon,Government
+Gujarat,Strawberry & Strawberry Products,Dang,Wood Craft,Food Processing,Metal,Medium,11.3,293,1116,2188,6/16/2025,High,16,Monsoon,Artisan Survey
+Gujarat,Khambhaliya Shawl,Devbhoomi Dwarka,Textile Craft,Handloom,Bamboo,Small,2.7,97,310,470,6/16/2025,High,13,Monsoon,Government
+Gujarat,Marine & Fisheries/ Dholdara Fish,Devbhoomi Dwarka,Bamboo Craft,Marine,Metal,Small,3.3,203,437,789,6/17/2025,Medium,7,Monsoon,Artisan Survey
+Gujarat,Salt,Devbhoomi Dwarka,Pottery,Food Processing,Clay,Large,18.2,174,1190,1629,6/17/2025,Medium,20,Monsoon,Craft Study
+Gujarat,Software & Financial Services,Gandhinagar,Metal Craft,Others,Natural Fibre,Medium,10,167,840,1494,6/18/2025,Medium,15,Monsoon,Marketplace
+Gujarat,Wood work/ Block Making,Gandhinagar,Leather Craft,Handicraft,Cotton,Large,16.2,340,1420,2575,6/18/2025,Medium,19,Monsoon,Marketplace
+Gujarat,Kesar Mango,Gir Somnath,Stone Craft,Agriculture,Natural Fibre,Small,2.6,119,293,579,6/19/2025,Medium,20,Monsoon,Government
+Gujarat,Marine & Fisheries Industry,Gir Somnath,Natural Fibre Craft,Marine,Natural Fibre,Medium,5.7,164,457,869,6/19/2025,Low,11,Monsoon,Government
+Gujarat,Ceramic Tiles,Himmatnagar/Sabarkantha,Lacquer Craft,Manufacturing,Cotton,Small,6,161,564,933,6/20/2025,High,8,Monsoon,Artisan Survey
+Gujarat,Potato (Cold Storage),Himmatnagar/Sabarkantha,Handloom Craft,Agriculture,Cotton,Small,3.8,131,419,568,6/20/2025,High,19,Monsoon,Marketplace
+Gujarat,Terracotta,Himmatnagar/Sabarkantha,Wood Craft,Handicraft,Clay,Small,5.5,60,394,571,6/21/2025,High,20,Monsoon,Government
+Gujarat,Bandhani,Jamnagar,Textile Craft,Handloom,Wood,Small,3.9,151,418,910,6/21/2025,Medium,3,Monsoon,Craft Study
+Gujarat,Petrochemcials,Jamnagar,Bamboo Craft,Others,Bamboo,Large,22.9,216,1390,2966,6/22/2025,Low,13,Monsoon,Artisan Survey
+Gujarat,Brass Parts,Jamnagar,Pottery,Manufacturing,Clay,Small,2.4,82,279,454,6/22/2025,Medium,13,Monsoon,Artisan Survey
+Gujarat,Groundnuts/Peanuts (Peanut Based Products),Junagadh,Metal Craft,Food Processing,Natural Fibre,Medium,5.8,175,571,896,6/23/2025,High,15,Monsoon,Marketplace
+Gujarat,Beadwork,Junagadh,Leather Craft,Handicraft,Natural Fibre,Medium,11.5,129,919,1582,6/23/2025,Medium,20,Monsoon,Craft Study
+Gujarat,Mango,Junagadh,Stone Craft,Agriculture,Cotton,Medium,11.6,248,1118,2165,6/24/2025,High,6,Monsoon,Government
+Gujarat,Agro Products,Kheda (Nadiad),Natural Fibre Craft,Food Processing,Natural Fibre,Medium,7.2,151,547,904,6/24/2025,Medium,20,Monsoon,Government
+Gujarat,Mathia,Kheda (Nadiad),Lacquer Craft,Food Processing,Wood,Small,3.4,142,387,545,6/25/2025,Medium,13,Monsoon,Craft Study
+Gujarat,Handicraft Items,Kachch,Handloom Craft,Handicraft,Leather,Large,16.3,382,1189,2012,6/25/2025,High,2,Monsoon,Craft Study
+Gujarat,Green Dates,Kachch,Wood Craft,Agriculture,Leather,Large,15.8,426,1094,1719,6/26/2025,Medium,11,Monsoon,Marketplace
+Gujarat,Salt,Kachch,Textile Craft,Food Processing,Natural Fibre,Medium,6.3,167,478,777,6/26/2025,High,3,Monsoon,Government
+Gujarat,Bhujodi Shawl weaving,Kachchh,Bamboo Craft,Handloom,Cotton,Medium,11.3,248,751,1118,6/27/2025,Medium,20,Monsoon,Government
+Gujarat,Hand Embroidery,Kachchh,Pottery,Handloom,Natural Fibre,Small,3,112,311,594,6/27/2025,Low,16,Monsoon,Artisan Survey
+Gujarat,Ajrakh,Kachchh,Metal Craft,Handicraft,Wood,Large,19.9,275,1160,2085,6/28/2025,Low,19,Monsoon,Artisan Survey
+Gujarat,Leather Work,Kachchh,Leather Craft,Handicraft,Clay,Small,2.3,67,223,352,6/28/2025,High,13,Monsoon,Government
+Gujarat,Food Processing Papaya,Mahisagar,Stone Craft,Food Processing,Clay,Small,2.2,83,278,506,6/29/2025,Medium,8,Monsoon,Government
+Gujarat,Dairy/ Milk Product,Mehsana,Natural Fibre Craft,Dairy,Bamboo,Small,4.6,84,341,603,6/29/2025,High,9,Monsoon,Artisan Survey
+Gujarat,Agri Products,Mehsana,Lacquer Craft,Food Processing,Wood,Medium,7.4,181,622,1261,6/30/2025,High,19,Monsoon,Artisan Survey
+Gujarat,Cumin,Mehsana,Handloom Craft,Agriculture,Leather,Medium,9.6,292,985,2130,6/30/2025,Medium,4,Monsoon,Marketplace
+Gujarat,Castor,Mehsana,Wood Craft,Food Processing,Bamboo,Medium,5.7,119,503,735,07-01-2025,High,18,Monsoon,Marketplace
+Gujarat,Ceramic Tiles & Sanitary Ware,Morbi,Textile Craft,Manufacturing,Metal,Medium,11.6,313,861,1809,07-01-2025,High,9,Monsoon,Craft Study
+Gujarat,Pottery,Morbi,Bamboo Craft,Handicraft,Bamboo,Small,5,84,345,672,07-02-2025,Low,12,Monsoon,Government
+Gujarat,Banana,Narmada,Pottery,Agriculture,Bamboo,Large,22.3,219,1534,2974,07-02-2025,High,14,Monsoon,Marketplace
+Gujarat,Bamboo Products,Narmada,Metal Craft,Handicraft,Natural Fibre,Medium,6,175,536,894,07-03-2025,Medium,2,Monsoon,Marketplace
+Gujarat,Sugarcane value added products,Narmada,Leather Craft,Food Processing,Wood,Medium,7.2,212,523,859,07-03-2025,Medium,3,Monsoon,Marketplace
+Gujarat,Mango (Hafus),Navsari,Stone Craft,Agriculture,Leather,Small,3.5,205,415,562,07-04-2025,Medium,4,Monsoon,Craft Study
+Gujarat,Warli,Navsari,Natural Fibre Craft,Handicraft,Leather,Large,17.5,450,1455,3179,07-04-2025,High,16,Monsoon,Marketplace
+Gujarat,Plastic Products,Panchmahal,Lacquer Craft,Manufacturing,Bamboo,Small,3.2,92,279,520,07-05-2025,Low,2,Monsoon,Marketplace
+Gujarat,Agro (Turmeric),Panchmahal,Handloom Craft,Agriculture,Cotton,Small,2.2,176,376,636,07-05-2025,Medium,13,Monsoon,Government
+Gujarat,Double Ikkat Patan,Patan,Wood Craft,Handloom,Wood,Medium,7.6,188,512,928,07-06-2025,Medium,3,Monsoon,Artisan Survey
+Gujarat,Cumin,Patan,Textile Craft,Agriculture,Natural Fibre,Small,3,115,337,467,07-06-2025,Low,16,Monsoon,Government
+Gujarat,Isabgul,Patan,Bamboo Craft,Agriculture,Natural Fibre,Small,3.5,117,381,571,07-06-2025,High,20,Monsoon,Government
+Gujarat,Patola,Patan,Pottery,Handloom,Cotton,Medium,6.4,239,591,1111,07-07-2025,High,9,Monsoon,Marketplace
+Gujarat,Marine (Queen Fish),Porbandar,Metal Craft,Marine,Wood,Medium,6.8,200,666,1190,07-07-2025,Low,5,Monsoon,Marketplace
+Gujarat,Engineering Goods/Machine products,Rajkot,Leather Craft,Manufacturing,Wood,Large,18.8,266,1245,2514,07-08-2025,Low,9,Monsoon,Craft Study
+Gujarat,Single Ikat weaving,Rajkot,Stone Craft,Handicraft,Wood,Small,3.6,129,319,609,07-08-2025,High,14,Monsoon,Artisan Survey
+Gujarat,Gems and Jewellery,Surat,Natural Fibre Craft,Handicraft,Leather,Medium,7.4,296,855,1591,07-09-2025,Low,15,Monsoon,Artisan Survey
+Gujarat,Zari and Zardosi,Surat,Lacquer Craft,Handicraft,Natural Fibre,Medium,8.7,128,637,1301,07-09-2025,Low,13,Monsoon,Government
+Gujarat,Sadeli,Surat,Handloom Craft,Handicraft,Cotton,Medium,10.4,253,801,1128,07-10-2025,High,12,Monsoon,Marketplace
+Gujarat,Single Ikat weaving,Surendranagar,Wood Craft,Handloom,Leather,Medium,7.7,298,850,1647,07-10-2025,High,13,Monsoon,Craft Study
+Gujarat,Tangaliya Shawl,Surendranagar,Textile Craft,Handloom,Cotton,Medium,9.1,197,834,1633,07-11-2025,Medium,5,Monsoon,Marketplace
+Gujarat,Spinning and Cotton Yarn,Surendranagar,Bamboo Craft,Textile,Bamboo,Large,23.5,218,1649,2612,07-11-2025,Medium,5,Monsoon,Artisan Survey
+Gujarat,Rice based products,Tapi,Pottery,Food Processing,Metal,Small,4.1,231,414,628,07-12-2025,High,19,Monsoon,Marketplace
+Gujarat,Bamboo Products,Tapi,Metal Craft,Handicraft,Leather,Small,5.6,219,514,787,07-12-2025,Medium,12,Monsoon,Government
+Gujarat,Peanuts,Tapi,Leather Craft,Agriculture,Natural Fibre,Medium,10.6,148,816,1239,7/13/2025,Medium,18,Monsoon,Marketplace
+Gujarat,Fruits,Tapi,Stone Craft,Agriculture,Wood,Large,10.8,331,851,1528,7/13/2025,High,13,Monsoon,Government
+Gujarat,Lady Finger,Tapi,Natural Fibre Craft,Agriculture,Cotton,Small,3.7,153,398,583,7/14/2025,Medium,10,Monsoon,Government
+Gujarat,Pharmaceuticals,Vadodara,Lacquer Craft,Others,Cotton,Medium,9.9,231,894,1708,7/14/2025,Medium,12,Monsoon,Government
+Gujarat,Engineering Products,Vadodara,Handloom Craft,Manufacturing,Bamboo,Large,23.8,163,1308,1883,7/15/2025,Medium,14,Monsoon,Government
+Gujarat,Chemical Products,Valsad,Wood Craft,Others,Natural Fibre,Medium,8.2,161,518,711,7/15/2025,Medium,4,Monsoon,Marketplace
+Gujarat,Mango,Valsad,Textile Craft,Agriculture,Leather,Large,11.3,493,926,1501,7/16/2025,Medium,10,Monsoon,Craft Study
+Gujarat,Prawns,Valsad,Bamboo Craft,Marine,Bamboo,Medium,8.9,126,626,947,7/16/2025,Medium,15,Monsoon,Marketplace
+Haryana,Scientific Equipment,Ambala,Pottery,Manufacturing,Natural Fibre,Medium,5.9,154,584,1279,7/17/2025,Medium,2,Monsoon,Artisan Survey
+Haryana,Precision Engineering Products,Ambala,Metal Craft,Manufacturing,Clay,Small,5,79,465,748,7/17/2025,High,2,Monsoon,Marketplace
+Haryana,Milk Product,Bhiwani,Leather Craft,Dairy,Clay,Large,17.1,174,867,1334,7/18/2025,Medium,4,Monsoon,Government
+Haryana,Cattle Feed,Bhiwani,Stone Craft,Agriculture,Clay,Medium,10.1,95,593,900,7/18/2025,Low,12,Monsoon,Government
+Haryana,Plastic Products,Bhiwani,Natural Fibre Craft,Manufacturing,Cotton,Medium,11.1,261,952,1588,7/19/2025,Medium,5,Monsoon,Craft Study
+Haryana,"Mining & Crushing equipment for Minerals & Stones (Jaws and Screens, etc)",Charkhi Dadri,Lacquer Craft,Manufacturing,Natural Fibre,Medium,9.4,165,706,1317,7/19/2025,Medium,9,Monsoon,Marketplace
+Haryana,"Wooden Handicraft Items (Gift item, Furniture etc.)",Charkhi Dadri,Handloom Craft,Handicraft,Wood,Medium,9.3,215,763,1537,7/20/2025,High,3,Monsoon,Craft Study
+Haryana,Auto Components,Faridabad,Wood Craft,Manufacturing,Cotton,Medium,10.3,262,1006,1670,7/20/2025,Medium,6,Monsoon,Government
+Haryana,Machine Tools,Faridabad,Textile Craft,Manufacturing,Cotton,Medium,10.9,258,914,1720,7/21/2025,Medium,1,Monsoon,Artisan Survey
+Haryana,Cotton & Agri-based products,Fatehabad,Bamboo Craft,Agriculture,Cotton,Large,22.2,392,1577,2775,7/21/2025,High,17,Monsoon,Artisan Survey
+Haryana,Agriculture Implements,Fatehabad,Pottery,Manufacturing,Wood,Medium,5.3,191,649,1343,7/22/2025,Low,10,Monsoon,Craft Study
+Haryana,Textile and Apparels,Gurugram,Metal Craft,Textile,Wood,Medium,8.9,164,581,1065,7/22/2025,Low,4,Monsoon,Government
+Haryana,Engineering Goods,Gurugram,Leather Craft,Manufacturing,Metal,Small,2.9,218,471,752,7/23/2025,High,11,Monsoon,Craft Study
+Haryana,Agriculture Implements,Hisar,Stone Craft,Manufacturing,Natural Fibre,Medium,11,168,776,1512,7/23/2025,Medium,19,Monsoon,Marketplace
+Haryana,Dairy products,Hisar,Natural Fibre Craft,Dairy,Wood,Medium,9.5,186,752,1539,7/24/2025,High,17,Monsoon,Artisan Survey
+Haryana,Steel Products,Hisar,Lacquer Craft,Manufacturing,Bamboo,Small,3.7,97,378,660,7/24/2025,High,18,Monsoon,Marketplace
+Haryana,Footwear,Jhajjar,Handloom Craft,Manufacturing,Clay,Small,2.8,62,235,514,7/25/2025,High,9,Monsoon,Marketplace
+Haryana,Engineering Goods,Jind,Wood Craft,Manufacturing,Natural Fibre,Medium,7.4,147,579,1214,7/25/2025,Low,8,Monsoon,Marketplace
+Haryana,Poultry Feed,Jind,Textile Craft,dairy,Metal,Medium,9.9,308,821,1246,7/26/2025,High,7,Monsoon,Artisan Survey
+Haryana,Food Processing (Rice Mill & Dairy Products ),Kaithal,Bamboo Craft,Food Processing,Leather,Medium,6.4,280,740,1494,7/26/2025,High,7,Monsoon,Government
+Haryana,Metal Products,Kaithal,Pottery,Manufacturing,Metal,Small,2.4,186,400,744,7/27/2025,Medium,19,Monsoon,Marketplace
+Haryana,Ayurvedic Products,Karnal,Metal Craft,Others,Bamboo,Small,5.6,76,403,727,7/27/2025,High,3,Monsoon,Marketplace
+Haryana,Food Processing ,Karnal,Leather Craft,Food Processing,Cotton,Small,5.1,176,562,1004,7/28/2025,Medium,18,Monsoon,Artisan Survey
+Haryana,Printing and Packaging,Karnal,Stone Craft,Manufacturing,Natural Fibre,Medium,6.4,153,598,1241,7/28/2025,High,19,Monsoon,Marketplace
+Haryana,Agri - Implements,Kurukshetra,Natural Fibre Craft,Manufacturing,Leather,Large,14.1,388,1098,2052,7/29/2025,Medium,17,Monsoon,Artisan Survey
+Haryana,Tourism (Mahabharata),Kurukshetra,Lacquer Craft,Others,Wood,Small,5.9,108,385,696,7/29/2025,Medium,13,Monsoon,Marketplace
+Haryana,Mustard Oil,Mahendragarh,Handloom Craft,Food Processing,Leather,Medium,10,284,820,1141,7/30/2025,Low,18,Monsoon,Artisan Survey
+Haryana,Apparels,Mewat,Wood Craft,Textile,Wood,Small,4.4,114,294,509,7/30/2025,High,1,Monsoon,Artisan Survey
+Haryana,Food Processing,Mewat,Textile Craft,Food Processing,Leather,Small,3.2,215,368,781,7/30/2025,Medium,17,Monsoon,Artisan Survey
+Haryana,Machineries - Agriculture & Dairy,Palwal,Bamboo Craft,Manufacturing,Leather,Small,3.2,221,467,913,7/31/2025,Low,11,Monsoon,Artisan Survey
+Haryana,Automobile Parts,Panchkula,Pottery,Manufacturing,Wood,Small,2.2,117,280,390,7/31/2025,Low,20,Monsoon,Marketplace
+Haryana,Pharmaceuticals,Panchkula,Metal Craft,Others,Clay,Medium,10.1,106,653,1372,08-01-2025,High,2,Monsoon,Government
+Haryana,Handloom and Textiles,Panipat,Leather Craft,Textile,Wood,Large,10.6,260,973,1997,08-01-2025,Low,19,Monsoon,Artisan Survey
+Haryana,Engineering Goods,Rewari,Stone Craft,Manufacturing,Clay,Small,2,67,250,454,08-02-2025,Medium,12,Monsoon,Government
+Haryana,Motorcycles/ bikes,Rewari,Natural Fibre Craft,Manufacturing,Natural Fibre,Medium,10.1,174,911,1247,08-02-2025,Medium,3,Monsoon,Government
+Haryana,Fastners and Machine Tools,Rohtak,Lacquer Craft,Manufacturing,Wood,Medium,11.6,187,1055,1929,08-03-2025,Medium,11,Monsoon,Artisan Survey
+Haryana,"Cotton Products (Balls, Swabs)",Sirsa,Handloom Craft,Textile,Bamboo,Large,20.6,223,1453,2029,08-03-2025,Medium,1,Monsoon,Marketplace
+Haryana,Sheet Fabrication (Pre Fab Structures),Sirsa,Wood Craft,Manufacturing,Natural Fibre,Medium,8.3,139,800,1298,08-04-2025,Medium,2,Monsoon,Marketplace
+Haryana,Food Processing,Sonipat,Textile Craft,Food Processing,Bamboo,Small,3.9,81,368,694,08-04-2025,High,11,Monsoon,Craft Study
+Haryana,Plastic moulded Products (Electronic Toys),Sonipat,Bamboo Craft,Manufacturing,Wood,Medium,8.1,183,586,1246,08-05-2025,High,17,Monsoon,Government
+Haryana,Stainless Steel Products,Sonipat,Pottery,Manufacturing,Clay,Small,3.3,71,367,607,08-05-2025,Medium,3,Monsoon,Government
+Haryana,Metal Utensils,Yamunanagar,Metal Craft,Manufacturing,Clay,Large,17.3,192,914,1902,08-06-2025,Medium,6,Monsoon,Government
+Haryana,Plywood,Yamunanagar,Leather Craft,Manufacturing,Metal,Medium,8,267,788,1679,08-06-2025,Medium,8,Monsoon,Government
+Himachal Pradesh,Processing of Indian Gooseberry (Amla),Bilaspur,Stone Craft,Food Processing,Bamboo,Medium,9.2,138,675,923,08-07-2025,High,11,Monsoon,Artisan Survey
+Himachal Pradesh,Chamba Rumal,Chamba,Natural Fibre Craft,Handloom,Natural Fibre,Small,5.6,121,350,544,08-07-2025,Medium,1,Monsoon,Artisan Survey
+Himachal Pradesh,Agro-products processing,Hamirpur,Lacquer Craft,Food Processing,Clay,Medium,12,104,661,1291,08-08-2025,Medium,13,Monsoon,Marketplace
+Himachal Pradesh,Kangra Tea,Kangra,Handloom Craft,Agriculture,Bamboo,Large,11.1,186,1045,2083,08-08-2025,High,10,Monsoon,Government
+Himachal Pradesh,Kangra Paintings,Kangra,Wood Craft,Handicraft,Natural Fibre,Medium,7.7,155,600,1010,08-09-2025,Low,20,Monsoon,Marketplace
+Himachal Pradesh,Oil-Himachali Chulli ,Kinnaur,Textile Craft,Food Processing,Natural Fibre,Medium,6.3,143,496,946,08-09-2025,Medium,7,Monsoon,Government
+Himachal Pradesh,Shawl-Kullu,Kullu,Bamboo Craft,Handloom,Clay,Large,14.9,181,843,1577,08-10-2025,Low,10,Monsoon,Artisan Survey
+Himachal Pradesh,Processing of Seabuckthorn (Charma),Lahaul & Spiti,Pottery,Food Processing,Wood,Large,14,295,1057,2092,08-10-2025,Medium,2,Monsoon,Marketplace
+Himachal Pradesh,Steel Furniture,Mandi,Metal Craft,Manufacturing,Metal,Small,2.7,247,475,931,08-11-2025,Medium,19,Monsoon,Government
+Himachal Pradesh,Tourism,Shimla,Leather Craft,Others,Clay,Medium,10.3,107,797,1134,08-11-2025,High,17,Monsoon,Artisan Survey
+Himachal Pradesh,Packaging (Corrugated Boxes),Sirmaur,Stone Craft,Manufacturing,Cotton,Medium,8.5,227,675,1002,08-12-2025,Medium,8,Monsoon,Artisan Survey
+Himachal Pradesh,Mushrooms,Solan,Natural Fibre Craft,Agriculture,Metal,Medium,11.4,330,895,1309,08-12-2025,Low,10,Monsoon,Government
+Himachal Pradesh,Light Engineering Industry,Una,Lacquer Craft,Manufacturing,Leather,Small,2.1,201,378,810,8/13/2025,High,18,Monsoon,Marketplace
+Jammu and Kashmir,Trout Fish,Anantnag,Handloom Craft,Marine,Wood,Small,2.3,147,327,695,8/13/2025,High,6,Monsoon,Marketplace
+Jammu and Kashmir,Crewal Based Shawl,Bandipora,Wood Craft,Textile,Leather,Large,15.6,410,1452,2944,8/14/2025,Medium,5,Monsoon,Government
+Jammu and Kashmir,Apples,Baramulla,Textile Craft,Agriculture,Wood,Large,11.1,343,1066,1545,8/14/2025,High,5,Monsoon,Government
+Jammu and Kashmir,Kani Shawls,Budgam,Bamboo Craft,Handloom,Leather,Large,13.7,508,1211,2226,8/15/2025,Medium,15,Monsoon,Artisan Survey
+Jammu and Kashmir,Natural Oils (Lavender),Doda,Pottery,Manufacturing,Bamboo,Large,23.8,221,1591,2401,8/15/2025,Medium,5,Monsoon,Craft Study
+Jammu and Kashmir,Wicker Willow,Ganderbal,Metal Craft,Handicraft,Wood,Medium,6.5,183,570,948,8/16/2025,Low,2,Monsoon,Marketplace
+Jammu and Kashmir,Basmati Rice,Jammu,Leather Craft,Agriculture,Natural Fibre,Medium,6.4,171,579,913,8/16/2025,Low,4,Monsoon,Marketplace
+Jammu and Kashmir,Basholi Pashmina,Kathua,Stone Craft,Handloom,Cotton,Medium,9,211,753,1547,8/17/2025,High,20,Monsoon,Marketplace
+Jammu and Kashmir,Basohli Painting,Kathua,Natural Fibre Craft,Handicraft,Metal,Medium,8.5,335,923,1359,8/17/2025,High,18,Monsoon,Marketplace
+Jammu and Kashmir,Saffron,Kishtwar,Lacquer Craft,Agriculture,Cotton,Medium,9.1,198,716,1360,8/18/2025,Medium,20,Monsoon,Government
+Jammu and Kashmir,Garlic,Kulgam,Handloom Craft,Agriculture,Natural Fibre,Small,3.5,101,361,789,8/18/2025,Low,6,Monsoon,Marketplace
+Jammu and Kashmir,Walnut,Kupwara,Wood Craft,Agriculture,Leather,Medium,10.8,282,845,1634,8/19/2025,High,9,Monsoon,Craft Study
+Jammu and Kashmir,Pecannut,Poonch,Textile Craft,Agriculture,Leather,Small,2.6,189,312,442,8/19/2025,Low,10,Monsoon,Artisan Survey
+Jammu and Kashmir,Saffron,Pulwama,Bamboo Craft,Agriculture,Clay,Small,3.7,69,295,626,8/20/2025,Medium,11,Monsoon,Craft Study
+Jammu and Kashmir,Walnut,Rajouri,Pottery,Agriculture,Clay,Medium,9.8,114,713,1352,8/20/2025,Low,1,Monsoon,Government
+Jammu and Kashmir,Honey,Ramban,Metal Craft,Agriculture,Metal,Medium,11.1,282,971,1687,8/21/2025,Low,12,Monsoon,Marketplace
+Jammu and Kashmir,Aromatic Plants,Reasi,Leather Craft,Agriculture,Leather,Small,3.5,218,479,915,8/21/2025,Medium,1,Monsoon,Marketplace
+Jammu and Kashmir,Mushroom,Samba,Stone Craft,Agriculture,Leather,Large,17.9,392,1518,3184,8/22/2025,High,6,Monsoon,Government
+Jammu and Kashmir,Apple,Shopian,Natural Fibre Craft,Agriculture,Wood,Large,11,322,845,1483,8/22/2025,Medium,6,Monsoon,Government
+Jammu and Kashmir, Silk Carpet (Hand Knotted Carpet),Srinagar,Lacquer Craft,Handicraft,Metal,Small,2.7,237,446,804,8/22/2025,Medium,14,Monsoon,Artisan Survey
+Jammu and Kashmir,Garlic,Udhampur,Handloom Craft,Agriculture,Wood,Small,2.3,125,309,536,8/23/2025,High,18,Monsoon,Artisan Survey
+Jharkhand,Woodcraft,Bokaro,Wood Craft,Handicraft,Bamboo,Small,4.9,93,425,600,8/23/2025,Medium,14,Monsoon,Marketplace
+Jharkhand,Vegetable,Chatra,Textile Craft,Agriculture,Leather,Medium,7,328,730,1474,8/24/2025,High,9,Monsoon,Government
+Jharkhand,Lac Products,Deogarh,Bamboo Craft,Manufacturing,Cotton,Large,20.1,398,1265,1844,8/24/2025,Medium,11,Monsoon,Marketplace
+Jharkhand,Coal,Dhanbad,Pottery,Manufacturing,Leather,Small,2.3,193,350,590,8/25/2025,Medium,11,Monsoon,Government
+Jharkhand,Bamboo,Dumka,Metal Craft,Handicraft,Clay,Medium,11,102,821,1378,8/25/2025,Medium,3,Monsoon,Government
+Jharkhand,Carpets,Garhwa,Leather Craft,Handicraft,Cotton,Small,5.3,173,621,986,8/26/2025,High,20,Monsoon,Marketplace
+Jharkhand,Steel- TMT Bar,Giridih,Stone Craft,Manufacturing,Bamboo,Medium,5.6,114,450,761,8/26/2025,High,19,Monsoon,Government
+Jharkhand,Tasar Silk,Godda,Natural Fibre Craft,Handloom,Clay,Large,10.3,181,670,1256,8/27/2025,High,5,Monsoon,Craft Study
+Jharkhand,Ragi,Gumla,Lacquer Craft,Agriculture,Leather,Small,2.2,189,353,570,8/27/2025,Low,3,Monsoon,Marketplace
+Jharkhand,Sohrai Painting,Hazaribagh,Handloom Craft,Handicraft,Metal,Small,5.4,238,652,976,8/28/2025,Medium,4,Monsoon,Government
+Jharkhand,Paithkar Painting,Jamshedpur (East Singhbhum),Wood Craft,Handicraft,Natural Fibre,Medium,6.6,132,502,1049,8/28/2025,High,13,Monsoon,Government
+Jharkhand,Nuts-Cashew,Jamtara,Textile Craft,Agriculture,Natural Fibre,Medium,8.8,130,763,1660,8/29/2025,Medium,1,Monsoon,Artisan Survey
+Jharkhand,Lac,Khunti,Bamboo Craft,Handicraft,Leather,Large,16,537,1187,2065,8/29/2025,High,3,Monsoon,Government
+Jharkhand,Mica,Koderma,Pottery,Manufacturing,Metal,Large,21.1,554,1326,2159,8/30/2025,Medium,13,Monsoon,Government
+Jharkhand,Mahua,Latehar,Metal Craft,Food Processing,Bamboo,Small,4,97,343,477,8/30/2025,Medium,3,Monsoon,Marketplace
+Jharkhand,Honey,Lohardaga,Leather Craft,Agriculture,Bamboo,Small,4,99,296,409,8/31/2025,High,2,Monsoon,Government
+Jharkhand,Jute,Pakur,Stone Craft,Handicraft,Wood,Medium,11.9,181,986,1660,8/31/2025,Medium,1,Monsoon,Marketplace
+Jharkhand,Pulses-Arhar,Palamu,Natural Fibre Craft,Agriculture,Bamboo,Small,2.6,80,275,589,09-01-2025,Medium,15,Monsoon,Marketplace
+Jharkhand,Silver Jewellery,Ramgarh,Lacquer Craft,Manufacturing,Natural Fibre,Large,21.6,215,1206,2377,09-01-2025,Medium,8,Monsoon,Government
+Jharkhand,Ready Made Garments,Ranchi,Handloom Craft,Textile,Bamboo,Medium,5.4,123,421,693,09-02-2025,High,6,Monsoon,Artisan Survey
+Jharkhand,Jute,Sahibganj,Wood Craft,Handicraft,Wood,Small,3.9,117,391,850,09-02-2025,Medium,13,Monsoon,Marketplace
+Jharkhand,Kharsawan Silk,Saraikela- Kharsawan,Textile Craft,Textile,Metal,Large,22.4,565,1645,2820,09-03-2025,Medium,4,Monsoon,Marketplace
+Jharkhand,Minor Forest Produce,Simdega,Bamboo Craft,Agriculture,Natural Fibre,Small,4.7,89,316,501,09-03-2025,High,11,Monsoon,Government
+Jharkhand,Custard Apple,West Singhbhum (chaibassa),Pottery,Agriculture,Natural Fibre,Medium,9.8,135,751,1286,09-04-2025,Medium,10,Monsoon,Marketplace
+Karnataka,Ilkal Sarees,Bagalkote,Metal Craft,Handloom,Cotton,Medium,6.8,206,555,849,09-04-2025,High,14,Monsoon,Government
+Karnataka,Steel and Allied activities,Ballari (Bellary),Leather Craft,Manufacturing,Clay,Medium,7.9,92,608,1278,09-05-2025,High,13,Monsoon,Marketplace
+Karnataka,Bellary Denim Jeans,Ballary,Stone Craft,Textile,Clay,Medium,7.6,93,442,732,09-05-2025,Medium,14,Monsoon,Government
+Karnataka,Auto components,Belagavi (Belgaum),Natural Fibre Craft,Manufacturing,Cotton,Medium,8.7,238,835,1594,09-06-2025,High,5,Monsoon,Craft Study
+Karnataka,Foundry,Belagavi,Lacquer Craft,Manufacturing,Cotton,Large,16.5,340,1451,2439,09-06-2025,Medium,3,Monsoon,Government
+Karnataka,Ready-made Garment Manufacturing,Bengaluru (Bangalore) Rural,Handloom Craft,Textile,Cotton,Large,14.6,375,1048,2218,09-07-2025,Low,11,Monsoon,Craft Study
+Karnataka,Aerospace & Defense,Bengaluru (Bangalore) Rural,Wood Craft,Manufacturing,Natural Fibre,Medium,7.1,174,494,937,09-07-2025,Medium,2,Monsoon,Craft Study
+Karnataka,IT/ITES and R&D,Bengaluru (Bangalore) Urban,Textile Craft,Others,Leather,Small,3,208,438,773,09-08-2025,Medium,10,Monsoon,Marketplace
+Karnataka,Handloom Silk Sarees,Bengaluru Urban,Bamboo Craft,Handloom,Leather,Medium,7.6,306,758,1108,09-08-2025,Low,13,Monsoon,Government
+Karnataka,Bidari ware,Bidar,Pottery,Handicraft,Leather,Large,12.1,438,1199,2538,09-09-2025,Medium,17,Monsoon,Marketplace
+Karnataka,Turmeric,Chamarajanagar,Metal Craft,Agriculture,Natural Fibre,Small,5.5,95,323,586,09-09-2025,Medium,14,Monsoon,Craft Study
+Karnataka,Stone Work,Chamarajanagara,Leather Craft,Manufacturing,Wood,Medium,9.2,173,649,1033,09-10-2025,Medium,20,Monsoon,Marketplace
+Karnataka,ESDM,Chikkballapur,Stone Craft,Manufacturing,Natural Fibre,Medium,5.9,178,525,1101,09-10-2025,Low,12,Monsoon,Marketplace
+Karnataka,Shidlagatta silk and Raw Silk based sarees,Chikkaballapura,Natural Fibre Craft,Handloom,Wood,Small,4.8,135,539,753,09-11-2025,High,9,Monsoon,Government
+Karnataka,Coffee-Arabica,Chikkamagaluru (Chikmagalur),Lacquer Craft,Agriculture,Clay,Medium,10.9,95,667,1079,09-11-2025,Medium,5,Monsoon,Artisan Survey
+Karnataka,Spice,Chikkamagaluru (Chikmagalur),Handloom Craft,Agriculture,Metal,Medium,6.7,302,773,1396,09-12-2025,Low,14,Monsoon,Government
+Karnataka,"Areca leaf based Products (Plates, Cups Etc)",Chikkamagaluru,Wood Craft,Manufacturing,Bamboo,Medium,6.1,137,589,965,09-12-2025,Medium,17,Monsoon,Government
+Karnataka,Molakalmuru Sarees,Chitradurga,Textile Craft,Handloom,Cotton,Large,10.1,382,875,1536,9/13/2025,Medium,7,Monsoon,Government
+Karnataka,Marine Products,Dakshina Kannada,Bamboo Craft,Marine,Cotton,Large,10.7,368,883,1390,9/13/2025,Medium,2,Monsoon,Marketplace
+Karnataka,Textile processing,Dakshina Kannada,Pottery,Textile,Leather,Medium,10.3,325,821,1199,9/14/2025,Medium,1,Monsoon,Craft Study
+Karnataka,Millets,Davangere,Metal Craft,Agriculture,Bamboo,Small,5.9,91,457,631,9/14/2025,Low,13,Monsoon,Artisan Survey
+Karnataka,Cotton based processing (ginning) & garmenting,Davanagere,Leather Craft,Textile,Bamboo,Medium,5.3,129,459,681,9/14/2025,High,14,Monsoon,Government
+Karnataka,FMCG,Dharwad,Stone Craft,Food Processing,Natural Fibre,Large,20.5,220,1299,2806,9/15/2025,Medium,3,Monsoon,Marketplace
+Karnataka,Volve Mfg,Dharwad,Natural Fibre Craft,Manufacturing,Cotton,Medium,5.5,195,475,874,9/15/2025,Low,1,Monsoon,Artisan Survey
+Karnataka,Byadagi Chilies,Gadag,Lacquer Craft,Agriculture,Natural Fibre,Large,18.3,285,1467,2590,9/16/2025,High,14,Monsoon,Marketplace
+Karnataka,Textiles,Gadag,Handloom Craft,Textile,Natural Fibre,Small,5,111,441,739,9/16/2025,Medium,8,Monsoon,Government
+Karnataka,Coir products,Hassan,Wood Craft,Handicraft,Metal,Large,15,478,1357,2649,9/17/2025,Medium,9,Monsoon,Marketplace
+Karnataka,Jacquard Bedsheet,Hassan,Textile Craft,Textile,Cotton,Small,2,163,323,475,9/17/2025,Medium,6,Monsoon,Marketplace
+Karnataka,Chilli-Byadagi ,Haveri,Bamboo Craft,Agriculture,Cotton,Small,4.4,134,353,559,9/18/2025,Medium,15,Monsoon,Craft Study
+Karnataka,Spice Products,Haveri,Pottery,Agriculture,Cotton,Medium,11.9,250,1039,1982,9/18/2025,Medium,15,Monsoon,Artisan Survey
+Karnataka,Toor Daal,Kalaburagi (Gulbarga),Metal Craft,Agriculture,Metal,Small,3,194,360,633,9/19/2025,Low,2,Monsoon,Government
+Karnataka,Cement,Kalaburagi (Gulbarga),Leather Craft,Manufacturing,Cotton,Small,2.8,174,332,666,9/19/2025,Medium,2,Monsoon,Artisan Survey
+Karnataka,Shahabad stones,Kalaburagi (Gulbarga),Stone Craft,Manufacturing,Clay,Small,2.5,73,223,471,9/20/2025,High,12,Monsoon,Government
+Karnataka,Coffee,Kodagu,Natural Fibre Craft,Agriculture,Wood,Medium,8.9,170,742,1521,9/20/2025,Medium,13,Monsoon,Craft Study
+Karnataka,Spices,Kodagu,Lacquer Craft,Agriculture,Clay,Medium,9.2,86,649,978,9/21/2025,Medium,3,Monsoon,Marketplace
+Karnataka,Homemade chocolates/wines,Kodagu,Handloom Craft,Food Processing,Wood,Small,5.2,143,412,588,9/21/2025,Medium,4,Monsoon,Government
+Karnataka,Automobiles,Kolar,Wood Craft,Manufacturing,Metal,Medium,10.3,274,990,1479,9/22/2025,High,14,Monsoon,Marketplace
+Karnataka,Shivarapatna stone craft,Kolar,Textile Craft,Handicraft,Wood,Large,22.5,250,1743,3514,9/22/2025,Medium,10,Monsoon,Government
+Karnataka,Kinhal Toys,Koppal,Bamboo Craft,Handicraft,Cotton,Small,5.2,172,394,838,9/23/2025,Low,3,Monsoon,Government
+Karnataka,Jaggery,Mandya,Pottery,Food Processing,Cotton,Small,3,150,391,835,9/23/2025,Low,13,Monsoon,Marketplace
+Karnataka,Rice based products,Mandya,Metal Craft,Food Processing,Leather,Large,17.8,442,1340,2149,9/24/2025,High,2,Monsoon,Artisan Survey
+Karnataka,ESDM,Mysuru (Mysore),Leather Craft,Manufacturing,Wood,Large,14.2,270,1307,2698,9/24/2025,Medium,5,Monsoon,Artisan Survey
+Karnataka,Rosewood inlay art,Mysuru (Mysore),Stone Craft,Handicraft,Clay,Medium,7.3,115,499,901,9/25/2025,Low,15,Monsoon,Marketplace
+Karnataka,Pharma,Raichur,Natural Fibre Craft,Others,Metal,Large,23,458,1567,3211,9/25/2025,Low,5,Monsoon,Government
+Karnataka,Cotton and cotton based products,Raichur,Lacquer Craft,Textile,Clay,Small,4.7,65,343,623,9/26/2025,Medium,2,Monsoon,Marketplace
+Karnataka,Channapatna Toys ,Ramanagara,Handloom Craft,Handicraft,Metal,Medium,11.8,287,857,1263,9/26/2025,Medium,20,Monsoon,Marketplace
+Karnataka,EV Cluster,Ramanagara,Wood Craft,Manufacturing,Leather,Medium,7.9,258,766,1086,9/27/2025,Medium,5,Monsoon,Government
+Karnataka,BioPharma and Wellness,Shivamogga (Shimoga),Textile Craft,Others,Bamboo,Small,4.1,81,390,844,9/27/2025,Low,11,Monsoon,Craft Study
+Karnataka,Wooden Carving,Shivamogga,Bamboo Craft,Handicraft,Leather,Medium,8.4,246,640,1096,9/28/2025,High,17,Monsoon,Craft Study
+Karnataka,Machine Tool,Tumakuru (Tumkur),Pottery,Manufacturing,Bamboo,Medium,5.8,109,449,740,9/28/2025,High,20,Monsoon,Government
+Karnataka,Coir based Industries,Tumakuru (Tumkur),Metal Craft,Manufacturing,Natural Fibre,Medium,6.7,149,648,1071,9/29/2025,Medium,17,Monsoon,Artisan Survey
+Karnataka,Marine Products,Udupi,Leather Craft,Marine,Clay,Medium,8.7,116,697,1165,9/29/2025,Low,7,Monsoon,Marketplace
+Karnataka,Gems and Jewellery,Udupi,Stone Craft,Handicraft,Leather,Medium,5.5,244,565,1217,9/30/2025,Medium,18,Monsoon,Government
+Karnataka,Spices,Uttara Kannada (Karwar),Natural Fibre Craft,Agriculture,Natural Fibre,Small,5.7,97,382,536,9/30/2025,Medium,1,Monsoon,Marketplace
+Karnataka,Ayurvedic Medicine Mfg,Uttara Kannada (Karwar),Lacquer Craft,Others,Leather,Small,2.5,229,403,585,10-01-2025,Low,7,Festival,Government
+Karnataka,Sandur Lambani Embroidery,Vijayanagara,Handloom Craft,Handloom,Leather,Medium,6.4,325,815,1647,10-01-2025,Medium,4,Festival,Government
+Karnataka,Resin,Vijayapura (Bijapur),Wood Craft,Agriculture,Clay,Small,5.1,76,453,823,10-02-2025,High,11,Festival,Craft Study
+Karnataka,Agricultural Implements,Vijayapura (Bijapur),Textile Craft,Manufacturing,Wood,Small,2.4,118,332,484,10-02-2025,Medium,18,Festival,Marketplace
+Karnataka,Pharmaceuticals,Yadagiri,Bamboo Craft,Others,Clay,Small,5.6,70,484,668,10-03-2025,High,16,Festival,Government
+Karnataka,Cotton and Cotton based Products,Yadagiri,Pottery,Textile,Cotton,Small,4.9,142,428,659,10-03-2025,Medium,20,Festival,Marketplace
+Kerala,Coir products,Alappuzha,Metal Craft,Handicraft,Natural Fibre,Large,11,215,941,1479,10-04-2025,Medium,3,Festival,Craft Study
+Kerala,Oleo Raisins,Ernakulam,Leather Craft,Agriculture,Cotton,Medium,9.8,216,718,978,10-04-2025,Low,16,Festival,Marketplace
+Kerala,Spices,Idukki,Stone Craft,Agriculture,Cotton,Large,18.8,370,1185,1817,10-05-2025,Medium,15,Festival,Craft Study
+Kerala,Handloom Products,Kannur,Natural Fibre Craft,Handloom,Cotton,Small,5,150,455,900,10-05-2025,Low,10,Festival,Craft Study
+Kerala,Cashew Products,Kasaragod,Lacquer Craft,Food Processing,Metal,Medium,10.8,319,886,1840,10-06-2025,Medium,2,Festival,Government
+Kerala,Cashew Nut Products,Kollam,Handloom Craft,Food Processing,Clay,Medium,10,95,828,1750,10-06-2025,Medium,3,Festival,Artisan Survey
+Kerala,Rubber Products,Kottayam,Wood Craft,Manufacturing,Natural Fibre,Medium,9.1,146,595,1000,10-07-2025,Medium,19,Festival,Artisan Survey
+Kerala,Coconut Products,Kozhikode,Textile Craft,Food Processing,Bamboo,Large,14.5,216,1193,1934,10-07-2025,Medium,6,Festival,Artisan Survey
+Kerala,Food Products,Malappuram,Bamboo Craft,Food Processing,Cotton,Large,19.8,407,1642,3612,10-08-2025,Low,13,Festival,Marketplace
+Kerala,Palakkadan Matta Rice,Palakkad,Pottery,Agriculture,Wood,Large,23.4,277,1663,3333,10-08-2025,Medium,19,Festival,Government
+Kerala,Food Products,Pathanamthitta,Metal Craft,Food Processing,Wood,Small,4.4,132,522,943,10-08-2025,High,10,Festival,Government
+Kerala,Handloom Products,Thiruvananthapuram,Leather Craft,Textile,Bamboo,Small,4.7,80,387,606,10-09-2025,Low,5,Festival,Marketplace
+Kerala,Coconut Products,Thrissur,Stone Craft,Food Processing,Natural Fibre,Medium,8.1,130,589,956,10-09-2025,Medium,10,Festival,Artisan Survey
+Kerala,Coffee,Wayanad,Natural Fibre Craft,Agriculture,Clay,Small,5,78,328,586,10-10-2025,Medium,5,Festival,Artisan Survey
+Ladakh,Apricot,Kargil,Lacquer Craft,Agriculture,Natural Fibre,Medium,12,136,737,1335,10-10-2025,Medium,4,Festival,Marketplace
+Ladakh,Tourism,Kargil,Handloom Craft,Others,Wood,Medium,6.1,180,673,916,10-11-2025,Medium,17,Festival,Government
+Ladakh,Pashmina,Leh,Wood Craft,Handloom,Wood,Medium,6.4,184,586,1269,10-11-2025,Medium,7,Festival,Government
+Ladakh,Seabuckthorn,Leh,Textile Craft,Agriculture,Leather,Large,17.6,410,1304,2398,10-12-2025,Medium,14,Festival,Artisan Survey
+Lakshadweep,Coconut Derived Products,Lakshadweep,Bamboo Craft,Food Processing,Wood,Medium,8.4,159,573,1060,10-12-2025,Medium,15,Festival,Marketplace
+Madhya Pradesh,Oranges,Agar Malwa,Pottery,Agriculture,Wood,Small,4.3,122,393,601,10/13/2025,Medium,11,Festival,Artisan Survey
+Madhya Pradesh,Mahua,Alirajpur,Metal Craft,Food Processing,Bamboo,Small,2.2,99,307,614,10/13/2025,High,11,Festival,Government
+Madhya Pradesh,Kodo Kutki,Anuppur,Leather Craft,Agriculture,Natural Fibre,Medium,7.8,160,610,1206,10/14/2025,High,4,Festival,Marketplace
+Madhya Pradesh,Chanderi Handloom,Ashoknagar,Stone Craft,Handloom,Metal,Medium,9.1,295,909,1301,10/14/2025,Low,11,Festival,Craft Study
+Madhya Pradesh,Ginger,Badhwani,Natural Fibre Craft,Agriculture,Wood,Small,4.3,109,406,753,10/15/2025,Medium,16,Festival,Government
+Madhya Pradesh,Chinnaur Rice,Balaghat,Lacquer Craft,Agriculture,Leather,Medium,9.6,297,952,1818,10/15/2025,Medium,4,Festival,Government
+Madhya Pradesh,Teak,Betul,Handloom Craft,Agriculture,Leather,Medium,10,247,739,1523,10/16/2025,Low,5,Festival,Artisan Survey
+Madhya Pradesh,Mustard,Bhind,Wood Craft,Agriculture,Leather,Large,19,466,1650,2517,10/16/2025,Medium,14,Festival,Marketplace
+Madhya Pradesh,Zari Zardosi,Bhopal,Textile Craft,Handicraft,Natural Fibre,Medium,10.5,167,668,1400,10/17/2025,Medium,20,Festival,Craft Study
+Madhya Pradesh,Jute Products,Bhopal,Bamboo Craft,Handicraft,Cotton,Medium,9.4,220,717,1249,10/17/2025,Medium,8,Festival,Craft Study
+Madhya Pradesh,Banana,Burhanpur,Pottery,Agriculture,Natural Fibre,Small,4.2,100,403,577,10/18/2025,Medium,17,Festival,Artisan Survey
+Madhya Pradesh,Furniture - Wooden,Chhatarpur,Metal Craft,Handicraft,Bamboo,Medium,9.2,104,684,985,10/18/2025,Medium,4,Festival,Government
+Madhya Pradesh,Oranges & Orange Products,Chhindwara,Leather Craft,Agriculture,Leather,Small,2.4,168,291,442,10/19/2025,High,12,Festival,Marketplace
+Madhya Pradesh,Gram,Damoh,Stone Craft,Agriculture,Metal,Medium,6.9,300,811,1290,10/19/2025,High,19,Festival,Craft Study
+Madhya Pradesh,Jaggery,Datia,Natural Fibre Craft,Food Processing,Leather,Medium,8.7,325,731,1295,10/20/2025,Low,9,Festival,Marketplace
+Madhya Pradesh,Bamboo,Dewas,Lacquer Craft,Handicraft,Metal,Small,5.5,196,576,1144,10/20/2025,Medium,11,Festival,Craft Study
+Madhya Pradesh,Bagh Prints ,Dhar (Pithampur),Handloom Craft,Handloom,Metal,Small,4.7,221,583,880,10/21/2025,Medium,4,Festival,Artisan Survey
+Madhya Pradesh,Kodo Kutki,Dindori,Wood Craft,Agriculture,Metal,Small,2.4,229,436,956,10/21/2025,Medium,11,Festival,Government
+Madhya Pradesh,Coriander,Guna,Textile Craft,Agriculture,Leather,Large,18.3,390,1621,2411,10/22/2025,Medium,12,Festival,Marketplace
+Madhya Pradesh,Sandstone Tiles,Gwalior,Bamboo Craft,Manufacturing,Leather,Medium,6.6,253,662,1231,10/22/2025,High,20,Festival,Artisan Survey
+Madhya Pradesh,Bamboo,Harda,Pottery,Handicraft,Wood,Small,4.9,122,498,1066,10/23/2025,Low,5,Festival,Government
+Madhya Pradesh,Sightseeing,Hoshangabad,Metal Craft,Others,Leather,Large,21.6,486,1807,3718,10/23/2025,Medium,8,Festival,Government
+Madhya Pradesh,Potato,Indore,Leather Craft,Agriculture,Clay,Medium,9.2,100,732,1391,10/24/2025,High,13,Festival,Artisan Survey
+Madhya Pradesh,Peas,Jabalpur,Stone Craft,Agriculture,Bamboo,Medium,9.1,133,555,1087,10/24/2025,Low,19,Festival,Government
+Madhya Pradesh,Kadaknath Chicken,Jhabua,Natural Fibre Craft,Food Processing,Clay,Large,14.7,185,1117,1635,10/25/2025,Low,5,Festival,Government
+Madhya Pradesh,Cut Stone,Katni,Lacquer Craft,Manufacturing,Natural Fibre,Small,3.8,117,341,463,10/25/2025,High,14,Festival,Artisan Survey
+Madhya Pradesh,Onion,Khandwa,Handloom Craft,Agriculture,Natural Fibre,Small,5.5,126,531,913,10/26/2025,High,18,Festival,Artisan Survey
+Madhya Pradesh,Chilli,Khargone,Wood Craft,Agriculture,Leather,Medium,10.1,312,799,1139,10/26/2025,Medium,13,Festival,Marketplace
+Madhya Pradesh,Kodo Kutki,Mandla,Textile Craft,Agriculture,Clay,Small,4.1,80,341,564,10/27/2025,High,9,Festival,Craft Study
+Madhya Pradesh,Garlic,Mandsaur,Bamboo Craft,Agriculture,Leather,Medium,7.6,320,846,1303,10/27/2025,Medium,5,Festival,Craft Study
+Madhya Pradesh,Oil - Mustard,Morena,Pottery,Food Processing,Bamboo,Small,2.2,93,246,524,10/28/2025,Low,6,Festival,Marketplace
+Madhya Pradesh,Toor Dal,Narsinghpur,Metal Craft,Agriculture,Metal,Small,2.6,237,460,965,10/28/2025,Medium,2,Festival,Government
+Madhya Pradesh,Coriander,Neemuch,Leather Craft,Agriculture,Metal,Small,2.8,247,476,974,10/29/2025,High,4,Festival,Artisan Survey
+Madhya Pradesh,Ginger,Niwari,Stone Craft,Agriculture,Cotton,Medium,7.6,224,592,1158,10/29/2025,High,9,Festival,Government
+Madhya Pradesh,Gooseberry,Panna,Natural Fibre Craft,Agriculture,Cotton,Small,5.8,165,465,689,10/30/2025,Medium,3,Festival,Artisan Survey
+Madhya Pradesh,Basmati Rice,Raisen,Lacquer Craft,Agriculture,Wood,Small,4,130,373,519,10/30/2025,Low,1,Festival,Marketplace
+Madhya Pradesh,Orange,Rajgarh,Handloom Craft,Agriculture,Wood,Large,13.3,331,942,1795,10/31/2025,High,14,Festival,Marketplace
+Madhya Pradesh,Ratlami Namkeen,Ratlam,Wood Craft,Food Processing,Clay,Small,2.4,70,248,470,10/31/2025,Medium,2,Festival,Marketplace
+Madhya Pradesh,Bamboo,Rewa,Textile Craft,Handicraft,Clay,Medium,7.4,114,427,711,10/31/2025,Low,3,Festival,Marketplace
+Madhya Pradesh,Farm Equipment,Sagar,Bamboo Craft,Manufacturing,Cotton,Small,5.3,174,471,825,11-01-2025,High,12,Festival,Craft Study
+Madhya Pradesh,Tomato,Satna,Pottery,Agriculture,Bamboo,Medium,7.7,142,520,918,11-01-2025,Medium,19,Festival,Government
+Madhya Pradesh,Wooden Toys and Handicraft,Sehore,Metal Craft,Handicraft,Metal,Small,5.1,197,469,729,11-02-2025,Medium,15,Festival,Craft Study
+Madhya Pradesh,Cilantro,Seoni,Leather Craft,Agriculture,Cotton,Medium,10.6,242,866,1400,11-02-2025,Low,1,Festival,Government
+Madhya Pradesh,Turmeric,Shahdol,Stone Craft,Agriculture,Bamboo,Small,2.4,94,311,530,11-03-2025,Low,4,Festival,Artisan Survey
+Madhya Pradesh,Onion,Shajapur,Natural Fibre Craft,Agriculture,Bamboo,Large,18.5,226,970,1807,11-03-2025,High,15,Festival,Craft Study
+Madhya Pradesh,Guava,Sheopur,Lacquer Craft,Agriculture,Clay,Large,23.4,187,1334,2885,11-04-2025,Medium,15,Festival,Marketplace
+Madhya Pradesh,Cloth Jacket,Shivpuri,Handloom Craft,Textile,Bamboo,Small,3.6,88,364,658,11-04-2025,Low,8,Festival,Government
+Madhya Pradesh,Carpet (Panja Dari),Sidhi,Wood Craft,Handicraft,Leather,Small,2.2,206,360,710,11-05-2025,Medium,19,Festival,Artisan Survey
+Madhya Pradesh,Kodo Kutki (Millet),Singrauli,Textile Craft,Agriculture,Bamboo,Small,5.7,76,420,855,11-05-2025,Low,18,Festival,Artisan Survey
+Madhya Pradesh,Ginger,Tikamgarh,Bamboo Craft,Agriculture,Clay,Medium,11.2,119,769,1112,11-06-2025,Low,15,Festival,Government
+Madhya Pradesh,Batik print,Ujjain,Pottery,Textile,Bamboo,Small,4.1,79,288,549,11-06-2025,Medium,15,Festival,Marketplace
+Madhya Pradesh,Mahua,Umaria,Metal Craft,Food Processing,Cotton,Large,17.7,388,1565,2754,11-07-2025,Medium,16,Festival,Artisan Survey
+Madhya Pradesh,Farm Equipment,Vidisha,Leather Craft,Manufacturing,Metal,Medium,6.5,339,830,1524,11-07-2025,Medium,3,Festival,Government
+Maharashtra,Cane Sugar,Ahmednagar,Stone Craft,Food Processing,Cotton,Large,21.5,354,1829,2529,11-08-2025,Medium,15,Festival,Marketplace
+Maharashtra,Dairy Products (Milk based products),Ahmednagar,Natural Fibre Craft,Dairy,Bamboo,Medium,8.5,111,540,1145,11-08-2025,Medium,19,Festival,Marketplace
+Maharashtra,Cotton Ginning and pressing,Akola,Lacquer Craft,Textile,Leather,Large,10.5,410,923,1994,11-09-2025,Medium,5,Festival,Government
+Maharashtra,Pulses (Daal),Akola,Handloom Craft,Agriculture,Natural Fibre,Small,4.7,121,373,505,11-09-2025,Low,1,Festival,Artisan Survey
+Maharashtra,Textile,Amravati,Wood Craft,Textile,Metal,Medium,11.7,309,873,1336,11-10-2025,Low,8,Festival,Government
+Maharashtra,Mandarin Orange,Amravati,Textile Craft,Agriculture,Natural Fibre,Small,5.3,93,399,600,11-10-2025,Low,6,Festival,Craft Study
+Maharashtra,Marathwada Kesar Mango,Aurangabad,Bamboo Craft,Agriculture,Leather,Large,13.9,493,1332,2683,11-11-2025,Medium,19,Festival,Marketplace
+Maharashtra,Auto components,Aurangabad,Pottery,Manufacturing,Clay,Medium,5.4,94,375,697,11-11-2025,High,9,Festival,Marketplace
+Maharashtra,Cotton and cotton seed oil,Beed,Metal Craft,Food Processing,Leather,Large,23.2,518,2131,3198,11-12-2025,Low,14,Festival,Marketplace
+Maharashtra,Beed Custard Apple,Beed,Leather Craft,Agriculture,Bamboo,Small,5.7,81,394,804,11-12-2025,High,20,Festival,Marketplace
+Maharashtra,Rice,Bhandara,Stone Craft,Agriculture,Clay,Large,17.5,147,823,1358,11/13/2025,High,16,Festival,Artisan Survey
+Maharashtra,Mineral based products,Buldhana,Natural Fibre Craft,Others,Clay,Medium,9.5,88,790,1376,11/13/2025,Low,15,Festival,Artisan Survey
+Maharashtra,Cotton Related products,Buldhana,Lacquer Craft,Agriculture,Natural Fibre,Medium,8.2,154,681,1144,11/14/2025,Low,20,Festival,Artisan Survey
+Maharashtra,Seeds for planting,Buldhana,Handloom Craft,Agriculture,Leather,Large,15.9,451,1253,2247,11/14/2025,Low,14,Festival,Marketplace
+Maharashtra,Rice,Chandrapur,Wood Craft,Agriculture,Clay,Medium,5.8,111,461,810,11/15/2025,Low,5,Festival,Government
+Maharashtra,Bamboo Products,Chandrapur,Textile Craft,Handicraft,Metal,Medium,5.7,304,602,953,11/15/2025,Medium,15,Festival,Government
+Maharashtra,De-Oiled Cake,Dhule,Bamboo Craft,Food Processing,Cotton,Medium,6.6,213,556,951,11/16/2025,Low,7,Festival,Artisan Survey
+Maharashtra,Textile,Dhule,Pottery,Textile,Leather,Small,5.3,185,545,1157,11/16/2025,High,7,Festival,Marketplace
+Maharashtra,Rice,Gadchiroli,Metal Craft,Agriculture,Clay,Small,2.6,66,254,451,11/17/2025,Medium,13,Festival,Marketplace
+Maharashtra,Forest products,Gadchiroli,Leather Craft,Agriculture,Clay,Small,2.9,82,317,675,11/17/2025,High,7,Festival,Marketplace
+Maharashtra,Rice,Gondia,Stone Craft,Agriculture,Leather,Small,4.2,178,391,711,11/18/2025,High,1,Festival,Marketplace
+Maharashtra,Bamboo Articles,Gondia,Natural Fibre Craft,Handicraft,Metal,Large,13,574,1354,2713,11/18/2025,Medium,20,Festival,Artisan Survey
+Maharashtra,Turmeric,Hingoli,Lacquer Craft,Agriculture,Wood,Medium,6.1,174,635,1016,11/19/2025,High,12,Festival,Marketplace
+Maharashtra,Soyabean and soyabean based products,Hingoli,Handloom Craft,Food Processing,Bamboo,Medium,8.9,106,503,1017,11/19/2025,High,14,Festival,Craft Study
+Maharashtra,Jalgaon Banana,Jalgaon,Wood Craft,Agriculture,Cotton,Medium,7.6,206,511,805,11/20/2025,Medium,17,Festival,Government
+Maharashtra,Plastic PVC Pipes,Jalgaon,Textile Craft,Manufacturing,Leather,Medium,9.4,244,813,1111,11/20/2025,Low,13,Festival,Marketplace
+Maharashtra,Sweet Orange,Jalna,Bamboo Craft,Agriculture,Wood,Medium,11.4,203,1008,1499,11/21/2025,Medium,13,Festival,Government
+Maharashtra,TMT Steel Bars,Jalna,Pottery,Manufacturing,Cotton,Large,12.1,362,1130,1546,11/21/2025,Medium,16,Festival,Artisan Survey
+Maharashtra,Kolhapur Jaggery (Sugarcane Products etc),Kolhapur,Metal Craft,Food Processing,Metal,Large,22.8,465,1873,4036,11/22/2025,Medium,6,Festival,Marketplace
+Maharashtra,Engineering,Kolhapur,Leather Craft,Manufacturing,Metal,Medium,11.3,325,966,2125,11/22/2025,Medium,17,Festival,Marketplace
+Maharashtra,Soya bean and Soya bean based products,Latur,Stone Craft,Food Processing,Clay,Small,5.3,75,340,679,11/23/2025,Medium,15,Festival,Artisan Survey
+Maharashtra,Pulses,Latur,Natural Fibre Craft,Agriculture,Natural Fibre,Medium,9.4,177,735,1060,11/23/2025,High,4,Festival,Marketplace
+Maharashtra,Gems & Jewellery,Mumbai City,Lacquer Craft,Manufacturing,Natural Fibre,Medium,9.3,178,619,1309,11/23/2025,Medium,3,Festival,Government
+Maharashtra,Leather,Mumbai City,Handloom Craft,Handicraft,Wood,Medium,9.5,196,863,1711,11/24/2025,Medium,18,Festival,Marketplace
+Maharashtra,Gems & Jewellery,Mumbai Suburban,Wood Craft,Manufacturing,Natural Fibre,Medium,9.8,170,674,1100,11/24/2025,Medium,18,Festival,Government
+Maharashtra,Marine Produce,Mumbai Suburban,Textile Craft,Marine,Metal,Medium,5.1,338,641,1139,11/25/2025,High,20,Festival,Craft Study
+Maharashtra,Nagpur Orange,Nagpur,Bamboo Craft,Agriculture,Metal,Small,5.8,215,550,1052,11/25/2025,Medium,3,Festival,Artisan Survey
+Maharashtra,Engineering,Nagpur,Pottery,Manufacturing,Wood,Small,4.3,138,420,576,11/26/2025,Low,18,Festival,Artisan Survey
+Maharashtra,Soya bean and soya bean products,Nanded,Metal Craft,Food Processing,Metal,Medium,10.5,263,891,1583,11/26/2025,Medium,18,Festival,Craft Study
+Maharashtra,Spices,Nanded,Leather Craft,Agriculture,Leather,Small,3.5,219,486,959,11/27/2025,Low,16,Festival,Artisan Survey
+Maharashtra,Chilli powder,Nandurbar,Stone Craft,Agriculture,Metal,Small,2,249,414,625,11/27/2025,High,10,Festival,Marketplace
+Maharashtra,Textile,Nandurbar,Natural Fibre Craft,Textile,Wood,Medium,8.6,158,736,1271,11/28/2025,Medium,11,Festival,Government
+Maharashtra,Grapes/Raisins,Nashik,Lacquer Craft,Agriculture,Clay,Medium,8.6,114,756,1363,11/28/2025,Medium,9,Festival,Marketplace
+Maharashtra,Paithani Sarees,Nashik,Handloom Craft,Handloom,Natural Fibre,Small,3.7,124,391,772,11/29/2025,Medium,1,Festival,Craft Study
+Maharashtra,Pulses,Osmanabad,Wood Craft,Agriculture,Leather,Medium,7.4,260,771,1673,11/29/2025,High,11,Festival,Craft Study
+Maharashtra,Sugar,Osmanabad,Textile Craft,Food Processing,Wood,Medium,6.7,186,589,1220,11/30/2025,High,5,Festival,Artisan Survey
+Maharashtra,Dahanu Gholvad Chikoo (Sapota),Palghar,Bamboo Craft,Agriculture,Natural Fibre,Small,4.1,123,413,776,11/30/2025,Medium,5,Festival,Government
+Maharashtra,Marine Produce,Palghar,Pottery,Marine,Natural Fibre,Large,15.3,285,1016,1876,12-01-2025,High,2,Festival,Government
+Maharashtra,Grams (Hara bhara),Parbhani,Metal Craft,Agriculture,Cotton,Large,23.6,315,1652,3077,12-01-2025,Medium,10,Festival,Craft Study
+Maharashtra,Jaggery,Parbhani,Leather Craft,Food Processing,Leather,Medium,6.2,272,551,999,12-02-2025,High,1,Festival,Government
+Maharashtra,Engineering Goods,Pune,Stone Craft,Manufacturing,Bamboo,Medium,7.2,131,423,592,12-02-2025,High,17,Festival,Marketplace
+Maharashtra,Frozen Food,Pune,Natural Fibre Craft,Food Processing,Metal,Small,3.2,195,470,913,12-03-2025,Low,18,Festival,Marketplace
+Maharashtra,Marine Produce,Raigad,Lacquer Craft,Marine,Clay,Large,17.6,154,821,1608,12-03-2025,Medium,17,Festival,Government
+Maharashtra,Iron and Steel,Raigad,Handloom Craft,Manufacturing,Leather,Medium,8.5,240,716,1278,12-04-2025,Medium,7,Festival,Artisan Survey
+Maharashtra,Alphonso Mangoes,Ratnagiri,Wood Craft,Agriculture,Natural Fibre,Large,19,217,1369,2861,12-04-2025,Low,4,Festival,Craft Study
+Maharashtra,Marine Produce,Ratnagiri,Textile Craft,Marine,Leather,Medium,11.7,293,820,1576,12-05-2025,Medium,11,Festival,Artisan Survey
+Maharashtra,Turmeric,Sangli,Bamboo Craft,Agriculture,Natural Fibre,Small,3.1,113,391,648,12-05-2025,Low,14,Festival,Marketplace
+Maharashtra,Pump Spares,Sangli,Pottery,Manufacturing,Natural Fibre,Small,4.8,113,393,537,12-06-2025,Medium,1,Festival,Marketplace
+Maharashtra,Strawberries,Satara,Metal Craft,Agriculture,Wood,Medium,5.2,202,570,798,12-06-2025,Low,18,Festival,Craft Study
+Maharashtra,Jaggery,Satara,Leather Craft,Agriculture,Cotton,Medium,6.8,219,720,1187,12-07-2025,Medium,9,Festival,Marketplace
+Maharashtra,Vengurla Cashew,Sindhudurg,Stone Craft,Agriculture,Leather,Small,3.9,185,396,690,12-07-2025,Medium,17,Festival,Marketplace
+Maharashtra,Devgad Alphonso Mango,Sindhudurg,Natural Fibre Craft,Agriculture,Metal,Medium,5.2,257,518,773,12-08-2025,Medium,2,Festival,Artisan Survey
+Maharashtra,Solapur Terry Towel,Solapur,Lacquer Craft,Textile,Wood,Large,18.6,266,1150,1738,12-08-2025,Medium,9,Festival,Government
+Maharashtra,Pomegranate,Solapur,Handloom Craft,Agriculture,Wood,Medium,9.7,173,735,1136,12-09-2025,High,10,Festival,Government
+Maharashtra,Garments & Textiles,Thane,Wood Craft,Textile,Clay,Medium,10.2,91,601,1210,12-09-2025,High,1,Festival,Craft Study
+Maharashtra,Millets,Thane,Textile Craft,Agriculture,Metal,Small,4.1,180,527,1057,12-10-2025,Medium,15,Festival,Marketplace
+Maharashtra,Cotton Yarn,Wardha,Bamboo Craft,Textile,Cotton,Medium,9.2,199,692,1159,12-10-2025,Low,19,Festival,Government
+Maharashtra,Waigaon Turmeric,Wardha,Pottery,Agriculture,Cotton,Small,3.6,167,444,664,12-11-2025,Low,11,Festival,Government
+Maharashtra,Soya bean and soya bean products,Washim,Metal Craft,Food Processing,Wood,Large,10.6,308,829,1197,12-11-2025,High,8,Festival,Craft Study
+Maharashtra,Cotton related products & Textiles,Washim,Leather Craft,Textile,Clay,Medium,5.7,118,591,842,12-12-2025,Medium,13,Festival,Marketplace
+Maharashtra,Cotton Ginning and pressing,Yavatmal,Stone Craft,Textile,Wood,Medium,9.6,203,709,1193,12-12-2025,High,8,Festival,Marketplace
+Maharashtra,Dolomite and Limestone,Yavatmal,Natural Fibre Craft,Manufacturing,Metal,Small,6,220,611,849,12/13/2025,Medium,8,Festival,Government
+Manipur,Moirang Fi Chanbi Fanek,Bishnupur,Lacquer Craft,Handloom,Clay,Small,2.1,63,277,453,12/13/2025,Low,16,Festival,Craft Study
+Manipur,Turmeric,Chandel,Handloom Craft,Agriculture,Clay,Medium,8.9,105,485,1051,12/14/2025,Medium,12,Festival,Craft Study
+Manipur,Handicrafts - Tribal,Churachandpur,Wood Craft,Handicraft,Metal,Medium,10.3,261,1000,1781,12/14/2025,High,6,Festival,Marketplace
+Manipur,Wangkhei Phee,Imphal East,Textile Craft,Handloom,Clay,Medium,10.8,100,666,1365,12/15/2025,High,9,Festival,Government
+Manipur,Toys- Laiphadibi,Imphal West,Bamboo Craft,Handicraft,Leather,Large,17.6,442,1468,2143,12/15/2025,Medium,17,Festival,Artisan Survey
+Manipur,Khurkul Muga,Imphal West,Pottery,Handloom,Leather,Large,18.7,448,1505,2375,12/16/2025,Medium,11,Festival,Artisan Survey
+Manipur,Bamboo,Jiribam,Metal Craft,Handicraft,Natural Fibre,Large,19.8,228,1436,3094,12/16/2025,Low,2,Festival,Artisan Survey
+Manipur,Rice- Black Chakao,Kakching,Leather Craft,Agriculture,Leather,Small,5.4,214,450,754,12/17/2025,High,18,Festival,Craft Study
+Manipur,King Chilli,Kamjong,Stone Craft,Agriculture,Clay,Medium,5.9,114,415,789,12/17/2025,Medium,15,Festival,Marketplace
+Manipur,Turmeric,Kangpokpi,Natural Fibre Craft,Agriculture,Clay,Large,23,179,1175,2561,12/17/2025,High,6,Festival,Government
+Manipur,Banana,Noney,Lacquer Craft,Agriculture,Cotton,Medium,5.2,235,505,918,12/18/2025,Medium,20,Festival,Marketplace
+Manipur,Ginger,Pherzawl,Handloom Craft,Agriculture,Metal,Small,5.3,218,508,818,12/18/2025,Medium,20,Festival,Artisan Survey
+Manipur,Kiwi,Senapati,Wood Craft,Agriculture,Wood,Large,11.1,248,1022,1842,12/19/2025,Medium,20,Festival,Government
+Manipur,Orange - (Tamenglong Mandarin),Tamenglong,Textile Craft,Agriculture,Natural Fibre,Medium,6.4,165,579,809,12/19/2025,Medium,8,Festival,Government
+Manipur,Bamboo,Tengnoupal,Bamboo Craft,Handicraft,Leather,Medium,5,291,663,958,12/20/2025,High,19,Festival,Artisan Survey
+Manipur,Pineapple,Thoubal,Pottery,Agriculture,Wood,Large,16.2,272,1090,1478,12/20/2025,High,17,Festival,Marketplace
+Manipur,Kachai Lemon,Ukhrul,Metal Craft,Agriculture,Leather,Medium,7.3,270,673,1414,12/21/2025,High,18,Festival,Artisan Survey
+Meghalaya,Pineapple,East Garo Hills,Leather Craft,Agriculture,Wood,Medium,6.2,212,571,1097,12/21/2025,Medium,11,Festival,Government
+Meghalaya,Turmeric,East Jaintia Hills,Stone Craft,Agriculture,Leather,Medium,8.2,299,758,1216,12/22/2025,High,6,Festival,Government
+Meghalaya, Khasi Mandarin (Orange),East Khasi Hills,Natural Fibre Craft,Agriculture,Wood,Medium,7.8,183,646,994,12/22/2025,Medium,5,Festival,Government
+Meghalaya,Cane & Bamboo Handicrafts,East Khasi Hills,Lacquer Craft,Handicraft,Clay,Small,5.1,75,367,709,12/23/2025,Medium,20,Festival,Artisan Survey
+Meghalaya,Kiwi,Eastern West Khasi Hills,Handloom Craft,Agriculture,Metal,Medium,11.3,298,969,2066,12/23/2025,Medium,11,Festival,Artisan Survey
+Meghalaya,Cane & Bamboo Products,Eastern West Khasi Hills,Wood Craft,Handicraft,Leather,Large,19.1,455,1842,2955,12/24/2025,Medium,19,Festival,Marketplace
+Meghalaya,Banana,North Garo Hills,Textile Craft,Agriculture,Bamboo,Small,2.5,80,250,406,12/24/2025,Low,12,Festival,Marketplace
+Meghalaya,Pineapple,Ri-Bhoi,Bamboo Craft,Agriculture,Natural Fibre,Small,3.2,105,348,722,12/25/2025,Medium,11,Festival,Government
+Meghalaya,Eri Silk Handloom (Ryndia),Ri-Bhoi,Pottery,Handloom,Leather,Large,22.8,488,1464,3088,12/25/2025,Low,2,Festival,Artisan Survey
+Meghalaya,Jackfruit,South Garo Hills,Metal Craft,Agriculture,Cotton,Small,2.4,133,314,668,12/26/2025,Medium,9,Festival,Craft Study
+Meghalaya,Pineapple,South West Garo Hills,Leather Craft,Agriculture,Metal,Medium,7.8,338,845,1351,12/26/2025,Low,12,Festival,Artisan Survey
+Meghalaya,Honey,South West Khasi Hills,Stone Craft,Agriculture,Leather,Medium,11.6,266,793,1152,12/27/2025,Medium,3,Festival,Government
+Meghalaya,Cashew,West Garo Hills,Natural Fibre Craft,Agriculture,Bamboo,Medium,11.7,131,868,1496,12/27/2025,High,4,Festival,Marketplace
+Meghalaya, Turmeric (Lakadong),West Jaintia Hills,Lacquer Craft,Agriculture,Leather,Small,3.6,211,418,669,12/28/2025,Medium,12,Festival,Government
+Meghalaya,Black Pottery (Khiew Ranei),West Jaintia Hills,Handloom Craft,Handicraft,Natural Fibre,Medium,9.7,162,587,1233,12/28/2025,Low,5,Festival,Government
+Meghalaya,Cane & Bamboo Handicrafts (Mats),West Khasi Hills,Wood Craft,Handicraft,Leather,Medium,8.2,298,888,1226,12/29/2025,High,15,Festival,Government
+Meghalaya,Ginger,West Khasi Hills,Textile Craft,Agriculture,Leather,Medium,10.3,332,929,1755,12/29/2025,High,10,Festival,Government
+Mizoram,Dragon Fruit,Aizawl,Bamboo Craft,Agriculture,Metal,Small,2.1,216,413,876,12/30/2025,High,9,Festival,Government
+Mizoram,Mizo Chilli,Champhai,Pottery,Agriculture,Cotton,Medium,6,243,593,1293,12/30/2025,High,3,Festival,Artisan Survey
+Mizoram,Passion Fruit,Champhai,Metal Craft,Agriculture,Leather,Medium,9.3,307,978,1861,12/31/2025,High,9,Festival,Government
+Mizoram,Mizo Chilli,Hnahthial,Leather Craft,Agriculture,Bamboo,Small,2.9,78,264,570,12/31/2025,Medium,11,Festival,Artisan Survey
+Mizoram,Pineapple,Khawzawl,Stone Craft,Agriculture,Clay,Small,4.7,66,395,559,01-01-2026,High,12,Winter,Craft Study
+Mizoram,Passion Fruit,Khawzawl,Natural Fibre Craft,Agriculture,Bamboo,Small,3.4,84,354,586,01-01-2026,High,6,Winter,Marketplace
+Mizoram,Dragon Fruit,Kolasib,Lacquer Craft,Agriculture,Bamboo,Small,5.5,80,396,538,01-02-2026,Medium,1,Winter,Marketplace
+Mizoram,Mizo Chilli,Lawngtlai,Handloom Craft,Agriculture,Cotton,Small,5.3,151,484,1057,01-02-2026,High,19,Winter,Artisan Survey
+Mizoram,Banana,Lunglei,Wood Craft,Agriculture,Natural Fibre,Large,16.9,237,1467,3106,01-03-2026,High,20,Winter,Government
+Mizoram,Passion Fruit,Lunglei,Textile Craft,Agriculture,Cotton,Medium,10.4,233,853,1172,01-03-2026,High,19,Winter,Marketplace
+Mizoram,Turmeric,Mamit,Bamboo Craft,Agriculture,Wood,Large,13.8,267,1130,1543,01-04-2026,High,6,Winter,Marketplace
+Mizoram,Ginger,Saitual,Pottery,Agriculture,Natural Fibre,Large,16.9,272,1276,2121,01-04-2026,Medium,13,Winter,Artisan Survey
+Mizoram,Passion Fruit,Saitual,Metal Craft,Agriculture,Clay,Small,2.8,70,326,512,01-05-2026,Medium,3,Winter,Artisan Survey
+Mizoram,Banana,Serchhip,Leather Craft,Agriculture,Clay,Medium,11,110,917,1898,01-05-2026,Medium,19,Winter,Artisan Survey
+Mizoram,Passion Fruit,Serchhip,Stone Craft,Agriculture,Leather,Large,21.5,394,1663,2472,01-06-2026,High,1,Winter,Artisan Survey
+Mizoram,Chilli - Mizo,Siaha,Natural Fibre Craft,Agriculture,Bamboo,Medium,11.3,122,724,1464,01-06-2026,High,10,Winter,Marketplace
+Nagaland,Pineapple,Chumukedima,Lacquer Craft,Agriculture,Wood,Medium,11.1,155,609,1109,01-07-2026,High,18,Winter,Artisan Survey
+Nagaland,Pineapple,Dimapur,Handloom Craft,Agriculture,Leather,Medium,11.7,304,1008,1684,01-07-2026,High,15,Winter,Craft Study
+Nagaland,Bamboo,Dimapur,Wood Craft,Handicraft,Cotton,Small,2.9,149,405,597,01-08-2026,High,18,Winter,Marketplace
+Nagaland,Kholar,Kiphire,Textile Craft,Agriculture,Clay,Medium,11.5,118,798,1754,01-08-2026,Low,10,Winter,Craft Study
+Nagaland,Pickles,Kohima,Bamboo Craft,Food Processing,Natural Fibre,Large,18,231,1043,1956,01-09-2026,High,2,Winter,Craft Study
+Nagaland,Naga Mircha,Kohima,Pottery,Agriculture,Natural Fibre,Large,15.9,251,1027,1770,01-09-2026,Low,1,Winter,Marketplace
+Nagaland,Ginger,Longleng,Metal Craft,Agriculture,Bamboo,Small,4.2,79,376,626,01-09-2026,Medium,4,Winter,Government
+Nagaland,Coffee,Mokokchung,Leather Craft,Agriculture,Leather,Medium,7.4,299,857,1817,01-10-2026,Low,2,Winter,Government
+Nagaland,Tea,Mokokchung,Stone Craft,Agriculture,Metal,Small,3.2,213,438,897,01-10-2026,Medium,9,Winter,Artisan Survey
+Nagaland,Banana,Mokokchung,Natural Fibre Craft,Agriculture,Clay,Large,13.4,157,994,2027,01-11-2026,Medium,2,Winter,Government
+Nagaland,Ginger,Mokokchung,Lacquer Craft,Agriculture,Wood,Small,2.3,116,312,585,01-11-2026,Low,4,Winter,Marketplace
+Nagaland,Large Cardamom,Mon,Handloom Craft,Agriculture,Bamboo,Large,17,171,1365,2873,01-12-2026,Medium,9,Winter,Marketplace
+Nagaland,Tea,Mon,Wood Craft,Agriculture,Metal,Large,22.4,428,1363,2187,01-12-2026,High,15,Winter,Craft Study
+Nagaland,Bamboo,Mon,Textile Craft,Handicraft,Natural Fibre,Small,4.5,126,476,927,1/13/2026,Low,14,Winter,Artisan Survey
+Nagaland,Handicraft,Mon,Bamboo Craft,Handicraft,Wood,Small,4.1,125,450,762,1/13/2026,Medium,2,Winter,Artisan Survey
+Nagaland,Banana,Niuland,Pottery,Agriculture,Leather,Large,16,381,1431,2662,1/14/2026,Low,19,Winter,Marketplace
+Nagaland,Yam,Niuland,Metal Craft,Agriculture,Leather,Small,3.9,232,434,954,1/14/2026,Low,11,Winter,Government
+Nagaland,Rubber,Niuland,Leather Craft,Agriculture,Natural Fibre,Medium,6.5,129,520,1137,1/15/2026,Low,7,Winter,Artisan Survey
+Nagaland,Millet,Noklak,Stone Craft,Agriculture,Bamboo,Large,21.5,191,1483,2648,1/15/2026,Medium,8,Winter,Government
+Nagaland,Ginger,Noklak,Natural Fibre Craft,Agriculture,Wood,Medium,6.4,198,552,1014,1/16/2026,High,17,Winter,Marketplace
+Nagaland,Handicraft,Noklak,Lacquer Craft,Handicraft,Cotton,Medium,10,257,788,1665,1/16/2026,Medium,10,Winter,Craft Study
+Nagaland,Naga Mircha,Peren,Handloom Craft,Agriculture,Leather,Medium,10.3,308,958,2096,1/17/2026,High,5,Winter,Marketplace
+Nagaland,Handicraft,Peren,Wood Craft,Handicraft,Natural Fibre,Small,4.3,106,388,781,1/17/2026,Medium,9,Winter,Marketplace
+Nagaland,Kiwi,Phek,Textile Craft,Agriculture,Metal,Large,22.1,572,1432,2013,1/18/2026,High,2,Winter,Artisan Survey
+Nagaland,Wood/Bamboo,Phek,Bamboo Craft,Handicraft,Wood,Small,3.2,109,307,499,1/18/2026,High,4,Winter,Artisan Survey
+Nagaland,Kholar (Kidney Beans),Shamator,Pottery,Agriculture,Wood,Small,5.5,151,449,948,1/19/2026,Medium,7,Winter,Marketplace
+Nagaland,Turmeric,Tseminyu,Metal Craft,Agriculture,Clay,Small,4.9,80,485,972,1/19/2026,Low,5,Winter,Marketplace
+Nagaland,Kholar,Tuensang,Leather Craft,Agriculture,Metal,Large,21.2,564,2121,4201,1/20/2026,Low,7,Winter,Government
+Nagaland,Anthurium,Tuensang,Stone Craft,Agriculture,Wood,Small,4.7,118,356,683,1/20/2026,Medium,2,Winter,Marketplace
+Nagaland,Banana and Banana Products ,Wokha,Natural Fibre Craft,Food Processing,Metal,Large,21.8,432,1427,2430,1/21/2026,Medium,13,Winter,Government
+Nagaland,Ginger,Wokha,Lacquer Craft,Agriculture,Clay,Medium,12,108,696,1178,1/21/2026,Low,3,Winter,Marketplace
+Nagaland,Passion Fruit,Wokha,Handloom Craft,Agriculture,Wood,Large,15.9,297,1162,2368,1/22/2026,High,5,Winter,Artisan Survey
+Nagaland,Soyabean,Zunheboto,Wood Craft,Agriculture,Wood,Large,21.4,298,1738,2780,1/22/2026,High,20,Winter,Government
+Odisha,Terracotta,Angul,Textile Craft,Handicraft,Clay,Large,20.4,188,1303,2518,1/23/2026,Medium,1,Winter,Marketplace
+Odisha,Marine Products,Balasore,Bamboo Craft,Marine,Leather,Large,16.3,478,1170,2302,1/23/2026,Medium,6,Winter,Government
+Odisha,Stone Craft,Balasore,Pottery,Handicraft,Leather,Small,5.7,188,439,908,1/24/2026,Medium,11,Winter,Government
+Odisha,Handloom,Bargarh,Metal Craft,Handloom,Clay,Medium,7.8,99,491,796,1/24/2026,Medium,7,Winter,Government
+Odisha,Rice,Bhadrak,Leather Craft,Agriculture,Bamboo,Medium,9,108,765,1515,1/25/2026,High,7,Winter,Government
+Odisha,Fish,Bhadrak,Stone Craft,Marine,Natural Fibre,Medium,5.7,138,551,794,1/25/2026,Medium,3,Winter,Craft Study
+Odisha,Cotton,Bolangir,Natural Fibre Craft,Agriculture,Clay,Large,13.2,144,939,1378,1/26/2026,Low,9,Winter,Craft Study
+Odisha,Onion,Bolangir,Lacquer Craft,Agriculture,Bamboo,Large,21.8,218,1305,2225,1/26/2026,Medium,16,Winter,Artisan Survey
+Odisha,Berhampur Patta (Phoda Kumbha) Saree ,Boudh,Handloom Craft,Handloom,Clay,Medium,7.8,110,671,937,1/27/2026,Low,12,Winter,Marketplace
+Odisha,Silver Filigree (Tarakashi Art),Cuttack,Wood Craft,Handicraft,Wood,Medium,7.8,186,640,1380,1/27/2026,Medium,19,Winter,Artisan Survey
+Odisha,Handloom of Maniabandha,Cuttack,Textile Craft,Handloom,Bamboo,Medium,6.7,118,590,1249,1/28/2026,Medium,14,Winter,Craft Study
+Odisha,Watermelon,Deogarh,Bamboo Craft,Agriculture,Clay,Medium,8.4,108,696,969,1/28/2026,Medium,16,Winter,Marketplace
+Odisha,Orange,Deogarh,Pottery,Agriculture,Natural Fibre,Medium,10.6,170,818,1687,1/29/2026,Medium,9,Winter,Government
+Odisha,Litchi,Deogarh,Metal Craft,Agriculture,Leather,Medium,11.3,324,1109,1977,1/29/2026,High,13,Winter,Artisan Survey
+Odisha,Handicrafts,Dhenkanal,Leather Craft,Handicraft,Leather,Small,2.3,204,338,658,1/30/2026,Low,12,Winter,Craft Study
+Odisha,Cashew,Dhenkanal,Stone Craft,Agriculture,Clay,Small,4.3,80,400,842,1/30/2026,High,17,Winter,Government
+Odisha,Cashew Kernel,Gajapati,Natural Fibre Craft,Agriculture,Wood,Medium,8.3,185,547,1007,1/31/2026,Low,11,Winter,Marketplace
+Odisha,Granite Slab,Gajapati,Lacquer Craft,Manufacturing,Bamboo,Medium,9.3,122,632,916,1/31/2026,Medium,9,Winter,Marketplace
+Odisha,Turmeric Oil,Gajapati,Handloom Craft,Food Processing,Natural Fibre,Large,16.3,277,1040,1406,02-01-2026,High,2,Winter,Marketplace
+Odisha,Handloom,Ganjam,Wood Craft,Handloom,Wood,Medium,7.8,177,548,971,02-01-2026,Medium,18,Winter,Artisan Survey
+Odisha,Cashew,Ganjam,Textile Craft,Agriculture,Natural Fibre,Small,3.9,104,324,699,02-01-2026,Low,9,Winter,Marketplace
+Odisha,Granite Slab,Ganjam,Bamboo Craft,Manufacturing,Metal,Small,4.3,201,433,795,02-02-2026,Medium,16,Winter,Craft Study
+Odisha,Rice,Jagatsinghpur,Pottery,Agriculture,Cotton,Small,4,159,446,743,02-02-2026,High,14,Winter,Artisan Survey
+Odisha,Marine,Jagatsinghpur,Metal Craft,Marine,Leather,Large,16.6,466,1397,1923,02-03-2026,High,1,Winter,Government
+Odisha,Stone Carving,Jajpur,Leather Craft,Handicraft,Leather,Small,5.3,212,486,1034,02-03-2026,Medium,14,Winter,Artisan Survey
+Odisha,Handicraft,Jajpur,Stone Craft,Handicraft,Wood,Medium,10.2,180,927,1509,02-04-2026,Low,10,Winter,Artisan Survey
+Odisha,Aluminium Ingot,Jharsuguda,Natural Fibre Craft,Manufacturing,Wood,Large,14.8,267,1292,2518,02-04-2026,Medium,5,Winter,Marketplace
+Odisha,Chilly,Jharsuguda,Lacquer Craft,Agriculture,Metal,Large,21.2,554,1451,2815,02-05-2026,Low,6,Winter,Marketplace
+Odisha,Ginger,Jharsuguda,Handloom Craft,Agriculture,Natural Fibre,Small,5.4,102,405,634,02-05-2026,Low,13,Winter,Artisan Survey
+Odisha,Handicraft (Wood Carving),Kalahandi,Wood Craft,Handicraft,Wood,Small,2.6,148,376,528,02-06-2026,Medium,2,Winter,Marketplace
+Odisha,Kandhamal Haladi,Kandhamal,Textile Craft,Agriculture,Metal,Small,4.3,194,552,926,02-06-2026,High,13,Winter,Government
+Odisha,Golden Grass Product,Kendrapara,Bamboo Craft,Handicraft,Wood,Small,3.1,132,317,513,02-07-2026,Low,17,Winter,Government
+Odisha,Terracotta,Kendujhar (Keonjhar),Pottery,Handicraft,Metal,Small,5,218,596,1159,02-07-2026,High,2,Winter,Government
+Odisha,Fish product,Khurdha,Metal Craft,Marine,Metal,Medium,6.7,342,643,1316,02-08-2026,High,1,Winter,Artisan Survey
+Odisha,Handicrafts (Stone Carving),Khurda,Leather Craft,Handicraft,Wood,Large,19.4,259,1185,1824,02-08-2026,High,2,Winter,Government
+Odisha,Handicrafts (Pattachitra),Khurda,Stone Craft,Handicraft,Metal,Medium,6.8,351,840,1511,02-09-2026,Medium,15,Winter,Marketplace
+Odisha,Handicrafts (Palm Leaf Engraving),Khurda,Natural Fibre Craft,Handicraft,Natural Fibre,Medium,8.6,155,699,968,02-09-2026,Medium,17,Winter,Marketplace
+Odisha,Cashew,Koraput,Lacquer Craft,Agriculture,Natural Fibre,Small,5.8,111,580,889,02-10-2026,Low,20,Winter,Artisan Survey
+Odisha,Millets,Malkangiri,Handloom Craft,Agriculture,Wood,Large,15.3,296,919,1836,02-10-2026,Medium,1,Winter,Marketplace
+Odisha,Tribal Jewellery,Malkangiri,Wood Craft,Handicraft,Cotton,Medium,11.1,190,679,1375,02-11-2026,Medium,10,Winter,Craft Study
+Odisha,Turmeric,Malkangiri,Textile Craft,Agriculture,Cotton,Large,23.8,360,1289,2591,02-11-2026,Medium,1,Winter,Craft Study
+Odisha,Processed Fish,Malkangiri,Bamboo Craft,Marine,Clay,Large,22.2,151,1114,1639,02-12-2026,Low,8,Winter,Government
+Odisha,Rice,Mayurbhanj,Pottery,Agriculture,Cotton,Small,2.7,149,334,607,02-12-2026,Low,7,Winter,Artisan Survey
+Odisha,Maize,Nabarangpur,Metal Craft,Agriculture,Leather,Small,5.3,211,565,966,2/13/2026,High,13,Winter,Government
+Odisha,Brass and Bell Metal,Nayagarh,Leather Craft,Handicraft,Leather,Small,2.1,201,361,792,2/13/2026,High,19,Winter,Artisan Survey
+Odisha,Cotton,Nuapada,Stone Craft,Agriculture,Leather,Medium,7.8,247,762,1452,2/14/2026,Medium,17,Winter,Marketplace
+Odisha,Onion,Nuapada,Natural Fibre Craft,Agriculture,Cotton,Large,22.2,308,1458,3127,2/14/2026,High,2,Winter,Government
+Odisha,Orissa Pattachitra,Puri,Lacquer Craft,Handicraft,Wood,Medium,9.8,165,592,872,2/15/2026,Medium,5,Winter,Government
+Odisha,Marine Products,Puri,Handloom Craft,Marine,Natural Fibre,Medium,8.7,138,674,1168,2/15/2026,Medium,6,Winter,Marketplace
+Odisha,Cotton,Rayagada,Wood Craft,Textile,Bamboo,Medium,7.7,128,434,871,2/16/2026,High,6,Winter,Artisan Survey
+Odisha,Tamarind,Rayagada,Textile Craft,Agriculture,Metal,Small,5.2,192,561,933,2/16/2026,Medium,8,Winter,Artisan Survey
+Odisha,Sambalpuri Bandha Saree,Sambalpur,Bamboo Craft,Handloom,Natural Fibre,Small,4.8,122,345,651,2/17/2026,Medium,13,Winter,Government
+Odisha,Sambalpuri Fabric Jewellery,Sambalpur,Pottery,Handicraft,Wood,Medium,8.3,166,668,1192,2/17/2026,Medium,15,Winter,Government
+Odisha,Chilly,Sambalpur,Metal Craft,Agriculture,Wood,Medium,11.2,159,933,2046,2/18/2026,Medium,19,Winter,Marketplace
+Odisha,Bomkai Saree & Fabrics,Sonepur (Subarnapur),Leather Craft,Textile,Wood,Medium,6.6,208,624,935,2/18/2026,Medium,15,Winter,Marketplace
+Odisha,Bamboo Craft,Sundergarh,Stone Craft,Handicraft,Cotton,Small,2.7,147,354,759,2/19/2026,Medium,6,Winter,Government
+Puducherry,Chemicals and Allied Products,Karaikal,Natural Fibre Craft,Others,Wood,Medium,9.5,180,768,1299,2/19/2026,Medium,4,Winter,Government
+Puducherry,Coir Products,Mahe,Lacquer Craft,Handicraft,Leather,Small,5.9,232,557,974,2/20/2026,Medium,8,Winter,Craft Study
+Puducherry,Pharmaceutical and Allied Products,Puducherry,Handloom Craft,Others,Metal,Large,13.5,567,1426,2566,2/20/2026,Medium,16,Winter,Marketplace
+Puducherry,Fisheries and Allied Products,Yanam,Wood Craft,Marine,Natural Fibre,Small,3,116,365,575,2/21/2026,Medium,20,Winter,Artisan Survey
+Punjab,Embroidery,Amritsar,Textile Craft,Handloom,Leather,Small,2.6,171,411,892,2/21/2026,High,8,Winter,Marketplace
+Punjab,Tourism,Amritsar,Bamboo Craft,Others,Natural Fibre,Medium,11,159,760,1615,2/22/2026,High,4,Winter,Marketplace
+Punjab,Achar-Muraba,Amritsar,Pottery,Food Processing,Cotton,Medium,6.6,263,662,1441,2/22/2026,Medium,1,Winter,Marketplace
+Punjab,Textile-Towels,Barnala,Metal Craft,Textile,Bamboo,Medium,8.5,142,730,1604,2/23/2026,High,2,Winter,Government
+Punjab,Poultry Meat & Chicken,Barnala,Leather Craft,Food Processing,Leather,Medium,11.9,248,950,1823,2/23/2026,Low,13,Winter,Government
+Punjab,Citrus Fruits (Kinnow),Bathinda,Stone Craft,Agriculture,Cotton,Large,10.2,348,890,1543,2/24/2026,Medium,12,Winter,Craft Study
+Punjab,Honey,Bathinda,Natural Fibre Craft,Agriculture,Wood,Medium,8.9,173,625,1296,2/24/2026,Medium,13,Winter,Craft Study
+Punjab,Cotton Yarn,Bathinda,Lacquer Craft,Textile,Metal,Medium,8.6,269,706,967,2/25/2026,Medium,1,Winter,Artisan Survey
+Punjab,Basmati (Rice),Faridkot,Handloom Craft,Agriculture,Leather,Medium,10.7,306,891,1835,2/25/2026,High,9,Winter,Government
+Punjab,Agriculture Implements,Faridkot,Wood Craft,Manufacturing,Natural Fibre,Small,3.4,99,270,479,2/25/2026,High,4,Winter,Government
+Punjab,Forged Items,Fatehgarh Sahib,Textile Craft,Manufacturing,Natural Fibre,Medium,7.9,146,503,967,2/26/2026,Medium,7,Winter,Government
+Punjab,Machine parts/ Rolling Mill Machinery,Fatehgarh Sahib,Bamboo Craft,Manufacturing,Wood,Small,2.7,111,268,447,2/26/2026,Medium,13,Winter,Craft Study
+Punjab,Citrus Fruits (Kinnow),Fazilka,Pottery,Agriculture,Leather,Medium,10.2,287,1051,1748,2/27/2026,Medium,6,Winter,Artisan Survey
+Punjab,Basmati (Rice),Fazilka,Metal Craft,Agriculture,Leather,Small,5.1,177,449,618,2/27/2026,Medium,14,Winter,Marketplace
+Punjab,Basmati (Rice),Ferozepur,Leather Craft,Agriculture,Metal,Large,11.9,481,972,1662,2/28/2026,Low,6,Winter,Craft Study
+Punjab,Chillies,Ferozepur,Stone Craft,Agriculture,Leather,Medium,7.8,252,691,1173,2/28/2026,High,11,Winter,Government
+Punjab,Foundry Cluster,Gurdaspur,Natural Fibre Craft,Manufacturing,Leather,Large,22.5,530,1570,2419,03-01-2026,High,10,Summer,Marketplace
+Punjab,Jaggery,Gurdaspur,Lacquer Craft,Food Processing,Clay,Medium,5,90,475,741,03-01-2026,High,8,Summer,Government
+Punjab,Tractor & parts,Hoshiarpur,Handloom Craft,Manufacturing,Wood,Small,3.2,130,417,770,03-02-2026,Medium,3,Summer,Government
+Punjab,Plywood/ Wood Inlay Products,Hoshiarpur,Wood Craft,Handicraft,Clay,Large,17.8,147,1102,1785,03-02-2026,Low,12,Summer,Craft Study
+Punjab,Sports Goods,Jalandhar,Textile Craft,Manufacturing,Cotton,Medium,7.3,193,621,1277,03-03-2026,Medium,20,Summer,Craft Study
+Punjab,Hand Tools,Jalandhar,Bamboo Craft,Manufacturing,Wood,Medium,6.9,166,576,832,03-03-2026,High,13,Summer,Government
+Punjab,Honey,Jalandhar,Pottery,Agriculture,Wood,Medium,8.2,156,515,948,03-04-2026,Low,15,Summer,Government
+Punjab,Leather,Jalandhar,Metal Craft,Handicraft,Metal,Medium,6.3,270,632,939,03-04-2026,Low,17,Summer,Marketplace
+Punjab,Diesel engine and Auto Parts,Kapurthala,Leather Craft,Manufacturing,Clay,Large,17.4,164,886,1594,03-05-2026,Low,1,Summer,Government
+Punjab,Readymade Garments,Ludhiana,Stone Craft,Textile,Clay,Medium,9.9,108,569,1035,03-05-2026,High,16,Summer,Marketplace
+Punjab,Engineering Goods,Ludhiana,Natural Fibre Craft,Manufacturing,Leather,Small,4.3,173,485,920,03-06-2026,High,5,Summer,Marketplace
+Punjab,Metal Casting,Malerkotla,Lacquer Craft,Manufacturing,Clay,Medium,5.7,100,361,619,03-06-2026,Medium,14,Summer,Government
+Punjab,Embroidery,Malerkotla,Handloom Craft,Handloom,Metal,Medium,10.9,316,801,1428,03-07-2026,Low,20,Summer,Government
+Punjab,Cotton Yarn,Mansa,Wood Craft,Textile,Wood,Large,12.4,268,999,1502,03-07-2026,High,18,Summer,Government
+Punjab,Agriculture Implements,Mansa,Textile Craft,Manufacturing,Leather,Medium,10.4,274,839,1463,03-08-2026,Medium,9,Summer,Craft Study
+Punjab,Agriculture Implements,Moga,Bamboo Craft,Manufacturing,Clay,Medium,7.5,88,466,777,03-08-2026,Low,17,Summer,Marketplace
+Punjab,Litchi,Pathankot,Pottery,Agriculture,Cotton,Large,21,326,1161,2225,03-09-2026,Medium,13,Summer,Marketplace
+Punjab,Phulkari,Patiala,Metal Craft,Handloom,Leather,Medium,6.4,284,641,1102,03-09-2026,Medium,3,Summer,Government
+Punjab,Maize,Rupnagar,Leather Craft,Agriculture,Leather,Medium,6.3,335,660,1328,03-10-2026,Medium,5,Summer,Artisan Survey
+Punjab,Agriculture Implements,Rupnagar,Stone Craft,Manufacturing,Wood,Medium,8.5,216,820,1404,03-10-2026,High,20,Summer,Government
+Punjab,Engineering Goods,Sahibzada Ajit Singh Nagar/Mohali,Natural Fibre Craft,Manufacturing,Cotton,Small,2.1,184,424,657,03-11-2026,Medium,19,Summer,Government
+Punjab,Sculptures,Sahibzada Ajit Singh Nagar/Mohali,Lacquer Craft,Handicraft,Wood,Medium,6.6,180,570,902,03-11-2026,Medium,18,Summer,Artisan Survey
+Punjab,Pharmaceuticals/ Medical Equipment,Sahibzada Ajit Singh Nagar/Mohali,Handloom Craft,Manufacturing,Cotton,Small,4.9,135,405,562,03-12-2026,Medium,8,Summer,Artisan Survey
+Punjab,Vegetable Oil,Sangrur,Wood Craft,Food Processing,Wood,Small,5.3,121,462,836,03-12-2026,Medium,7,Summer,Government
+Punjab,Jaggery,Shahid Bhagat Singh Nagar (Nawanshahar),Textile Craft,Food Processing,Metal,Medium,5.6,280,682,1402,3/13/2026,Low,17,Summer,Marketplace
+Punjab,Agriculture Implements,Sri Muktsar Sahib,Bamboo Craft,Manufacturing,Clay,Medium,11.2,85,603,1208,3/13/2026,Medium,1,Summer,Craft Study
+Punjab,Basmati (Rice),Tarn Taran,Pottery,Agriculture,Natural Fibre,Large,21.2,212,1074,1850,3/14/2026,Medium,18,Summer,Government
+Punjab,Milk,Tarn Taran,Metal Craft,Dairy,Leather,Small,5.5,198,523,793,3/14/2026,Medium,13,Summer,Government
+Punjab,Pears,Tarn Taran,Leather Craft,Agriculture,Metal,Small,4.8,203,546,1138,3/15/2026,High,13,Summer,Marketplace
+Rajasthan,Granite and Marble Products,Ajmer,Stone Craft,Manufacturing,Clay,Large,19.4,146,976,1365,3/15/2026,Medium,9,Summer,Government
+Rajasthan,Automobile Parts,Alwar,Natural Fibre Craft,Manufacturing,Wood,Small,4.1,139,414,699,3/16/2026,Medium,20,Summer,Marketplace
+Rajasthan,Textile Products,Balotra,Lacquer Craft,Textile,Wood,Small,4.6,123,412,856,3/16/2026,Low,15,Summer,Artisan Survey
+Rajasthan,Marble Products,Banswara,Handloom Craft,Manufacturing,Metal,Small,5.7,241,591,995,3/17/2026,Medium,2,Summer,Marketplace
+Rajasthan,Garlic Products,Baran,Wood Craft,Agriculture,Wood,Medium,5.7,168,551,799,3/17/2026,Medium,11,Summer,Marketplace
+Rajasthan,Kasheedakari,Barmer,Textile Craft,Handloom,Wood,Large,14.4,299,1173,1849,3/18/2026,High,18,Summer,Marketplace
+Rajasthan,Quartz and Feldspar Powder ,Beawar,Bamboo Craft,Manufacturing,Cotton,Medium,5.5,201,564,1049,3/18/2026,Medium,2,Summer,Artisan Survey
+Rajasthan,Agro based Products ,Bharatpur,Pottery,Food Processing,Natural Fibre,Medium,11.6,154,663,981,3/19/2026,High,15,Summer,Government
+Rajasthan,Textile Products,Bhilwara,Metal Craft,Textile,Clay,Small,3.8,63,309,589,3/19/2026,Medium,5,Summer,Government
+Rajasthan,Bikaneri  Namkeen ,Bikaner,Leather Craft,Food Processing,Metal,Medium,9.7,272,931,1604,3/20/2026,High,11,Summer,Artisan Survey
+Rajasthan,Rice,Bundi,Stone Craft,Agriculture,Bamboo,Medium,10.9,128,766,1252,3/20/2026,Low,18,Summer,Government
+Rajasthan,Granite and Marble Products,Chittorgarh,Natural Fibre Craft,Manufacturing,Cotton,Small,6,145,456,709,3/20/2026,Medium,10,Summer,Government
+Rajasthan,Wood Products,Churu,Lacquer Craft,Manufacturing,Bamboo,Small,2.6,76,223,457,3/21/2026,Low,1,Summer,Government
+Rajasthan,Stone Product ,Dausa,Handloom Craft,Manufacturing,Wood,Small,5.2,148,564,952,3/21/2026,Low,1,Summer,Artisan Survey
+Rajasthan, Marble & Granite Products,Deedwana-Kuchaman,Wood Craft,Manufacturing,Leather,Small,5.5,170,528,1044,3/22/2026,High,15,Summer,Government
+Rajasthan,Stone Based Products ,Deeg,Textile Craft,Manufacturing,Cotton,Medium,5.3,231,634,1093,3/22/2026,High,19,Summer,Artisan Survey
+Rajasthan,Stone based products ,Dholpur,Bamboo Craft,Manufacturing,Bamboo,Medium,10.3,125,760,1085,3/23/2026,Medium,6,Summer,Artisan Survey
+Rajasthan,Granite Products,Dungarpur,Pottery,Manufacturing,Natural Fibre,Small,3.4,98,317,547,3/23/2026,Medium,19,Summer,Marketplace
+Rajasthan,Agro Based Products ,Hanumangarh,Metal Craft,Agriculture,Metal,Medium,9.5,303,844,1504,3/24/2026,Medium,10,Summer,Government
+Rajasthan,Gems & Jewellery,Jaipur,Leather Craft,Manufacturing,Clay,Medium,8.6,88,541,941,3/24/2026,Medium,2,Summer,Artisan Survey
+Rajasthan,Yellow Stone Products,Jaisalmer,Stone Craft,Manufacturing,Clay,Medium,6.8,110,549,1122,3/25/2026,High,11,Summer,Government
+Rajasthan,Granite Products,Jalore,Natural Fibre Craft,Manufacturing,Leather,Large,11.9,416,1143,2428,3/25/2026,Medium,20,Summer,Craft Study
+Rajasthan,Kota Stone Products,Jhalawar,Lacquer Craft,Manufacturing,Cotton,Medium,5.8,202,527,1064,3/26/2026,High,6,Summer,Artisan Survey
+Rajasthan,Wooden Handicraft Products,Jhunjhunu,Handloom Craft,Handicraft,Metal,Large,11.4,461,1295,2390,3/26/2026,Medium,20,Summer,Government
+Rajasthan,Wooden Furniture Products,Jodhpur,Wood Craft,Handicraft,Natural Fibre,Small,4.6,122,366,663,3/27/2026,High,14,Summer,Artisan Survey
+Rajasthan,Sandstone products ,Karauli,Textile Craft,Manufacturing,Metal,Medium,7.5,339,710,1348,3/27/2026,Low,8,Summer,Marketplace
+Rajasthan,Automobiles Parts ,Khairthal-Tijara,Bamboo Craft,Manufacturing,Clay,Small,2.9,83,242,386,3/28/2026,Medium,14,Summer,Marketplace
+Rajasthan,Kota Doria,Kota,Pottery,Handloom,Cotton,Medium,9.8,237,945,1928,3/28/2026,High,9,Summer,Marketplace
+Rajasthan,Automobiles Parts ,Kotputli-Behror,Metal Craft,Manufacturing,Cotton,Medium,9.8,238,962,1999,3/29/2026,Low,2,Summer,Marketplace
+Rajasthan,Pan Meethi and Spices processing ,Nagaur,Leather Craft,Food Processing,Natural Fibre,Small,4.2,107,409,645,3/29/2026,Low,18,Summer,Artisan Survey
+Rajasthan,Textile Products,Pali,Stone Craft,textile ,Clay,Medium,11.5,117,936,1982,3/30/2026,Medium,8,Summer,Craft Study
+Rajasthan,Sonamukhi Products,Phalodi,Natural Fibre Craft,Food Processing,Bamboo,Small,3.5,86,350,725,3/30/2026,Medium,12,Summer,Government
+Rajasthan,Thewa Jewellery,Pratapgarh,Lacquer Craft,Handicraft,Bamboo,Small,5.3,82,501,857,3/31/2026,High,15,Summer,Marketplace
+Rajasthan,Granite and Marble Products,Rajsamand,Handloom Craft,Manufacturing,Metal,Small,2.3,226,408,866,3/31/2026,High,2,Summer,Artisan Survey
+Rajasthan,Quartz,Salumber,Wood Craft,Manufacturing,Clay,Medium,10.2,104,655,951,04-01-2026,Medium,15,Summer,Artisan Survey
+Rajasthan,Marble Products ,Sawai Madhopur,Textile Craft,Manufacturing,Metal,Small,6,188,635,872,04-01-2026,High,8,Summer,Marketplace
+Rajasthan,Wooden Furniture Products,Sikar,Bamboo Craft,Handicraft,Cotton,Medium,10.9,217,891,1466,04-02-2026,Medium,11,Summer,Marketplace
+Rajasthan,Marble Products ,Sirohi,Pottery,handicraft,Metal,Small,4.3,202,498,912,04-02-2026,High,10,Summer,Artisan Survey
+Rajasthan,Mustard Oil ,Sri Ganganagar,Metal Craft,Food Processing,Clay,Medium,9.4,115,547,902,04-03-2026,Medium,16,Summer,Government
+Rajasthan,Stale stone tiles,Tonk,Leather Craft,Manufacturing,Natural Fibre,Large,14.9,236,1236,2658,04-03-2026,Medium,4,Summer,Government
+Rajasthan,Marble and Granite products ,Udaipur,Stone Craft,Manufacturing,Cotton,Medium,9.8,250,977,1530,04-04-2026,Low,3,Summer,Marketplace
+Sikkim,Tourism,East Sikkim (Gangtok),Natural Fibre Craft,Others,Cotton,Medium,10.4,221,719,1143,04-04-2026,Low,9,Summer,Government
+Sikkim,Pharma related,East Sikkim (Gangtok),Lacquer Craft,Others,Clay,Large,24,178,1884,3560,04-05-2026,High,3,Summer,Government
+Sikkim,Handloom and Handicraft,East Sikkim (Gangtok),Handloom Craft,Handicraft,Clay,Large,16.9,144,1007,1363,04-05-2026,Low,5,Summer,Government
+Sikkim,Buck Wheat,North Sikkim (Mangan),Wood Craft,Agriculture,Metal,Medium,5.4,352,679,1337,04-06-2026,Medium,14,Summer,Artisan Survey
+Sikkim,Orange,North Sikkim (Mangan),Textile Craft,Agriculture,Bamboo,Large,18.3,195,952,1591,04-06-2026,Medium,17,Summer,Craft Study
+Sikkim,Sikkim Large Cardamom,North Sikkim (Mangan),Bamboo Craft,Agriculture,Natural Fibre,Large,11.7,226,979,2135,04-07-2026,Low,14,Summer,Marketplace
+Sikkim,Handloom and Handicraft,North Sikkim (Mangan),Pottery,Handloom,Clay,Medium,6.7,93,519,1006,04-07-2026,Medium,7,Summer,Government
+Sikkim,Floriculture,Pakyong,Metal Craft,Agriculture,Wood,Medium,7.3,170,531,740,04-08-2026,Medium,17,Summer,Artisan Survey
+Sikkim,Sikkim Large Cardamom,Pakyong,Leather Craft,Agriculture,Wood,Small,4.9,123,441,630,04-08-2026,High,9,Summer,Government
+Sikkim,Dalle Khursani,Pakyong,Stone Craft,Agriculture,Natural Fibre,Small,2.7,116,341,486,04-09-2026,Medium,4,Summer,Craft Study
+Sikkim,Handloom and Handicraft,Pakyong,Natural Fibre Craft,Handloom,Wood,Medium,6.2,213,604,1304,04-09-2026,High,16,Summer,Marketplace
+Sikkim,Sikkim Large Cardamom,Soreng,Lacquer Craft,Agriculture,Natural Fibre,Medium,5.3,163,533,1029,04-10-2026,High,11,Summer,Government
+Sikkim,Animal Husbandry related products,Soreng,Handloom Craft,Food Processing,Cotton,Medium,11.1,229,933,1599,04-10-2026,Medium,8,Summer,Marketplace
+Sikkim,Dalle Khursani,Soreng,Wood Craft,Agriculture,Wood,Medium,9.9,181,825,1254,04-11-2026,Medium,14,Summer,Government
+Sikkim,Handloom and Handicraft,Soreng,Textile Craft,Handloom,Bamboo,Medium,5.3,137,461,965,04-11-2026,High,15,Summer,Artisan Survey
+Sikkim,Tea,South Sikkim (Namchi),Bamboo Craft,Agriculture,Metal,Large,10.4,551,1343,2043,04-12-2026,High,5,Summer,Government
+Sikkim,Dalle Khursani,South Sikkim (Namchi),Pottery,Agriculture,Bamboo,Small,4.2,80,323,630,04-12-2026,Medium,3,Summer,Craft Study
+Sikkim,Handloom and Handicraft,South Sikkim (Namchi),Metal Craft,Handloom,Leather,Small,3.1,232,448,895,04-12-2026,High,11,Summer,Artisan Survey
+Sikkim,Tourism,West Sikkim (Geyzing),Leather Craft,Others,Metal,Medium,9.2,296,739,1183,4/13/2026,High,2,Summer,Craft Study
+Sikkim,Trout Fishing,West Sikkim (Geyzing),Stone Craft,Marine,Bamboo,Large,16.1,217,1132,2014,4/13/2026,Medium,13,Summer,Craft Study
+Sikkim,Handloom and Handicraft,West Sikkim (Geyzing),Natural Fibre Craft,Handloom,Metal,Large,22.9,570,1957,3013,4/14/2026,High,9,Summer,Government
+Tamil Nadu,Cashew Processing,Ariyalur,Lacquer Craft,Food Processing,Natural Fibre,Large,14,263,1170,1956,4/14/2026,Medium,5,Summer,Marketplace
+Tamil Nadu,Automobile products,Chengalpattu,Handloom Craft,Manufacturing,Bamboo,Large,19.5,174,1126,2444,4/15/2026,High,12,Summer,Artisan Survey
+Tamil Nadu,Engineering and Auto components,Chennai,Wood Craft,Manufacturing,Cotton,Small,2.2,162,328,636,4/15/2026,High,8,Summer,Marketplace
+Tamil Nadu,Motor Pumps,Coimbatore,Textile Craft,Manufacturing,Bamboo,Medium,11.7,107,798,1652,4/16/2026,Low,8,Summer,Government
+Tamil Nadu,Cashew Nuts,Cuddalore,Bamboo Craft,Agriculture,Leather,Small,5.9,221,698,1263,4/16/2026,Low,5,Summer,Government
+Tamil Nadu,Ready Made Garments,Dharmapuri,Pottery,Textile,Cotton,Medium,10.2,209,749,1163,4/17/2026,Medium,14,Summer,Government
+Tamil Nadu,Auto Components,Dharampuri,Metal Craft,Manufacturing,Natural Fibre,Large,16.5,262,988,1932,4/17/2026,High,19,Summer,Craft Study
+Tamil Nadu,Coir Pith Blocks,Dindigul,Leather Craft,Manufacturing,Metal,Small,2.9,245,464,824,4/18/2026,Medium,13,Summer,Marketplace
+Tamil Nadu,Garlic,Dindigul,Stone Craft,Agriculture,Metal,Medium,10.7,274,847,1271,4/18/2026,High,5,Summer,Artisan Survey
+Tamil Nadu,Dindigul Locks,Dindigul,Natural Fibre Craft,Manufacturing,Bamboo,Small,4.9,83,385,655,4/19/2026,Medium,17,Summer,Craft Study
+Tamil Nadu,Handloom and Powerloom products,Erode,Lacquer Craft,Textile,Natural Fibre,Small,2.9,113,276,522,4/19/2026,Medium,3,Summer,Government
+Tamil Nadu,Turmeric,Erode,Handloom Craft,Agriculture,Wood,Small,3.8,126,377,745,4/20/2026,High,6,Summer,Artisan Survey
+Tamil Nadu,Readymade Fabric,Erode,Wood Craft,Textile,Bamboo,Small,3.9,77,311,484,4/20/2026,Medium,1,Summer,Government
+Tamil Nadu,Food products - Rice,Kallakurichi,Textile Craft,Food Processing,Bamboo,Large,21.6,165,1309,2742,4/21/2026,Medium,17,Summer,Government
+Tamil Nadu,Textiles and Garments,Kancheepuram,Bamboo Craft,Textile,Clay,Medium,9.8,99,487,815,4/21/2026,Low,1,Summer,Government
+Tamil Nadu,Kancheepuram Silk,Kancheepuram,Pottery,Handloom,Clay,Large,19,172,1537,2429,4/22/2026,Low,11,Summer,Government
+Tamil Nadu,Cashew,Kanyakumari,Metal Craft,Agriculture,Cotton,Medium,9.5,231,737,1117,4/22/2026,Low,4,Summer,Marketplace
+Tamil Nadu,Textiles - Home Made Ups,Karur,Leather Craft,Textile,Cotton,Small,3.1,139,339,689,4/23/2026,Medium,5,Summer,Marketplace
+Tamil Nadu,Mango Processing,Krishnagiri,Stone Craft,Food Processing,Wood,Small,3.5,127,308,509,4/23/2026,Medium,13,Summer,Government
+Tamil Nadu,Ready Made Garments,Madurai,Natural Fibre Craft,Textile,Metal,Large,10.6,470,1106,1948,4/24/2026,Medium,17,Summer,Government
+Tamil Nadu,Rice,Mayiladuthurai,Lacquer Craft,Agriculture,Bamboo,Small,5.1,79,507,780,4/24/2026,Low,1,Summer,Artisan Survey
+Tamil Nadu,Coconut,Mayiladuthurai,Handloom Craft,Agriculture,Clay,Large,16.1,177,819,1583,4/25/2026,Medium,4,Summer,Government
+Tamil Nadu,Marine food,Nagapattinam,Wood Craft,Marine,Metal,Small,3.8,201,429,864,4/25/2026,Medium,6,Summer,Artisan Survey
+Tamil Nadu,Poultry feed and products,Namakkal,Textile Craft,Agriculture,Metal,Medium,6.7,312,647,1060,4/26/2026,High,19,Summer,Craft Study
+Tamil Nadu,Nilgiri Tea (Orthodox),Nilgiris,Bamboo Craft,Agriculture,Clay,Large,12.9,188,972,2093,4/26/2026,Medium,2,Summer,Artisan Survey
+Tamil Nadu,Handicraft Products,Perambalur,Pottery,Handicraft,Metal,Small,4.4,218,583,802,4/27/2026,Low,4,Summer,Marketplace
+Tamil Nadu,Maize,Perambalur,Metal Craft,Agriculture,Metal,Small,2.9,224,462,676,4/27/2026,Medium,9,Summer,Artisan Survey
+Tamil Nadu,Engineering Products,Pudukkottai,Leather Craft,Manufacturing,Metal,Large,10.9,420,1009,1867,4/28/2026,High,7,Summer,Artisan Survey
+Tamil Nadu,Cashew,Pudukkottai,Stone Craft,Agriculture,Metal,Small,5.1,192,570,1109,4/28/2026,High,1,Summer,Craft Study
+Tamil Nadu,Marine Foods,Ramnad (Ramanathapuram),Natural Fibre Craft,Marine,Bamboo,Medium,7.6,106,641,1002,4/29/2026,High,11,Summer,Craft Study
+Tamil Nadu,Dry Fish,Ramnad (Ramanathapuram),Lacquer Craft,Marine,Cotton,Medium,7.7,246,651,1185,4/29/2026,High,13,Summer,Marketplace
+Tamil Nadu,Leather Products,Ranipet,Handloom Craft,Handicraft,Leather,Small,3.7,224,429,695,4/30/2026,Medium,4,Summer,Marketplace
+Tamil Nadu,Silver Jewellery,Salem,Wood Craft,Handicraft,Bamboo,Medium,10.7,110,688,1253,4/30/2026,High,14,Summer,Artisan Survey
+Tamil Nadu,Salem Silk,Salem,Textile Craft,Handicraft,Clay,Medium,7.2,93,596,1139,05-01-2026,Low,2,Summer,Government
+Tamil Nadu,Coir Products,Sivagangai,Bamboo Craft,Handicraft,Cotton,Medium,10.3,212,904,1968,05-01-2026,High,15,Summer,Marketplace
+Tamil Nadu,Gherjubs (Miniature Cucumber),Sivagangai,Pottery,Agriculture,Clay,Large,23.2,169,1619,2813,05-02-2026,High,6,Summer,Artisan Survey
+Tamil Nadu,Coir pith block,Tenkasi,Metal Craft,Handicraft,Clay,Small,4.6,75,466,886,05-02-2026,High,5,Summer,Artisan Survey
+Tamil Nadu,Coconut,Thanjavur,Leather Craft,Agriculture,Metal,Small,3.7,229,480,884,05-03-2026,Medium,4,Summer,Marketplace
+Tamil Nadu,Handicraft & handloom,Thanjavur,Stone Craft,Handicraft,Clay,Medium,10.2,117,663,1074,05-03-2026,High,18,Summer,Government
+Tamil Nadu,Textile Made ups,Theni,Natural Fibre Craft,Textile,Bamboo,Large,16.4,183,861,1348,05-04-2026,Low,11,Summer,Government
+Tamil Nadu,Banana,Theni,Lacquer Craft,Agriculture,Natural Fibre,Small,3.7,113,389,852,05-04-2026,Medium,14,Summer,Marketplace
+Tamil Nadu,Engineering and Auto components,Thiruvallur,Handloom Craft,Manufacturing,Clay,Small,4.1,73,358,546,05-05-2026,Medium,5,Summer,Craft Study
+Tamil Nadu,Engineering Tools and Electronics,Thiruvallur,Wood Craft,Manufacturing,Leather,Medium,7.2,268,636,1286,05-05-2026,Medium,2,Summer,Craft Study
+Tamil Nadu,Agricultural Products,Thiruvarur,Textile Craft,Agriculture,Leather,Large,11.5,523,974,1436,05-06-2026,Medium,1,Summer,Marketplace
+Tamil Nadu,Engineering Products,Tiruchi (Thiruchirappalli),Bamboo Craft,Manufacturing,Clay,Small,3.7,62,383,779,05-06-2026,Medium,9,Summer,Government
+Tamil Nadu,Leather Products,Tiruchi (Thiruchirappalli),Pottery,Handicraft,Natural Fibre,Medium,5.9,165,615,927,05-06-2026,Medium,7,Summer,Artisan Survey
+Tamil Nadu,Readymade Garments,Tirunelveli,Metal Craft,Textile,Wood,Medium,7.9,199,721,1566,05-07-2026,Medium,16,Summer,Artisan Survey
+Tamil Nadu,Leather products,Tirupathur,Leather Craft,Handicraft,Natural Fibre,Medium,8.9,176,591,1142,05-07-2026,Medium,16,Summer,Marketplace
+Tamil Nadu,Hosiery Garments,Tiruppur,Stone Craft,Textile,Leather,Small,5.7,202,659,940,05-08-2026,Medium,7,Summer,Marketplace
+Tamil Nadu,Edible Oil,Tiruvannamalai,Natural Fibre Craft,Food Processing,Clay,Small,2.1,67,251,487,05-08-2026,High,9,Summer,Government
+Tamil Nadu,Marine Foods,Tuticorin (Thoothukudi),Lacquer Craft,Marine,Leather,Medium,9.4,319,949,1768,05-09-2026,Low,8,Summer,Artisan Survey
+Tamil Nadu,Leather Products,Vellore,Handloom Craft,Handicraft,Clay,Medium,8.2,112,686,1123,05-09-2026,High,14,Summer,Marketplace
+Tamil Nadu,Rice,Villupuram,Wood Craft,Agriculture,Cotton,Large,10.3,361,1095,1721,05-10-2026,Medium,13,Summer,Marketplace
+Tamil Nadu,Gauze Cloth,Virudhunagar,Textile Craft,Textile,Leather,Medium,6.7,313,805,1579,05-10-2026,Low,14,Summer,Craft Study
+Tamil Nadu,Sivakasi Crackers,Virudhunagar,Bamboo Craft,Manufacturing,Cotton,Medium,5.8,208,573,1135,05-11-2026,Medium,2,Summer,Artisan Survey
+Telangana,Cotton Bales,Adilabad,Pottery,Textile,Bamboo,Large,13,203,875,1425,05-11-2026,Medium,7,Summer,Craft Study
+Telangana,Chillies,Bhadradri Kothagudem,Metal Craft,Agriculture,Clay,Medium,6.9,115,496,1039,05-12-2026,Medium,20,Summer,Marketplace
+Telangana,Studded gold jewllery,Hyderabad,Leather Craft,Manufacturing,Leather,Medium,7.8,269,787,1242,05-12-2026,Low,7,Summer,Marketplace
+Telangana,Mango,Jagtial,Stone Craft,Agriculture,Bamboo,Large,17.4,196,1227,1729,5/13/2026,Medium,4,Summer,Craft Study
+Telangana,Brass Artifacts,Jangaon,Natural Fibre Craft,Handicraft,Clay,Small,2,83,200,372,5/13/2026,Low,4,Summer,Craft Study
+Telangana,Chillies,Jayashanker Bhupalpally,Lacquer Craft,Agriculture,Wood,Medium,6.1,203,480,692,5/14/2026,Low,1,Summer,Craft Study
+Telangana,Nuts - Groundnut,Jogulamba Gadwal,Handloom Craft,Agriculture,Wood,Medium,5.7,209,667,1057,5/14/2026,Medium,16,Summer,Artisan Survey
+Telangana,Soyabean,Kamareddy,Wood Craft,Agriculture,Wood,Small,4.2,124,429,764,5/15/2026,High,1,Summer,Marketplace
+Telangana,Granites,Karimnagar,Textile Craft,Manufacturing,Wood,Medium,7.3,216,804,1281,5/15/2026,Medium,12,Summer,Government
+Telangana,Silverfiligree,Karimnager,Bamboo Craft,Handicraft,Natural Fibre,Small,4.2,95,343,526,5/16/2026,Medium,8,Summer,Marketplace
+Telangana,Chillies,Khammam,Pottery,Agriculture,Leather,Small,2.9,202,412,802,5/16/2026,Medium,2,Summer,Craft Study
+Telangana,Granite,Khammam,Metal Craft,Manufacturing,Leather,Medium,5.2,285,639,1160,5/17/2026,Medium,18,Summer,Marketplace
+Telangana,Millets,Kumaram Bheem Asifabad,Leather Craft,Agriculture,Wood,Small,5.8,142,486,1003,5/17/2026,Low,15,Summer,Artisan Survey
+Telangana,Mango (Banaganapalle),Mahabubnager,Stone Craft,Agriculture,Wood,Medium,5.8,210,483,891,5/18/2026,Medium,17,Summer,Craft Study
+Telangana,Mango,Mancherial,Natural Fibre Craft,Agriculture,Cotton,Large,11.8,389,1275,2245,5/18/2026,Medium,19,Summer,Craft Study
+Telangana,Tomato processed products,Medak,Lacquer Craft,Food Processing,Clay,Large,12.1,171,636,1000,5/19/2026,Medium,19,Summer,Craft Study
+Telangana,Pharmaceuticals & Biotech Products,Medchal-Malkajgiri,Handloom Craft,Manufacturing,Bamboo,Small,5.9,84,513,1038,5/19/2026,Medium,15,Summer,Marketplace
+Telangana,Chillies,Mhabubabad,Wood Craft,Agriculture,Clay,Small,4.5,72,362,549,5/20/2026,Medium,11,Summer,Marketplace
+Telangana,Chilli,Mulugu,Textile Craft,Agriculture,Cotton,Small,4.4,158,470,731,5/20/2026,Medium,14,Summer,Craft Study
+Telangana,Banaganapalle Mangoes,Nagarkurnool,Bamboo Craft,Agriculture,Leather,Small,5.9,168,515,1064,5/21/2026,High,9,Summer,Government
+Telangana,Cotton,Nalgonda,Pottery,Textile,Bamboo,Large,11.2,197,911,1804,5/21/2026,Medium,4,Summer,Government
+Telangana,Narayanpet Handloom Sarees,Narayanpet,Metal Craft,Textile,Wood,Medium,11.8,207,751,1405,5/22/2026,Medium,8,Summer,Craft Study
+Telangana,Custard Apple (Pulp),Narayanpet,Leather Craft,Food Processing,Leather,Small,2.8,215,479,662,5/22/2026,Medium,10,Summer,Artisan Survey
+Telangana,Cotton Bales,Nirmal,Stone Craft,Textile,Natural Fibre,Large,18.7,271,1111,1620,5/23/2026,High,1,Summer,Marketplace
+Telangana,Turmeric,Nizamabad,Natural Fibre Craft,Agriculture,Wood,Medium,7.9,178,667,1184,5/23/2026,High,17,Summer,Government
+Telangana,Rice based products,Peddapalli,Lacquer Craft,Food Processing,Clay,Small,3.5,72,345,685,5/24/2026,High,19,Summer,Marketplace
+Telangana,Fisheries,Rajanna Sircilla,Handloom Craft,Marine,Leather,Small,5.7,169,427,745,5/24/2026,Medium,9,Summer,Craft Study
+Telangana,Biscuits & Confectionery,Ranga Reddy,Wood Craft,Food Processing,Metal,Medium,6,295,648,884,5/25/2026,Medium,10,Summer,Marketplace
+Telangana,Engineering Products,Sangareddy,Textile Craft,Manufacturing,Leather,Medium,12,284,1103,1662,5/25/2026,High,17,Summer,Marketplace
+Telangana,Siddipet Gollabama,Siddipet,Bamboo Craft,Handloom,Bamboo,Small,3.5,79,279,516,5/26/2026,Medium,10,Summer,Marketplace
+Telangana,Cheriyal Paintings,Siddipet,Pottery,Handicraft,Bamboo,Large,19.1,165,997,1934,5/26/2026,High,14,Summer,Craft Study
+Telangana,Cement,Suryapet,Metal Craft,Manufacturing,Metal,Large,23.6,524,1802,2484,5/27/2026,Medium,11,Summer,Craft Study
+Telangana,Fullers Earth/Betonitte granules and powder,Vikarabad,Leather Craft,Manufacturing,Cotton,Large,10.8,353,1157,1605,5/27/2026,Medium,6,Summer,Marketplace
+Telangana,Nuts - Groundnut,Wanaparthy,Stone Craft,Agriculture,Cotton,Small,5.7,153,489,769,5/28/2026,Medium,16,Summer,Marketplace
+Telangana,Warangal Durries,Warangal Rural,Natural Fibre Craft,Handicraft,Metal,Small,4.3,197,496,705,5/28/2026,Medium,4,Summer,Government
+Telangana,Granite Slabs,Warangal Urban (Hanumakonda),Lacquer Craft,Manufacturing,Metal,Large,19.9,498,1942,3516,5/29/2026,High,5,Summer,Marketplace
+Telangana,Pochampalli Ikat,Yadadri Bhuvanagiri,Handloom Craft,Handloom,Wood,Small,2.6,126,343,499,5/29/2026,Low,14,Summer,Government
+Tripura,Queen Pineapple and Pineapple Based Products,Dhalai,Wood Craft,Agriculture,Clay,Medium,8.7,102,580,1103,5/29/2026,Medium,15,Summer,Marketplace
+Tripura,Risha ,Gomati,Textile Craft,Handloom,Bamboo,Medium,9.7,126,635,1277,5/30/2026,Medium,20,Summer,Marketplace
+Tripura,Matabari Pera,Gomati,Bamboo Craft,Food Processing,Clay,Small,3.8,60,311,676,5/30/2026,High,15,Summer,Government
+Tripura,Scented Rice ,Khowai,Pottery,Agriculture,Natural Fibre,Medium,6.1,175,542,1169,5/31/2026,Medium,1,Summer,Government
+Tripura,Oil - Agar,North Tripura,Metal Craft,Food Processing,Wood,Large,13.4,252,1094,1731,5/31/2026,High,17,Summer,Government
+Tripura,Tripura Silk,Sepahijala,Leather Craft,Textile,Natural Fibre,Medium,11,151,574,789,06-01-2026,High,9,Monsoon,Government
+Tripura,Wood and Bamboo based Handicraft Items,Sepahijala,Stone Craft,Handicraft,Clay,Medium,5.2,92,484,789,06-01-2026,Medium,1,Monsoon,Artisan Survey
+Tripura,Cashew Nut,South Tripura,Natural Fibre Craft,Agriculture,Leather,Large,19.9,463,1336,2608,06-02-2026,High,12,Monsoon,Government
+Tripura,Tea ,Unakoti,Lacquer Craft,Agriculture,Bamboo,Medium,12,114,742,1039,06-02-2026,High,4,Monsoon,Government
+Tripura,Bamboo based products,West Tripura,Handloom Craft,Handicraft,Bamboo,Medium,5.1,138,413,684,06-03-2026,Medium,9,Monsoon,Craft Study
+Uttar Pradesh,Leather Products,Agra,Wood Craft,Handicraft,Leather,Large,12.3,443,1139,1826,06-03-2026,Medium,10,Monsoon,Government
+Uttar Pradesh,Handicrafts- Stone & Marble,Agra,Textile Craft,Handicraft,Metal,Medium,9.7,322,935,1437,06-04-2026,Medium,2,Monsoon,Craft Study
+Uttar Pradesh,Lock & Hardware ,Aligarh,Bamboo Craft,Manufacturing,Cotton,Small,2.2,144,270,527,06-04-2026,Medium,18,Monsoon,Marketplace
+Uttar Pradesh,Metal Handicraft,Aligarh,Pottery,Handicraft,Metal,Small,4.4,180,452,863,06-05-2026,Low,11,Monsoon,Artisan Survey
+Uttar Pradesh,Textiles,Ambedkar Nagar,Metal Craft,Textile,Leather,Small,4.7,194,441,796,06-05-2026,High,20,Monsoon,Marketplace
+Uttar Pradesh,Moonj products,Amethi,Leather Craft,Handicraft,Bamboo,Medium,9.1,125,777,1650,06-06-2026,Medium,10,Monsoon,Government
+Uttar Pradesh,Food Processing,Amethi,Stone Craft,Food Processing,Natural Fibre,Medium,7.6,152,588,845,06-06-2026,Medium,12,Monsoon,Artisan Survey
+Uttar Pradesh,Musical Instruments (Dholak),Amroha,Natural Fibre Craft,Manufacturing,Metal,Medium,9.9,356,1044,1542,06-07-2026,Low,17,Monsoon,Artisan Survey
+Uttar Pradesh,Readymade Garments,Amroha,Lacquer Craft,Textile,Bamboo,Medium,9.2,132,623,1044,06-07-2026,Medium,5,Monsoon,Government
+Uttar Pradesh,Milk Processing (Desi Ghee) and Milk Products,Auraiya,Handloom Craft,Dairy,Wood,Medium,6.5,216,548,1045,06-08-2026,Medium,19,Monsoon,Artisan Survey
+Uttar Pradesh,Jaggery,Ayodhya (Faizabad),Wood Craft,Food Processing,Metal,Large,17.9,458,1590,2936,06-08-2026,Medium,4,Monsoon,Marketplace
+Uttar Pradesh,Black Pottery,Azamgarh,Textile Craft,Handicraft,Cotton,Small,5.5,173,524,740,06-09-2026,Medium,20,Monsoon,Craft Study
+Uttar Pradesh,Textile Products (Reshmi Sari),Azamgarh,Bamboo Craft,Handloom,Leather,Medium,9.7,292,739,1600,06-09-2026,Low,13,Monsoon,Artisan Survey
+Uttar Pradesh,Home Decorative Goods,Baghpat,Pottery,Manufacturing,Clay,Medium,8.3,106,758,1220,06-10-2026,Medium,11,Monsoon,Government
+Uttar Pradesh,Wheat Stalk Handicrafts,Bahraich,Metal Craft,Handicraft,Clay,Medium,7.3,120,467,773,06-10-2026,High,5,Monsoon,Craft Study
+Uttar Pradesh,Food Processing,Bahraich,Leather Craft,Food Processing,Cotton,Small,2.3,166,322,605,06-11-2026,Medium,12,Monsoon,Craft Study
+Uttar Pradesh,Bindi (Tikuli),Ballia,Stone Craft,Handicraft,Metal,Medium,6.7,349,764,1645,06-11-2026,Medium,12,Monsoon,Artisan Survey
+Uttar Pradesh,Food Processing (Pulses),Balrampur,Natural Fibre Craft,Food Processing,Cotton,Large,10.2,389,952,1821,06-12-2026,Low,20,Monsoon,Government
+Uttar Pradesh,Shazar Stone Craft,Banda,Lacquer Craft,Handicraft,Bamboo,Medium,11.9,107,939,2030,06-12-2026,High,17,Monsoon,Artisan Survey
+Uttar Pradesh,Handloom Products and Textile Products,Barabanki,Handloom Craft,Textile,Leather,Large,13.1,490,992,1497,6/13/2026,Medium,10,Monsoon,Marketplace
+Uttar Pradesh,Zari and Zardozi,Bareilly,Wood Craft,Handicraft,Natural Fibre,Large,21.4,245,1770,3320,6/13/2026,Medium,8,Monsoon,Government
+Uttar Pradesh,Bamboo Products,Bareilly,Textile Craft,Handicraft,Natural Fibre,Medium,6.2,176,618,1270,6/14/2026,Medium,8,Monsoon,Craft Study
+Uttar Pradesh,Goldsmith Industry,Bareilly,Bamboo Craft,Handicraft,Natural Fibre,Medium,7,170,706,1259,6/14/2026,Low,8,Monsoon,Marketplace
+Uttar Pradesh,Wooden Crafts,Basti,Pottery,Handicraft,Clay,Medium,7.9,89,627,1039,6/15/2026,Medium,1,Monsoon,Craft Study
+Uttar Pradesh,Vinegar Products,Basti,Metal Craft,Food Processing,Cotton,Large,14.5,316,1382,3022,6/15/2026,Medium,1,Monsoon,Artisan Survey
+Uttar Pradesh,Handmade carpet of Bhadohi,Bhadohi,Leather Craft,Handicraft,Leather,Small,5.2,171,512,753,6/16/2026,Medium,16,Monsoon,Government
+Uttar Pradesh,Wooden Crafts,Bijnor,Stone Craft,Handicraft,Leather,Medium,11.7,286,887,1507,6/16/2026,High,6,Monsoon,Craft Study
+Uttar Pradesh,Zari and Zardozi,Budaun,Natural Fibre Craft,Handicraft,Natural Fibre,Large,22.3,211,1398,2925,6/17/2026,Medium,9,Monsoon,Marketplace
+Uttar Pradesh,Ceramic Product,Bulandshahar,Lacquer Craft,Handicraft,Metal,Small,2.6,232,438,927,6/17/2026,High,14,Monsoon,Marketplace
+Uttar Pradesh,Zari-Zardozi,Chandauli,Handloom Craft,Handicraft,Wood,Medium,10.4,188,782,1707,6/18/2026,Medium,13,Monsoon,Marketplace
+Uttar Pradesh,Black Rice,Chandauli,Wood Craft,Agriculture,Clay,Medium,6,114,509,1070,6/18/2026,Low,8,Monsoon,Government
+Uttar Pradesh,Wooden Toys and Wood Art Products,Chitrakoot,Textile Craft,Handicraft,Clay,Large,22.8,152,1078,1502,6/19/2026,Medium,16,Monsoon,Artisan Survey
+Uttar Pradesh,"Decorative Products, ",Deoria,Bamboo Craft,Handicraft,Leather,Large,17.3,462,1661,3555,6/19/2026,Medium,4,Monsoon,Marketplace
+Uttar Pradesh,Embroidery and Weaving (Knitting) Products,Deoria,Pottery,handlooms,Bamboo,Small,3.3,75,237,406,6/20/2026,Medium,10,Monsoon,Craft Study
+Uttar Pradesh,Readymade Garments,Deoria,Metal Craft,Textile,Bamboo,Medium,6.1,139,611,1163,6/20/2026,High,3,Monsoon,Craft Study
+Uttar Pradesh,"Ankle Bells (Ghungroo), Bells and Brass Products",Etah,Leather Craft,Handicraft,Wood,Small,2,115,269,453,6/21/2026,Medium,11,Monsoon,Artisan Survey
+Uttar Pradesh,Textile Products and Tailoring and Garment Embroidery,Etawah,Stone Craft,Textile,Leather,Medium,6.7,248,604,1233,6/21/2026,Medium,2,Monsoon,Government
+Uttar Pradesh,Farrukhabad Prints,Farrukhabad,Natural Fibre Craft,Textile,Leather,Medium,11.4,258,1048,1928,6/21/2026,Medium,19,Monsoon,Artisan Survey
+Uttar Pradesh,Zari Zardozi,Farrukhabad,Lacquer Craft,Handicraft,Wood,Large,21.2,326,1761,3643,6/22/2026,Medium,14,Monsoon,Government
+Uttar Pradesh,Bedsheets,Fatehpur,Handloom Craft,Textile,Clay,Small,5.9,62,459,695,6/22/2026,Medium,5,Monsoon,Artisan Survey
+Uttar Pradesh,Iron Fabrication Work,Fatehpur,Wood Craft,Manufacturing,Clay,Small,2.4,75,288,434,6/23/2026,Low,13,Monsoon,Marketplace
+Uttar Pradesh,Firozabad Glass,Firozabad,Textile Craft,Manufacturing,Clay,Medium,9.1,111,611,1054,6/23/2026,Low,7,Monsoon,Craft Study
+Uttar Pradesh,Readymade Garments,Gautam Buddh Nagar,Bamboo Craft,Textile,Natural Fibre,Medium,6.8,167,693,938,6/24/2026,Medium,11,Monsoon,Marketplace
+Uttar Pradesh,Engineering goods,Ghaziabad,Pottery,Manufacturing,Cotton,Medium,8.8,202,683,1324,6/24/2026,Low,4,Monsoon,Government
+Uttar Pradesh,Ghazipur Wall Hangings,Ghazipur,Metal Craft,Handicraft,Bamboo,Small,3.3,73,309,495,6/25/2026,Medium,11,Monsoon,Craft Study
+Uttar Pradesh,Food Processing (Pulses),Gonda,Leather Craft,Food Processing,Cotton,Small,3.1,155,368,671,6/25/2026,Low,3,Monsoon,Marketplace
+Uttar Pradesh,Gorakhpur Terracotta,Gorakhpur,Stone Craft,Handicraft,Cotton,Large,18,324,982,1384,6/26/2026,Low,4,Monsoon,Craft Study
+Uttar Pradesh,Readymade Garments,Gorakhpur,Natural Fibre Craft,Textile,Natural Fibre,Small,2.7,115,355,531,6/26/2026,High,12,Monsoon,Craft Study
+Uttar Pradesh,Shoes,Hamirpur,Lacquer Craft,Manufacturing,Natural Fibre,Medium,8.3,146,739,1389,6/27/2026,High,11,Monsoon,Marketplace
+Uttar Pradesh,Home Decorative Goods,Hapur,Handloom Craft,Textile,Wood,Large,19.1,290,1132,1822,6/27/2026,Medium,6,Monsoon,Marketplace
+Uttar Pradesh,Handloom,Hardoi,Wood Craft,Handloom,Metal,Small,2.5,187,398,610,6/28/2026,Medium,2,Monsoon,Marketplace
+Uttar Pradesh,Hing (Asafoetida),Hathras,Textile Craft,Agriculture,Cotton,Medium,11.5,231,894,1381,6/28/2026,High,9,Monsoon,Artisan Survey
+Uttar Pradesh,Ready Made Garments,Hathras,Bamboo Craft,Textile,Cotton,Small,4,141,336,515,6/29/2026,Low,19,Monsoon,Craft Study
+Uttar Pradesh,Handmade Paper Art,Jalaun,Pottery,Handicraft,Bamboo,Large,21.5,209,1525,2866,6/29/2026,Medium,15,Monsoon,Government
+Uttar Pradesh,Peas Processing,Jalaun,Metal Craft,Food Processing,Cotton,Medium,9.6,192,657,981,6/30/2026,Low,2,Monsoon,Artisan Survey
+Uttar Pradesh,Woollen Carpets (Dari),Jaunpur,Leather Craft,Handicraft,Clay,Large,19.9,191,970,1609,6/30/2026,Medium,19,Monsoon,Government
+Uttar Pradesh,Soft Toys,Jhansi,Stone Craft,Manufacturing,Natural Fibre,Small,4.9,114,473,915,07-01-2026,High,9,Monsoon,Marketplace
+Uttar Pradesh,Textile Products,Jhansi,Natural Fibre Craft,Textile,Metal,Medium,11.1,274,804,1436,07-01-2026,High,12,Monsoon,Artisan Survey
+Uttar Pradesh,Kannauj Perfume,Kannauj,Lacquer Craft,Manufacturing,Leather,Medium,9.3,239,629,1168,07-02-2026,High,1,Monsoon,Craft Study
+Uttar Pradesh,Zinc Utensils,Kanpur Dehat,Handloom Craft,Manufacturing,Clay,Small,3.1,68,313,489,07-02-2026,High,7,Monsoon,Marketplace
+Uttar Pradesh,Plastic Products,Kanpur Dehat,Wood Craft,Manufacturing,Wood,Small,2.4,114,262,561,07-03-2026,Medium,16,Monsoon,Marketplace
+Uttar Pradesh,Leather Products,Kanpur Nagar,Textile Craft,Handicraft,Wood,Small,4.4,117,429,730,07-03-2026,High,7,Monsoon,Government
+Uttar Pradesh,Hosiery and Textile Products,Kanpur Nagar,Bamboo Craft,Textile,Cotton,Large,10.9,407,1155,1841,07-04-2026,Medium,4,Monsoon,Government
+Uttar Pradesh,Zari Zardozi,Kasganj,Pottery,Handicraft,Cotton,Medium,6.7,233,569,1206,07-04-2026,Medium,2,Monsoon,Marketplace
+Uttar Pradesh,Food Processing- Banana,Kaushambi,Metal Craft,Food Processing,Leather,Medium,5.4,255,575,1097,07-05-2026,Medium,19,Monsoon,Craft Study
+Uttar Pradesh,Banana Fiber Products and Banana Products,Kushinagar,Leather Craft,Handicraft,Leather,Medium,8.8,293,663,1241,07-05-2026,Medium,17,Monsoon,Marketplace
+Uttar Pradesh,Tribal craft,Lakhimpur Kheri,Stone Craft,Handicraft,Leather,Medium,6.1,263,700,1473,07-06-2026,Medium,1,Monsoon,Government
+Uttar Pradesh,Jaggery Products,Lakhimpur Kheri,Natural Fibre Craft,Food Processing,Metal,Medium,9.3,358,749,1048,07-06-2026,Medium,19,Monsoon,Artisan Survey
+Uttar Pradesh,Zari Silk Sarees,Lalitpur,Lacquer Craft,Handloom,Clay,Medium,10.5,86,871,1796,07-07-2026,Low,17,Monsoon,Government
+Uttar Pradesh,Food Processing,Lalitpur,Handloom Craft,Food Processing,Metal,Medium,10.8,332,859,1655,07-07-2026,Medium,8,Monsoon,Government
+Uttar Pradesh,School Dress (Readymade Garments/Hosiery),Lalitpur,Wood Craft,Textile,Bamboo,Small,3.2,94,370,613,07-08-2026,Medium,14,Monsoon,Craft Study
+Uttar Pradesh,Lucknow Chikan Craft & Lucknow Zardozi,Lucknow,Textile Craft,Textile,Metal,Large,17.7,419,1197,1877,07-08-2026,Medium,6,Monsoon,Government
+Uttar Pradesh,Furniture,Maharajganj,Bamboo Craft,Manufacturing,Leather,Large,17.9,408,1253,1803,07-09-2026,Medium,5,Monsoon,Marketplace
+Uttar Pradesh,Gaura Stone Craft,Mahoba,Pottery,Handicraft,Leather,Small,3.9,193,461,991,07-09-2026,Low,15,Monsoon,Marketplace
+Uttar Pradesh,Tarkashi Art,Mainpuri,Metal Craft,Handicraft,Metal,Medium,9.6,346,931,1369,07-10-2026,High,5,Monsoon,Government
+Uttar Pradesh,Textile sewing,Mainpuri,Leather Craft,Manufacturing,Wood,Small,2.8,131,378,594,07-10-2026,Medium,8,Monsoon,Government
+Uttar Pradesh,Zari Zardozi,Mainpuri,Stone Craft,Handicraft,Leather,Large,23.7,484,1385,2683,07-11-2026,Medium,8,Monsoon,Government
+Uttar Pradesh,Sanitary Fittings,Mathura,Natural Fibre Craft,Manufacturing,Bamboo,Large,11.4,216,669,1307,07-11-2026,Low,4,Monsoon,Government
+Uttar Pradesh,Costume of Thakurji,Mathura,Lacquer Craft,Handicraft,Leather,Large,21.6,511,1562,2322,07-12-2026,High,17,Monsoon,Craft Study
+Uttar Pradesh,Shrinagar Sculpture and Kanthi Mala,Mathura,Handloom Craft,Handicraft,Clay,Small,4.4,71,335,684,07-12-2026,Medium,14,Monsoon,Marketplace
+Uttar Pradesh,Powerloom Textile,Mau,Wood Craft,Textile,Natural Fibre,Small,3,108,357,637,7/13/2026,Medium,18,Monsoon,Marketplace
+Uttar Pradesh,Sports Products,Meerut,Textile Craft,Manufacturing,Bamboo,Small,5,93,450,932,7/13/2026,Medium,11,Monsoon,Marketplace
+Uttar Pradesh,Carpets,Mirzapur,Bamboo Craft,Textile,Natural Fibre,Small,2.3,99,292,416,7/14/2026,High,4,Monsoon,Craft Study
+Uttar Pradesh,Metal Industry (Brass),Mirzapur,Pottery,Handicraft,Leather,Small,5.1,225,509,706,7/14/2026,High,6,Monsoon,Government
+Uttar Pradesh,Moradabad Metal Craft,Moradabad,Metal Craft,Manufacturing,Bamboo,Small,4.4,72,356,673,7/15/2026,Medium,8,Monsoon,Craft Study
+Uttar Pradesh,Jaggery,Muzaffarnagar,Leather Craft,Food Processing,Clay,Large,11.6,147,940,1389,7/15/2026,Low,19,Monsoon,Government
+Uttar Pradesh,Flute and Wooden Products,Pilibhit,Stone Craft,Handicraft,Clay,Small,2.3,79,248,445,7/15/2026,Low,5,Monsoon,Craft Study
+Uttar Pradesh,Aamla Products,Pratapgarh,Natural Fibre Craft,Food Processing,Leather,Small,5,190,569,775,7/16/2026,Low,14,Monsoon,Government
+Uttar Pradesh,Moonj products,Prayagraj,Lacquer Craft,Handicraft,Metal,Large,14.1,433,1127,2269,7/16/2026,High,3,Monsoon,Government
+Uttar Pradesh,Food Processing,Prayagraj,Handloom Craft,Food Processing,Leather,Medium,11.2,256,803,1698,7/17/2026,High,20,Monsoon,Marketplace
+Uttar Pradesh,Wood Work,Raebareli,Wood Craft,Handicraft,Bamboo,Medium,10.3,124,893,1842,7/17/2026,High,13,Monsoon,Government
+Uttar Pradesh,"Applique Work along with Patch Work,Zari Patch work, and Mentha",Rampur,Textile Craft,Handicraft,Clay,Medium,9.9,115,569,1232,7/18/2026,High,9,Monsoon,Artisan Survey
+Uttar Pradesh,Saharanpur Wood Craft,Saharanpur,Bamboo Craft,Handicraft,Clay,Large,13.9,140,1163,2463,7/18/2026,Low,7,Monsoon,Artisan Survey
+Uttar Pradesh,Handicrafts - Horn Bone,Sambhal,Pottery,Handicraft,Natural Fibre,Medium,10,129,670,1157,7/19/2026,High,8,Monsoon,Artisan Survey
+Uttar Pradesh,Brass Utensils,Sant Kabir Nagar,Metal Craft,Handicraft,Bamboo,Medium,11.6,122,584,986,7/19/2026,Medium,5,Monsoon,Government
+Uttar Pradesh,Hosiery Products,Sant Kabir Nagar,Leather Craft,Textile,Metal,Medium,5.6,355,669,1413,7/20/2026,Medium,12,Monsoon,Artisan Survey
+Uttar Pradesh,Zari and Zardozi,Shahjahanpur,Stone Craft,Handicraft,Wood,Medium,7.3,171,519,1110,7/20/2026,Medium,18,Monsoon,Government
+Uttar Pradesh,Rim and Axle and Iron Work,Shamli,Natural Fibre Craft,Handicraft,Leather,Small,2.9,232,410,893,7/21/2026,Low,5,Monsoon,Craft Study
+Uttar Pradesh,Tribal craft and Furniture,Shravasti,Lacquer Craft,Handicraft,Bamboo,Medium,7.8,139,463,927,7/21/2026,High,15,Monsoon,Artisan Survey
+Uttar Pradesh,Kalanamak Rice,Siddharthnagar,Handloom Craft,Food Processing,Bamboo,Small,5,80,392,597,7/22/2026,High,12,Monsoon,Marketplace
+Uttar Pradesh,Carpets (Dari),Sitapur,Wood Craft,Textile,Metal,Medium,8.3,341,914,1968,7/22/2026,High,16,Monsoon,Craft Study
+Uttar Pradesh,Carpets,Sonbhadra,Textile Craft,Textile,Clay,Small,4.3,76,350,754,7/23/2026,High,16,Monsoon,Marketplace
+Uttar Pradesh,Moonj Products,Sultanpur,Bamboo Craft,Handicraft,Leather,Small,3.3,202,399,765,7/23/2026,Medium,1,Monsoon,Marketplace
+Uttar Pradesh,Iron and Steel Fabrication,Sultanpur,Pottery,Manufacturing,Clay,Small,2.6,70,254,528,7/24/2026,Low,1,Monsoon,Government
+Uttar Pradesh,Zari Zardozi,Unnao,Metal Craft,Handicraft,Clay,Large,13.7,182,1114,2035,7/24/2026,High,19,Monsoon,Artisan Survey
+Uttar Pradesh,Leather Products,Unnao,Leather Craft,Handicraft,Wood,Small,5.4,142,464,999,7/25/2026,Medium,4,Monsoon,Marketplace
+Uttar Pradesh,Silk Products,Varanasi,Stone Craft,Textile,Wood,Medium,9.2,201,597,854,7/25/2026,High,12,Monsoon,Government
+Uttar Pradesh,Pink Enamel (Gulaabi Minakari),Varanasi,Natural Fibre Craft,Handicraft,Bamboo,Large,15.3,230,1135,2366,7/26/2026,Low,16,Monsoon,Artisan Survey
+Uttar Pradesh,Wooden Lacquer Ware,Varanasi,Lacquer Craft,Handicraft,Natural Fibre,Small,5.2,107,467,652,7/26/2026,Medium,11,Monsoon,Government
+Uttar Pradesh,Toys,Varanasi,Handloom Craft,Handicraft,Natural Fibre,Medium,5.5,170,481,788,7/27/2026,Medium,1,Monsoon,Artisan Survey
+Uttarakhand,Bal Mithai,Almora,Wood Craft,Food Processing,Metal,Small,3,242,385,564,7/27/2026,Medium,1,Monsoon,Government
+Uttarakhand,Copper based Products,Bageshwar,Textile Craft,Handicraft,Metal,Small,2.9,194,479,842,7/28/2026,High,14,Monsoon,Marketplace
+Uttarakhand,Nettle based product,Chamoli,Bamboo Craft,Food Processing,Bamboo,Medium,11.9,104,685,1060,7/28/2026,High,18,Monsoon,Craft Study
+Uttarakhand,Himalyan Honey,Champawat,Pottery,Agriculture,Cotton,Large,19.9,349,1233,2662,7/29/2026,Medium,7,Monsoon,Government
+Uttarakhand,Bakery,Dehradun,Metal Craft,Food Processing,Wood,Small,4.5,145,365,666,7/29/2026,Medium,11,Monsoon,Artisan Survey
+Uttarakhand,Jaggery,Haridwar,Leather Craft,Food Processing,Bamboo,Medium,5,114,412,871,7/30/2026,Low,19,Monsoon,Marketplace
+Uttarakhand, Aipan Products,Nainital,Stone Craft,Handicraft,Bamboo,Small,2.7,92,296,470,7/30/2026,Medium,17,Monsoon,Craft Study
+Uttarakhand,Herbal Products,Pauri Garhwal,Natural Fibre Craft,Agriculture,Cotton,Medium,9.4,188,692,949,7/31/2026,Medium,11,Monsoon,Government
+Uttarakhand,Woollen Product,Pithoragarh,Lacquer Craft,Handloom,Cotton,Medium,7.7,214,673,1352,7/31/2026,Medium,14,Monsoon,Artisan Survey
+Uttarakhand,Wood crafts/Temple imitiation,Rudraprayag,Handloom Craft,Handicraft,Wood,Medium,11.5,192,911,1774,08-01-2026,Medium,20,Monsoon,Marketplace
+Uttarakhand,Natural fibre,Tehri Garhwal,Wood Craft,Textile,Metal,Medium,10.4,269,807,1464,08-01-2026,Medium,16,Monsoon,Marketplace
+Uttarakhand,Moonj Grass product,Udham Singh Nagar,Textile Craft,Handicraft,Natural Fibre,Small,3.8,122,463,946,08-02-2026,Medium,9,Monsoon,Marketplace
+Uttarakhand,Red Rice,Uttarkashi,Bamboo Craft,Agriculture,Metal,Medium,10.2,271,795,1641,08-02-2026,High,14,Monsoon,Marketplace
+West Bengal,Wooden Furniture,Alipurduar,Pottery,Handicraft,Clay,Medium,11.8,117,697,1289,08-03-2026,Medium,7,Monsoon,Marketplace
+West Bengal,Plywood & Allied Products,Alipurduar,Metal Craft,Manufacturing,Bamboo,Medium,8.2,111,723,1570,08-03-2026,Medium,19,Monsoon,Government
+West Bengal,Steel Furniture,Alipurduar,Leather Craft,Manufacturing,Bamboo,Small,4.6,101,440,863,08-04-2026,High,2,Monsoon,Marketplace
+West Bengal, Terracotta Craft,Bankura,Stone Craft,Handicraft,Wood,Medium,11.4,191,794,1529,08-04-2026,High,5,Monsoon,Artisan Survey
+West Bengal,Bengal Dokra,Bankura,Natural Fibre Craft,Handicraft,Metal,Medium,6.7,264,753,1248,08-05-2026,High,7,Monsoon,Marketplace
+West Bengal,Baluchari ,Bankura,Lacquer Craft,Handloom,Clay,Small,5.5,61,452,611,08-05-2026,Medium,5,Monsoon,Government
+West Bengal,Santiniketan Leather goods,Birbhum,Handloom Craft,Handicraft,Wood,Small,2.4,110,284,442,08-06-2026,Medium,12,Monsoon,Marketplace
+West Bengal,Nakshi Kantha,Birbhum,Wood Craft,Handloom,Bamboo,Medium,9.5,127,789,1577,08-06-2026,High,15,Monsoon,Marketplace
+West Bengal,Sital pati & its products,Cooch Behar,Textile Craft,Handicraft,Cotton,Medium,10.5,249,945,1846,08-07-2026,Medium,18,Monsoon,Artisan Survey
+West Bengal,Mekhla dress materials,Cooch Behar,Bamboo Craft,Handloom,Cotton,Small,4.5,153,421,687,08-07-2026,Medium,11,Monsoon,Craft Study
+West Bengal,Wooden Mask & Wall Hanging,Dakshin Dinajpur,Pottery,Handicraft,Metal,Large,16.9,483,1482,2789,08-07-2026,High,13,Monsoon,Marketplace
+West Bengal,Bamboo Craft,Dakshin Dinajpur,Metal Craft,Handicraft,Clay,Medium,9.3,106,630,955,08-08-2026,Low,12,Monsoon,Artisan Survey
+West Bengal,Darjeeling Tea,Darjeeling,Leather Craft,Agriculture,Metal,Medium,6.1,311,575,905,08-08-2026,High,1,Monsoon,Government
+West Bengal,Orange,Darjeeling,Stone Craft,Agriculture,Metal,Medium,6.5,327,824,1776,08-09-2026,High,15,Monsoon,Craft Study
+West Bengal,Darjeeling Honey,Darjeeling,Natural Fibre Craft,Food Processing,Natural Fibre,Medium,6.9,152,596,1014,08-09-2026,Low,1,Monsoon,Government
+West Bengal,Dhaniakhali Saree,Hooghly,Lacquer Craft,Handloom,Leather,Medium,9.2,308,848,1321,08-10-2026,High,11,Monsoon,Marketplace
+West Bengal,Costume Jewellery,Hooghly,Handloom Craft,Handicraft,Metal,Large,16.2,576,1556,2745,08-10-2026,Medium,20,Monsoon,Government
+West Bengal,Chikan Embroidery,Hooghly,Wood Craft,Handloom,Natural Fibre,Medium,6.7,146,570,957,08-11-2026,High,16,Monsoon,Government
+West Bengal,Gems & Jewellery,Howrah,Textile Craft,Handicraft,Clay,Medium,11.2,85,647,1275,08-11-2026,High,11,Monsoon,Artisan Survey
+West Bengal,Engineering Goods,Howrah,Bamboo Craft,Manufacturing,Natural Fibre,Medium,7.6,134,736,1595,08-12-2026,High,7,Monsoon,Government
+West Bengal,Tea,Jalpaiguri,Pottery,Agriculture,Leather,Medium,8.1,292,832,1542,08-12-2026,Low,17,Monsoon,Government
+West Bengal,Cane Furniture,Jalpaiguri,Metal Craft,Manufacturing,Metal,Small,3.6,204,502,930,8/13/2026,High,18,Monsoon,Government
+West Bengal,Wood Carving,Jalpaiguri,Leather Craft,Handicraft,Natural Fibre,Medium,6.3,177,548,910,8/13/2026,High,8,Monsoon,Craft Study
+West Bengal,Sal leaf based products,Jhargram,Stone Craft,Handicraft,Clay,Medium,10.1,107,608,1113,8/14/2026,Medium,3,Monsoon,Artisan Survey
+West Bengal,Sabai grass-based handicraft,Jhargram,Natural Fibre Craft,Handicraft,Leather,Large,16.3,462,1146,1858,8/14/2026,Medium,12,Monsoon,Craft Study
+West Bengal,Orchid & Flowers,Kalimpong,Lacquer Craft,Agriculture,Cotton,Medium,5.1,248,556,751,8/15/2026,Low,13,Monsoon,Craft Study
+West Bengal,Large Cardamom,Kalimpong,Handloom Craft,Agriculture,Natural Fibre,Medium,11.7,141,693,1446,8/15/2026,High,19,Monsoon,Craft Study
+West Bengal,Leather goods,Kolkata,Wood Craft,Handicraft,Metal,Large,21.4,546,1855,3181,8/16/2026,Low,18,Monsoon,Marketplace
+West Bengal,Kids wear/ Readymade Garments,Kolkata,Textile Craft,Textile,Leather,Medium,10.1,238,984,1740,8/16/2026,Medium,5,Monsoon,Government
+West Bengal,Silk and Silk products,Malda,Bamboo Craft,Textile,Clay,Small,5.5,75,361,513,8/17/2026,High,6,Monsoon,Government
+West Bengal,Makhana,Malda,Pottery,Agriculture,Natural Fibre,Small,5.6,124,450,928,8/17/2026,High,20,Monsoon,Government
+West Bengal,Mango and its processed products,Malda,Metal Craft,Agriculture,Wood,Small,3.3,142,368,550,8/18/2026,High,7,Monsoon,Artisan Survey
+West Bengal,Murshidabad Silk Saree/Scarf,Murshidabad,Leather Craft,Handloom,Wood,Small,4.4,145,375,637,8/18/2026,Medium,10,Monsoon,Government
+West Bengal,Mango and its processed products,Murshidabad,Stone Craft,Agriculture,Clay,Medium,9.3,99,800,1651,8/19/2026,Low,7,Monsoon,Government
+West Bengal,"Tangail, Jamdani Saree & Shantipore Saree",Nadia,Natural Fibre Craft,Handloom,Leather,Medium,6.9,319,708,1231,8/19/2026,Medium,8,Monsoon,Artisan Survey
+West Bengal,Clay Doll,Nadia,Lacquer Craft,Handicraft,Leather,Medium,6.6,292,597,1278,8/20/2026,Low,12,Monsoon,Government
+West Bengal,Steel Furniture,North 24 Parganas,Handloom Craft,Manufacturing,Clay,Small,2.5,75,269,411,8/20/2026,High,6,Monsoon,Government
+West Bengal,Jute diversified products,North 24 Parganas,Wood Craft,Handicraft,Metal,Medium,9.6,261,992,1942,8/21/2026,Medium,9,Monsoon,Government
+West Bengal,Jewellery Box,North 24 Parganas,Textile Craft,Handicraft,Clay,Small,5.1,64,349,761,8/21/2026,Medium,8,Monsoon,Artisan Survey
+West Bengal,Refractory bricks & similar refractory ceramics,Paschim Bardhaman,Bamboo Craft,Manufacturing,Natural Fibre,Large,20.7,250,1550,2817,8/22/2026,Low,3,Monsoon,Government
+West Bengal,Bengal Patachitra,Paschim Medinipur  (West Medinipur),Pottery,Handicraft,Metal,Small,3.3,183,370,717,8/22/2026,Medium,16,Monsoon,Government
+West Bengal,Madur (Mat) & Mat products,Paschim Medinipur  (West Medinipur),Metal Craft,Handicraft,Bamboo,Medium,6.4,133,484,815,8/23/2026,High,18,Monsoon,Government
+West Bengal,Fabricated Steel Products,Paschim Medinipur  (West Medinipur),Leather Craft,Manufacturing,Natural Fibre,Small,3.8,120,403,801,8/23/2026,High,10,Monsoon,Artisan Survey
+West Bengal,Bengal Dokra,Purba Bardhaman,Stone Craft,Handicraft,Wood,Medium,8.8,211,607,1288,8/24/2026,Low,5,Monsoon,Government
+West Bengal,Rice Bran Oil & De-oiled Rice Bran,Purba Bardhaman,Natural Fibre Craft,Food Processing,Natural Fibre,Medium,11.4,133,587,1143,8/24/2026,Low,13,Monsoon,Government
+West Bengal,"Tangail, Jamdani Saree",Purba Bardhaman,Lacquer Craft,Handloom,Cotton,Medium,11.1,259,871,1869,8/25/2026,Medium,11,Monsoon,Craft Study
+West Bengal,Bardhaman Sitabhog - Mihidana,Purba Bardhaman,Handloom Craft,Food Processing,Bamboo,Small,5.7,73,505,934,8/25/2026,Low,12,Monsoon,Craft Study
+West Bengal,Processed cashew nuts,Purba Medinipur (East Medinipur),Wood Craft,Food Processing,Leather,Large,21.9,455,1507,2774,8/26/2026,High,12,Monsoon,Government
+West Bengal,Bengal Patachitra,Purba Medinipur (East Medinipur),Textile Craft,Handicraft,Leather,Medium,11.8,320,857,1379,8/26/2026,Medium,15,Monsoon,Government
+West Bengal,Human Hair (washed),Purba Medinipur (East Medinipur),Bamboo Craft,Others,Natural Fibre,Medium,8.3,131,742,1449,8/27/2026,Low,1,Monsoon,Government
+West Bengal,Marine Products,Purba Medinipur (East Medinipur),Pottery,Marine,Leather,Large,10.7,384,1042,2188,8/27/2026,High,2,Monsoon,Artisan Survey
+West Bengal,Lac & Lac Products,Purulia,Metal Craft,Handicraft,Metal,Large,11.2,412,1235,2346,8/28/2026,Medium,2,Monsoon,Government
+West Bengal,Purulia Chau Mask,Purulia,Leather Craft,Handicraft,Bamboo,Small,3.6,86,379,587,8/28/2026,Medium,4,Monsoon,Craft Study
+West Bengal,Leather Goods,South 24 Parganas,Stone Craft,Handicraft,Wood,Small,3,143,416,754,8/29/2026,Medium,20,Monsoon,Artisan Survey
+West Bengal,Marine Products,South 24 Parganas,Natural Fibre Craft,Marine,Wood,Small,2.7,113,303,604,8/29/2026,Low,15,Monsoon,Marketplace
+West Bengal,Sundarban Honey,South 24 Parganas,Lacquer Craft,Agriculture,Bamboo,Small,5.8,75,367,788,8/30/2026,Medium,14,Monsoon,Government
+West Bengal,Tulai Panji Rice (Aromatic Rice),Uttar Dinajpur (North Dinajpur),Handloom Craft,Agriculture,Wood,Medium,6.4,189,640,949,8/30/2026,High,14,Monsoon,Craft Study
+West Bengal,Jute diversified products,Uttar Dinajpur (North Dinajpur),Wood Craft,Handicraft,Clay,Large,23.4,149,1620,2363,8/31/2026,High,1,Monsoon,Artisan Survey

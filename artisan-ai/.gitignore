@@ -1,0 +1,17 @@
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+storage/*
+!storage/.gitkeep
+.u2net/
+.cache/
+*.onnx
+*.pth
+*.bin
+.idea/
+.vscode/
+
+

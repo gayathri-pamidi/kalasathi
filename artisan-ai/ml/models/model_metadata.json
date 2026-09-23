@@ -1,0 +1,63 @@
+{
+  "model_name": "XGBoost",
+  "target_column": "market_price",
+  "numerical_features": [
+    "labour_hours",
+    "material_cost",
+    "product_cost",
+    "quantity",
+    "year",
+    "month",
+    "day",
+    "day_of_week"
+  ],
+  "categorical_features": [
+    "state",
+    "category",
+    "sector",
+    "material",
+    "product_size",
+    "demand_level",
+    "season",
+    "source"
+  ],
+  "training_rows": 992,
+  "testing_rows": 249,
+  "training_date_range": "2025-01-01 to 2026-05-01",
+  "testing_date_range": "2026-05-01 to 2026-08-31",
+  "test_mae": 162.4893035888672,
+  "test_rmse": 209.47903442382812,
+  "test_r2": 0.9007958173751831,
+  "train_r2": 0.9865525960922241,
+  "training_timestamp": "2026-09-09T17:56:52.965763",
+  "all_models_evaluated": {
+    "Linear Regression": {
+      "train_mae": 148.33536890025292,
+      "test_mae": 165.08932442944544,
+      "test_rmse": 205.8056710939785,
+      "train_r2": 0.9193481757654975,
+      "test_r2": 0.9042445501814173
+    },
+    "Random Forest": {
+      "train_mae": 63.36203747705704,
+      "test_mae": 163.4107156902178,
+      "test_rmse": 209.812517288473,
+      "train_r2": 0.9850053741055982,
+      "test_r2": 0.9004797143590338
+    },
+    "Gradient Boosting": {
+      "train_mae": 59.324615137684454,
+      "test_mae": 167.47779206613325,
+      "test_rmse": 215.28629912444688,
+      "train_r2": 0.9887690716853118,
+      "test_r2": 0.8952192242910235
+    },
+    "XGBoost": {
+      "train_mae": 63.665977478027344,
+      "test_mae": 162.4893035888672,
+      "test_rmse": 209.47903442382812,
+      "train_r2": 0.9865525960922241,
+      "test_r2": 0.9007958173751831
+    }
+  }
+}
