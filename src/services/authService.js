@@ -554,6 +554,131 @@ class AuthService {
   }
 
   /**
+   * POST /api/artisan/b2b/connect
+   * Initiate connection request to a B2B buyer
+   */
+  async connectB2BBuyer(buyerId, productId = '') {
+    const token = this.getToken();
+    if (!token) throw new Error('No authentication token found.');
+
+    const response = await fetch(`${API_BASE_URL}/artisan/b2b/connect`, {
+      method: 'POST',
+      headers: {
+        'Authorization': `Bearer ${token}`,
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({ buyer_id: buyerId, product_id: productId })
+    });
+
+    const data = await response.json();
+    if (!response.ok) throw new Error(data.message || 'Failed to send connection request.');
+    return data;
+  }
+
+  /**
+   * GET /api/artisan/b2b/connections
+   * Get all active connections and statuses for logged-in artisan
+   */
+  async getB2BConnections() {
+    const token = this.getToken();
+    if (!token) throw new Error('No authentication token found.');
+
+    const response = await fetch(`${API_BASE_URL}/artisan/b2b/connections`, {
+      method: 'GET',
+      headers: {
+        'Authorization': `Bearer ${token}`,
+        'Content-Type': 'application/json'
+      }
+    });
+
+    const data = await response.json();
+    if (!response.ok) throw new Error(data.message || 'Failed to fetch B2B connections.');
+    return data;
+  }
+
+  /**
+   * GET /api/artisan/b2b/inquiries
+   */
+  async getB2BInquiries() {
+    const token = this.getToken();
+    if (!token) throw new Error('No authentication token found.');
+
+    const response = await fetch(`${API_BASE_URL}/artisan/b2b/inquiries`, {
+      method: 'GET',
+      headers: {
+        'Authorization': `Bearer ${token}`,
+        'Content-Type': 'application/json'
+      }
+    });
+
+    const data = await response.json();
+    if (!response.ok) throw new Error(data.message || 'Failed to fetch B2B inquiries.');
+    return data;
+  }
+
+  /**
+   * PUT /api/artisan/b2b/inquiries/:id/status
+   */
+  async updateB2BInquiryStatus(inquiryId, status) {
+    const token = this.getToken();
+    if (!token) throw new Error('No authentication token found.');
+
+    const response = await fetch(`${API_BASE_URL}/artisan/b2b/inquiries/${inquiryId}/status`, {
+      method: 'PUT',
+      headers: {
+        'Authorization': `Bearer ${token}`,
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({ status })
+    });
+
+    const data = await response.json();
+    if (!response.ok) throw new Error(data.message || 'Failed to update inquiry status.');
+    return data;
+  }
+
+  /**
+   * GET /api/artisan/b2b/orders
+   */
+  async getB2BOrders() {
+    const token = this.getToken();
+    if (!token) throw new Error('No authentication token found.');
+
+    const response = await fetch(`${API_BASE_URL}/artisan/b2b/orders`, {
+      method: 'GET',
+      headers: {
+        'Authorization': `Bearer ${token}`,
+        'Content-Type': 'application/json'
+      }
+    });
+
+    const data = await response.json();
+    if (!response.ok) throw new Error(data.message || 'Failed to fetch B2B orders.');
+    return data;
+  }
+
+  /**
+   * PUT /api/artisan/b2b/orders/:id/status
+   */
+  async updateB2BOrderStatus(orderId, status) {
+    const token = this.getToken();
+    if (!token) throw new Error('No authentication token found.');
+
+    const response = await fetch(`${API_BASE_URL}/artisan/b2b/orders/${orderId}/status`, {
+      method: 'PUT',
+      headers: {
+        'Authorization': `Bearer ${token}`,
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({ status })
+    });
+
+    const data = await response.json();
+    if (!response.ok) throw new Error(data.message || 'Failed to update order status.');
+    return data;
+  }
+
+  /**
    * Google Social Login — Real Top-Level Browser Navigation to OAuth Endpoint
    */
   loginWithSocial(provider) {

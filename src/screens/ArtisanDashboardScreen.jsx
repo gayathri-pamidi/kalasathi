@@ -3,6 +3,8 @@ import { useAuth } from '../context/AuthContext';
 import { useTranslation } from '../i18n';
 import { VirtualBusinessManager } from '../components/VirtualBusinessManager';
 import { B2BBuyerOpportunities } from '../components/B2BBuyerOpportunities';
+import { B2BInquiries } from '../components/B2BInquiries';
+import { B2BOrders } from '../components/B2BOrders';
 import { enhanceImage, generateCatalog, predictPrice, analyzeImage } from '../services/imageAIService';
 import { authService } from '../services/authService';
 import { 
@@ -118,6 +120,11 @@ export const ArtisanDashboardScreen = () => {
   // Catalog Products State
   const [products, setProducts] = useState([]);
   const [isLoadingProducts, setIsLoadingProducts] = useState(false);
+  const [bmRefreshKey, setBmRefreshKey] = useState(0);
+
+  const handleOrderCompleted = () => {
+    setBmRefreshKey(prev => prev + 1);
+  };
 
   // ── Edit Product State ──────────────────────────────────────────────────
   // editTarget: the full product object being edited (null = modal closed)
@@ -716,11 +723,17 @@ const compressImageForPayload = (blobOrFile, maxWidth = 1000, maxHeight = 1000, 
           </button>
         </div>
 
-        {/* Virtual Business Manager Section */}
-        <VirtualBusinessManager />
-
         {/* B2B Buyer Opportunities Section */}
         <B2BBuyerOpportunities showToast={showToast} />
+
+        {/* B2B Inquiries Section */}
+        <B2BInquiries showToast={showToast} />
+
+        {/* B2B Orders Section */}
+        <B2BOrders showToast={showToast} onOrderCompleted={handleOrderCompleted} />
+
+        {/* Virtual Business Manager Section */}
+        <VirtualBusinessManager key={bmRefreshKey} />
 
         {/* Product Catalog Section — ownership-filtered: only current artisan's products */}
         <div className="space-y-3 pt-2">

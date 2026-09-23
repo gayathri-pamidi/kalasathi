@@ -373,7 +373,12 @@ export const createProduct = async (req, res) => {
       });
     }
 
-    const { title, description, category, price, stock, images } = req.body;
+    const {
+      title, description, category, price, stock, images,
+      state, district, sector, material, product_size,
+      labour_hours, material_cost, product_cost, demand_level,
+      season, source, image_source_type, dominant_colors, visual_features
+    } = req.body;
 
     if (!title || !title.trim()) {
       console.warn('[Create Product Validation Error] Missing title');
@@ -417,7 +422,21 @@ export const createProduct = async (req, res) => {
       stock: numericStock,
       images: processedImages,
       status: 'active',
-      created_at: new Date()
+      created_at: new Date(),
+      state: state || '',
+      district: district || '',
+      sector: sector || '',
+      material: material || '',
+      product_size: product_size || '',
+      labour_hours: labour_hours ? Number(labour_hours) : 0,
+      material_cost: material_cost ? Number(material_cost) : 0,
+      product_cost: product_cost ? Number(product_cost) : 0,
+      demand_level: demand_level || '',
+      season: season || '',
+      source: source || '',
+      image_source_type: image_source_type || '',
+      dominant_colors: Array.isArray(dominant_colors) ? dominant_colors : [],
+      visual_features: Array.isArray(visual_features) ? visual_features : []
     };
 
     if (isMongoConnected) {
@@ -743,6 +762,353 @@ export const getB2BRecommendations = async (req, res) => {
       success: false,
       message: 'Failed to fetch B2B buyer recommendations',
       error: error.message
+    });
+  }
+};
+
+
+/**
+ * Controller: Get B2B Inquiries for Logged-In Artisan
+ * Endpoint: GET /api/artisan/b2b/inquiries
+ * Access: Protected (JWT)
+ */
+export const getB2BInquiries = async (req, res) => {
+  try {
+    const userId = getAuthUserId(req);
+
+    if (!userId) {
+      return res.status(401).json({
+        success: false,
+        message: 'Authentication required. User identity missing or invalid token.'
+      });
+    }
+
+    const b2bApiUrl = process.env.B2B_API_URL || 'http://localhost:5001';
+    const targetUrl = `${b2bApiUrl.replace(/\/+$/, '')}/api/b2b/inquiries/for-artisan`;
+
+    const b2bRes = await fetch(targetUrl, {
+      method: 'GET',
+      headers: {
+        'Accept': 'application/json',
+        'x-artisan-id': userId,
+        'x-service-api-key': process.env.B2B_SERVICE_API_KEY || 'kalasaathi_b2b_service_secret_key_2026'
+      }
+    });
+
+    if (!b2bRes.ok) {
+      console.warn(`[Get B2B Inquiries] B2B API returned status ${b2bRes.status}`);
+      return res.status(200).json({
+        success: true,
+        inquiries: []
+      });
+    }
+
+    const data = await b2bRes.json();
+    return res.status(200).json({
+      success: true,
+      inquiries: data.inquiries || []
+    });
+  } catch (error) {
+    console.error('[Get B2B Inquiries Error]', error);
+    return res.status(200).json({
+      success: true,
+      inquiries: []
+    });
+  }
+};
+
+/**
+ * Controller: Update B2B Inquiry Status
+ * Endpoint: PUT /api/artisan/b2b/inquiries/:id/status
+ * Access: Protected (JWT)
+ */
+export const updateB2BInquiryStatus = async (req, res) => {
+  try {
+    const userId = getAuthUserId(req);
+
+    if (!userId) {
+      return res.status(401).json({
+        success: false,
+        message: 'Authentication required. User identity missing or invalid token.'
+      });
+    }
+
+    const { id } = req.params;
+    const { status } = req.body;
+
+    if (!status || !['accepted', 'rejected', 'closed'].includes(status.toLowerCase())) {
+      return res.status(400).json({
+        success: false,
+        message: 'Invalid target status. Must be accepted, rejected, or closed.'
+      });
+    }
+
+    const b2bApiUrl = process.env.B2B_API_URL || 'http://localhost:5001';
+    const targetUrl = `${b2bApiUrl.replace(/\/+$/, '')}/api/b2b/inquiries/${id}/status`;
+
+    const b2bRes = await fetch(targetUrl, {
+      method: 'PUT',
+      headers: {
+        'Content-Type': 'application/json',
+        'Accept': 'application/json',
+        'x-artisan-id': userId,
+        'x-service-api-key': process.env.B2B_SERVICE_API_KEY || 'kalasaathi_b2b_service_secret_key_2026'
+      },
+      body: JSON.stringify({ status: status.toLowerCase(), artisan_id: userId })
+    });
+
+    const data = await b2bRes.json();
+    return res.status(b2bRes.status).json(data);
+  } catch (error) {
+    console.error('[Update B2B Inquiry Status Error]', error);
+    return res.status(500).json({
+      success: false,
+      message: 'Failed to update inquiry status',
+      error: error.message
+    });
+  }
+};
+
+/**
+ * Controller: Get B2B Orders for Logged-In Artisan
+ * Endpoint: GET /api/artisan/b2b/orders
+ * Access: Protected (JWT)
+ */
+export const getB2BOrders = async (req, res) => {
+  try {
+    const userId = getAuthUserId(req);
+
+    if (!userId) {
+      return res.status(401).json({
+        success: false,
+        message: 'Authentication required. User identity missing or invalid token.'
+      });
+    }
+
+    const b2bApiUrl = process.env.B2B_API_URL || 'http://localhost:5001';
+    const targetUrl = `${b2bApiUrl.replace(/\/+$/, '')}/api/b2b/orders/for-artisan`;
+
+    const b2bRes = await fetch(targetUrl, {
+      method: 'GET',
+      headers: {
+        'Accept': 'application/json',
+        'x-artisan-id': userId,
+        'x-service-api-key': process.env.B2B_SERVICE_API_KEY || 'kalasaathi_b2b_service_secret_key_2026'
+      }
+    });
+
+    if (!b2bRes.ok) {
+      console.warn(`[Get B2B Orders] B2B API returned status ${b2bRes.status}`);
+      return res.status(200).json({
+        success: true,
+        orders: []
+      });
+    }
+
+    const data = await b2bRes.json();
+    return res.status(200).json({
+      success: true,
+      orders: data.orders || []
+    });
+  } catch (error) {
+    console.error('[Get B2B Orders Error]', error);
+    return res.status(200).json({
+      success: true,
+      orders: []
+    });
+  }
+};
+
+/**
+ * Controller: Update B2B Order Status & Sync Completed Orders to Business Analytics
+ * Endpoint: PUT /api/artisan/b2b/orders/:id/status
+ * Access: Protected (JWT)
+ */
+export const updateB2BOrderStatus = async (req, res) => {
+  try {
+    const userId = getAuthUserId(req);
+
+    if (!userId) {
+      return res.status(401).json({
+        success: false,
+        message: 'Authentication required. User identity missing or invalid token.'
+      });
+    }
+
+    const { id } = req.params;
+    const { status } = req.body;
+
+    if (!status || !['accepted', 'rejected', 'completed', 'cancelled'].includes(status.toLowerCase())) {
+      return res.status(400).json({
+        success: false,
+        message: 'Invalid target status. Must be accepted, rejected, completed, or cancelled.'
+      });
+    }
+
+    const targetStatus = status.toLowerCase();
+    const b2bApiUrl = process.env.B2B_API_URL || 'http://localhost:5001';
+    const targetUrl = `${b2bApiUrl.replace(/\/+$/, '')}/api/b2b/orders/${id}/status`;
+
+    const b2bRes = await fetch(targetUrl, {
+      method: 'PUT',
+      headers: {
+        'Content-Type': 'application/json',
+        'Accept': 'application/json',
+        'x-artisan-id': userId,
+        'x-service-api-key': process.env.B2B_SERVICE_API_KEY || 'kalasaathi_b2b_service_secret_key_2026'
+      },
+      body: JSON.stringify({ status: targetStatus, artisan_id: userId })
+    });
+
+    const data = await b2bRes.json();
+
+    if (!b2bRes.ok || !data.success) {
+      return res.status(b2bRes.status).json(data);
+    }
+
+    const updatedOrder = data.order;
+
+    // Sync Completed B2B Orders into Main Artisan Backend MongoDB Order Collection & Deduct Inventory
+    if (targetStatus === 'completed' && updatedOrder) {
+      const isMongoConnected = mongoose.connection.readyState === 1;
+      if (isMongoConnected) {
+        const existingOrder = await Order.findOne({ order_id: updatedOrder.order_id });
+        if (!existingOrder) {
+          const qty = Number(updatedOrder.quantity) || 1;
+          const unitPrice = Number(updatedOrder.unit_price) || 0;
+          const totalAmt = Number(updatedOrder.total_amount) || (qty * unitPrice);
+
+          await Order.create({
+            order_id: updatedOrder.order_id,
+            user_id: userId,
+            product_id: updatedOrder.product_id || '',
+            product_title: updatedOrder.product_title || 'B2B Wholesale Craft Item',
+            quantity: qty,
+            unit_price: unitPrice,
+            total_amount: totalAmt,
+            status: 'completed',
+            order_date: updatedOrder.created_at ? new Date(updatedOrder.created_at) : new Date()
+          });
+
+          // Safe inventory reduction rule
+          if (updatedOrder.product_id) {
+            const product = await Product.findOne({ product_id: updatedOrder.product_id, user_id: userId });
+            if (product && typeof product.stock === 'number' && product.stock > 0) {
+              product.stock = Math.max(0, product.stock - qty);
+              await product.save();
+            }
+          }
+        }
+      }
+    }
+
+    return res.status(200).json(data);
+  } catch (error) {
+    console.error('[Update B2B Order Status Error]', error);
+    return res.status(500).json({
+      success: false,
+      message: 'Failed to update order status',
+      error: error.message
+    });
+  }
+};
+
+/**
+ * Controller: Initiate B2B Buyer Connection
+ * Endpoint: POST /api/artisan/b2b/connect
+ * Access: Protected (JWT)
+ */
+export const createB2BConnection = async (req, res) => {
+  try {
+    const userId = getAuthUserId(req);
+
+    if (!userId) {
+      return res.status(401).json({
+        success: false,
+        message: 'Authentication required. User identity missing or invalid token.'
+      });
+    }
+
+    const { buyer_id, product_id } = req.body;
+
+    if (!buyer_id || !buyer_id.trim()) {
+      return res.status(400).json({
+        success: false,
+        message: 'buyer_id is required'
+      });
+    }
+
+    const b2bApiUrl = process.env.B2B_API_URL || 'http://localhost:5001';
+    const targetUrl = `${b2bApiUrl.replace(/\/+$/, '')}/api/b2b/connections`;
+
+    const b2bRes = await fetch(targetUrl, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Accept': 'application/json',
+        'x-artisan-id': userId,
+        'x-service-api-key': process.env.B2B_SERVICE_API_KEY || 'kalasaathi_b2b_service_secret_key_2026'
+      },
+      body: JSON.stringify({ buyer_id, product_id, artisan_id: userId })
+    });
+
+    const data = await b2bRes.json();
+    return res.status(b2bRes.status).json(data);
+  } catch (error) {
+    console.error('[Create B2B Connection Error]', error);
+    return res.status(500).json({
+      success: false,
+      message: 'Failed to send connection request',
+      error: error.message
+    });
+  }
+};
+
+/**
+ * Controller: Get B2B Connections for Logged-In Artisan
+ * Endpoint: GET /api/artisan/b2b/connections
+ * Access: Protected (JWT)
+ */
+export const getB2BConnections = async (req, res) => {
+  try {
+    const userId = getAuthUserId(req);
+
+    if (!userId) {
+      return res.status(401).json({
+        success: false,
+        message: 'Authentication required. User identity missing or invalid token.'
+      });
+    }
+
+    const b2bApiUrl = process.env.B2B_API_URL || 'http://localhost:5001';
+    const targetUrl = `${b2bApiUrl.replace(/\/+$/, '')}/api/b2b/connections/for-artisan`;
+
+    const b2bRes = await fetch(targetUrl, {
+      method: 'GET',
+      headers: {
+        'Accept': 'application/json',
+        'x-artisan-id': userId,
+        'x-service-api-key': process.env.B2B_SERVICE_API_KEY || 'kalasaathi_b2b_service_secret_key_2026'
+      }
+    });
+
+    if (!b2bRes.ok) {
+      return res.status(200).json({
+        success: true,
+        connections: []
+      });
+    }
+
+    const data = await b2bRes.json();
+    return res.status(200).json({
+      success: true,
+      connections: data.connections || []
+    });
+  } catch (error) {
+    console.error('[Get B2B Connections Error]', error);
+    return res.status(200).json({
+      success: true,
+      connections: []
     });
   }
 };

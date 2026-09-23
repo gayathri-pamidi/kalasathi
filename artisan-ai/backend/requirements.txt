@@ -8,4 +8,9 @@ numpy
 rembg
 onnxruntime
 torch
-
+torchvision
+joblib
+cloudpickle
+pandas
+scikit-learn==1.6.1
+xgboost

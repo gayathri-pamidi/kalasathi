@@ -10,6 +10,7 @@ import {
   RefreshCw, 
   CheckCircle2, 
   MessageSquare,
+  Clock,
   X
 } from 'lucide-react';
 
@@ -29,13 +30,26 @@ export const B2BBuyerOpportunities = ({ showToast }) => {
     setError(null);
 
     try {
-      const res = await authService.getB2BRecommendations();
+      const [recRes, connRes] = await Promise.all([
+        authService.getB2BRecommendations(),
+        authService.getB2BConnections().catch(() => ({ connections: [] }))
+      ]);
 
-      if (res && res.success) {
-        setBuyers(res.buyers || []);
-        setCraftCategory(res.craft_category || null);
+      if (recRes && recRes.success) {
+        setBuyers(recRes.buyers || []);
+        setCraftCategory(recRes.craft_category || null);
       } else {
-        setError(res?.message || 'Buyer recommendations are temporarily unavailable.');
+        setError(recRes?.message || 'Buyer recommendations are temporarily unavailable.');
+      }
+
+      if (connRes && connRes.connections && Array.isArray(connRes.connections)) {
+        const cmap = {};
+        connRes.connections.forEach(c => {
+          if (c.buyer_id) {
+            cmap[c.buyer_id] = c.status || 'pending';
+          }
+        });
+        setConnectedMap(cmap);
       }
     } catch (err) {
       console.warn('[B2B Recommendations Error]', err.message);
@@ -49,15 +63,24 @@ export const B2BBuyerOpportunities = ({ showToast }) => {
     fetchRecommendations();
   }, []);
 
-  const handleConnect = (buyer) => {
+  const handleConnect = async (buyer) => {
     setConnectingId(buyer.buyer_id);
-    setTimeout(() => {
-      setConnectingId(null);
-      setConnectedMap(prev => ({ ...prev, [buyer.buyer_id]: true }));
-      if (showToast) {
-        showToast(`Connect request sent to ${buyer.company}!`, 'success');
+    try {
+      const res = await authService.connectB2BBuyer(buyer.buyer_id);
+      if (res && res.success) {
+        const status = res.connection?.status || 'pending';
+        setConnectedMap(prev => ({ ...prev, [buyer.buyer_id]: status }));
+        showToast?.(res.message || 'Connection request sent.', 'success');
+      } else {
+        showToast?.(res?.message || 'Failed to send connection request.', 'error');
       }
-    }, 600);
+    } catch (err) {
+      console.error('[B2B Connect Error]', err);
+      showToast?.(err.message || 'Failed to connect to buyer.', 'error');
+    } finally {
+      setActionLoadingId(null);
+      setConnectingId(null);
+    }
   };
 
   // 1. LOADING STATE
@@ -167,7 +190,9 @@ export const B2BBuyerOpportunities = ({ showToast }) => {
       {/* Grid of Recommended Buyers (Up to 5) */}
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
         {buyers.map((buyer) => {
-          const isConnected = connectedMap[buyer.buyer_id];
+          const connStatus = connectedMap[buyer.buyer_id];
+          const isAccepted = connStatus === 'accepted';
+          const isPending = connStatus === 'pending';
           const isConnecting = connectingId === buyer.buyer_id;
 
           return (
@@ -209,19 +234,26 @@ export const B2BBuyerOpportunities = ({ showToast }) => {
                 </button>
                 <button
                   onClick={() => handleConnect(buyer)}
-                  disabled={isConnected || isConnecting}
+                  disabled={isAccepted || isPending || isConnecting}
                   className={`flex-1 py-2 px-3 rounded-xl font-bold text-xs transition cursor-pointer flex items-center justify-center gap-1.5 shadow-xs ${
-                    isConnected
+                    isAccepted
                       ? 'bg-emerald-600 text-white cursor-default'
+                      : isPending
+                      ? 'bg-amber-50 text-amber-800 border border-amber-200/80 cursor-default'
                       : 'bg-terracotta-600 hover:bg-terracotta-700 text-white'
                   }`}
                 >
                   {isConnecting ? (
                     <Loader2 className="w-3.5 h-3.5 animate-spin" />
-                  ) : isConnected ? (
+                  ) : isAccepted ? (
                     <>
                       <CheckCircle2 className="w-3.5 h-3.5" />
                       Connected
+                    </>
+                  ) : isPending ? (
+                    <>
+                      <Clock className="w-3.5 h-3.5 text-amber-600" />
+                      Pending
                     </>
                   ) : (
                     <>

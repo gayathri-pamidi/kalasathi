@@ -47,6 +47,71 @@ const productSchema = new mongoose.Schema(
     created_at: {
       type: Date,
       default: Date.now
+    },
+    // Reference Dataset & Regional / Production Metadata
+    state: {
+      type: String,
+      default: ''
+    },
+    district: {
+      type: String,
+      default: ''
+    },
+    sector: {
+      type: String,
+      default: ''
+    },
+    material: {
+      type: String,
+      default: ''
+    },
+    product_size: {
+      type: String,
+      default: ''
+    },
+    labour_hours: {
+      type: Number,
+      default: 0
+    },
+    material_cost: {
+      type: Number,
+      default: 0
+    },
+    product_cost: {
+      type: Number,
+      default: 0
+    },
+    dataset_quantity: {
+      type: Number,
+      default: 0
+    },
+    dataset_date: {
+      type: Date,
+      default: null
+    },
+    demand_level: {
+      type: String,
+      default: ''
+    },
+    season: {
+      type: String,
+      default: ''
+    },
+    source: {
+      type: String,
+      default: ''
+    },
+    dominant_colors: {
+      type: [String],
+      default: []
+    },
+    visual_features: {
+      type: [String],
+      default: []
+    },
+    image_source_type: {
+      type: String,
+      default: ''
     }
   },
   { timestamps: false }
